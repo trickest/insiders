@@ -1,0 +1,15 @@
+<h1 align="center">Square</h1>
+
+```mermaid
+graph LR
+COMPANY_NAME{Square}
+COMPANY_NAME ---> U{Users} ---> UN[50]
+COMPANY_NAME ---> R{Repositories} ---> RN[977]
+COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> JavaScript
+ML --> Java
+ML --> Ruby
+ML --> Kotlin
+ML --> Objective-C
+```
