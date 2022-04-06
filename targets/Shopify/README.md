@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Shopify}
-COMPANY_NAME ---> U{Users} ---> UN[233]
-COMPANY_NAME ---> R{Repositories} ---> RN[5095]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[259]
+COMPANY_NAME ---> R{Repositories} ---> RN[5363]
+COMPANY_NAME ---> G{Gists} ---> GN[3875]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> Ruby
-ML --> Python
-ML --> Java
-ML --> HTML
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> Python[Python]
+ML --> Java[Java]
+ML --> HTML[HTML]
 ```

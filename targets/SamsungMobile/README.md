@@ -7,8 +7,8 @@ COMPANY_NAME ---> U{Users} ---> UN[1]
 COMPANY_NAME ---> R{Repositories} ---> RN[6]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python
-ML --> R
-ML --> Java
-ML --> C#
+ML --> Python[Python]
+ML --> R[R]
+ML --> Java[Java]
+ML --> C#[C#]
 ```

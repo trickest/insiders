@@ -5,11 +5,11 @@ graph LR
 COMPANY_NAME{Phished}
 COMPANY_NAME ---> U{Users} ---> UN[5]
 COMPANY_NAME ---> R{Repositories} ---> RN[29]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> G{Gists} ---> GN[19]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> R
-ML --> Swift
-ML --> Java
-ML --> CSS
+ML --> JavaScript[JavaScript]
+ML --> R[R]
+ML --> Swift[Swift]
+ML --> Java[Java]
+ML --> CSS[CSS]
 ```

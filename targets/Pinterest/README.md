@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Pinterest}
-COMPANY_NAME ---> U{Users} ---> UN[15]
-COMPANY_NAME ---> R{Repositories} ---> RN[180]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[219]
+COMPANY_NAME ---> G{Gists} ---> GN[124]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python
-ML --> JavaScript
-ML --> Erlang
-ML --> Elixir
-ML --> Objective-C
+ML --> Python[Python]
+ML --> JavaScript[JavaScript]
+ML --> Erlang[Erlang]
+ML --> Elixir[Elixir]
+ML --> Java[Java]
 ```

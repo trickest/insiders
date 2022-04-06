@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ProtonMail}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[303]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[155]
+COMPANY_NAME ---> G{Gists} ---> GN[47]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> PHP
-ML --> TypeScript
-ML --> Go
-ML --> Python
+ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Python[Python]
+ML --> C++[C++]
 ```

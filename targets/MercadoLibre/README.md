@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{MercadoLibre}
 COMPANY_NAME ---> U{Users} ---> UN[57]
-COMPANY_NAME ---> R{Repositories} ---> RN[984]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> R{Repositories} ---> RN[991]
+COMPANY_NAME ---> G{Gists} ---> GN[242]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> Java
-ML --> Python
-ML --> HTML
-ML --> Go
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> Python[Python]
+ML --> Go[Go]
 ```

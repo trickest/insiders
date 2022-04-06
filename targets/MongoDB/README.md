@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{MongoDB}
 COMPANY_NAME ---> U{Users} ---> UN[50]
-COMPANY_NAME ---> R{Repositories} ---> RN[1025]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> R{Repositories} ---> RN[1026]
+COMPANY_NAME ---> G{Gists} ---> GN[1157]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> Python
-ML --> TypeScript
-ML --> Go
-ML --> Java
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> TypeScript[TypeScript]
+ML --> Go[Go]
+ML --> Java[Java]
 ```
