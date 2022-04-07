@@ -38,13 +38,13 @@
             "language": "Go"
          },
          {
-            "url": "https://github.com/AndiBrunner/TCP-Proxy",
-            "ssh_url": "git@github.com:AndiBrunner/TCP-Proxy.git",
+            "url": "https://github.com/AndiBrunner/kibana-buildpack",
+            "ssh_url": "git@github.com:AndiBrunner/kibana-buildpack.git",
             "language": "Go"
          },
          {
-            "url": "https://github.com/AndiBrunner/kibana-buildpack",
-            "ssh_url": "git@github.com:AndiBrunner/kibana-buildpack.git",
+            "url": "https://github.com/AndiBrunner/TCP-Proxy",
+            "ssh_url": "git@github.com:AndiBrunner/TCP-Proxy.git",
             "language": "Go"
          }
       ]
@@ -128,14 +128,14 @@
             "language": "Go"
          },
          {
-            "url": "https://github.com/JamesClonk/c2cn_demo",
-            "ssh_url": "git@github.com:JamesClonk/c2cn_demo.git",
-            "language": "Go"
-         },
-         {
             "url": "https://github.com/JamesClonk/home_automation",
             "ssh_url": "git@github.com:JamesClonk/home_automation.git",
             "language": "Python"
+         },
+         {
+            "url": "https://github.com/JamesClonk/c2cn_demo",
+            "ssh_url": "git@github.com:JamesClonk/c2cn_demo.git",
+            "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/checklist",
@@ -218,6 +218,11 @@
             "language": "Go"
          },
          {
+            "url": "https://github.com/JamesClonk/concourse-workspace",
+            "ssh_url": "git@github.com:JamesClonk/concourse-workspace.git",
+            "language": ""
+         },
+         {
             "url": "https://github.com/JamesClonk/dashboard-rb",
             "ssh_url": "git@github.com:JamesClonk/dashboard-rb.git",
             "language": "HTML"
@@ -228,9 +233,9 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/JamesClonk/concourse-workspace",
-            "ssh_url": "git@github.com:JamesClonk/concourse-workspace.git",
-            "language": ""
+            "url": "https://github.com/JamesClonk/web-container",
+            "ssh_url": "git@github.com:JamesClonk/web-container.git",
+            "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/pgbackup",
@@ -238,19 +243,14 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/JamesClonk/web-container",
-            "ssh_url": "git@github.com:JamesClonk/web-container.git",
+            "url": "https://github.com/JamesClonk/s3-simple-resource",
+            "ssh_url": "git@github.com:JamesClonk/s3-simple-resource.git",
             "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/php-website-frontend",
             "ssh_url": "git@github.com:JamesClonk/php-website-frontend.git",
             "language": "PHP"
-         },
-         {
-            "url": "https://github.com/JamesClonk/s3-simple-resource",
-            "ssh_url": "git@github.com:JamesClonk/s3-simple-resource.git",
-            "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/asteroids",
@@ -263,14 +263,14 @@
             "language": "Go"
          },
          {
-            "url": "https://github.com/JamesClonk/go-todo",
-            "ssh_url": "git@github.com:JamesClonk/go-todo.git",
-            "language": "Go"
-         },
-         {
             "url": "https://github.com/JamesClonk/alarm-clock-arduino",
             "ssh_url": "git@github.com:JamesClonk/alarm-clock-arduino.git",
             "language": "Arduino"
+         },
+         {
+            "url": "https://github.com/JamesClonk/go-todo",
+            "ssh_url": "git@github.com:JamesClonk/go-todo.git",
+            "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/workout",
@@ -278,14 +278,14 @@
             "language": "Java"
          },
          {
-            "url": "https://github.com/JamesClonk/gopl",
-            "ssh_url": "git@github.com:JamesClonk/gopl.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/JamesClonk/docs-appcloud-apps",
             "ssh_url": "git@github.com:JamesClonk/docs-appcloud-apps.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/JamesClonk/gopl",
+            "ssh_url": "git@github.com:JamesClonk/gopl.git",
+            "language": ""
          },
          {
             "url": "https://github.com/JamesClonk/JamesClonk",
@@ -368,14 +368,9 @@
             "language": "Scala"
          },
          {
-            "url": "https://github.com/JamesClonk/proxy-demo",
-            "ssh_url": "git@github.com:JamesClonk/proxy-demo.git",
+            "url": "https://github.com/JamesClonk/feed-notifier",
+            "ssh_url": "git@github.com:JamesClonk/feed-notifier.git",
             "language": "Go"
-         },
-         {
-            "url": "https://github.com/JamesClonk/repo-mirrorer",
-            "ssh_url": "git@github.com:JamesClonk/repo-mirrorer.git",
-            "language": "Shell"
          },
          {
             "url": "https://github.com/JamesClonk/postgres-k8s",
@@ -383,19 +378,24 @@
             "language": "Makefile"
          },
          {
-            "url": "https://github.com/JamesClonk/feed-notifier",
-            "ssh_url": "git@github.com:JamesClonk/feed-notifier.git",
+            "url": "https://github.com/JamesClonk/repo-mirrorer",
+            "ssh_url": "git@github.com:JamesClonk/repo-mirrorer.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/JamesClonk/proxy-demo",
+            "ssh_url": "git@github.com:JamesClonk/proxy-demo.git",
+            "language": "Go"
+         },
+         {
+            "url": "https://github.com/JamesClonk/vcap",
+            "ssh_url": "git@github.com:JamesClonk/vcap.git",
             "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/jcio-nginx-master",
             "ssh_url": "git@github.com:JamesClonk/jcio-nginx-master.git",
             "language": "Shell"
-         },
-         {
-            "url": "https://github.com/JamesClonk/vcap",
-            "ssh_url": "git@github.com:JamesClonk/vcap.git",
-            "language": "Go"
          },
          {
             "url": "https://github.com/JamesClonk/jcio-nginx-slave",
@@ -630,111 +630,6 @@
       ]
    },
    {
-      "user": "https://github.com/Daniel-Gamez",
-      "repos": [
-         {
-            "url": "https://github.com/Daniel-Gamez/first-project",
-            "ssh_url": "git@github.com:Daniel-Gamez/first-project.git",
-            "language": "HTML"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/dariogeiser",
-      "repos": [
-         {
-            "url": "https://github.com/dariogeiser/passwort-safe",
-            "ssh_url": "git@github.com:dariogeiser/passwort-safe.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/dariogeiser/film-finder",
-            "ssh_url": "git@github.com:dariogeiser/film-finder.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/dariogeiser/punchclock-backend",
-            "ssh_url": "git@github.com:dariogeiser/punchclock-backend.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/dariogeiser/punchclock-frontend",
-            "ssh_url": "git@github.com:dariogeiser/punchclock-frontend.git",
-            "language": "TypeScript"
-         },
-         {
-            "url": "https://github.com/dariogeiser/multimedia-project",
-            "ssh_url": "git@github.com:dariogeiser/multimedia-project.git",
-            "language": "TypeScript"
-         },
-         {
-            "url": "https://github.com/dariogeiser/sudoku-generator",
-            "ssh_url": "git@github.com:dariogeiser/sudoku-generator.git",
-            "language": "TypeScript"
-         },
-         {
-            "url": "https://github.com/dariogeiser/yatzy",
-            "ssh_url": "git@github.com:dariogeiser/yatzy.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/dariogeiser/engineer-finder",
-            "ssh_url": "git@github.com:dariogeiser/engineer-finder.git",
-            "language": "TypeScript"
-         },
-         {
-            "url": "https://github.com/dariogeiser/donkey-plays",
-            "ssh_url": "git@github.com:dariogeiser/donkey-plays.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/dariogeiser/trunk-based-test",
-            "ssh_url": "git@github.com:dariogeiser/trunk-based-test.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/dariogeiser/regio",
-            "ssh_url": "git@github.com:dariogeiser/regio.git",
-            "language": "Java"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/dave-kramer",
-      "repos": [
-         {
-            "url": "https://github.com/dave-kramer/vignette",
-            "ssh_url": "git@github.com:dave-kramer/vignette.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/dave-kramer/heart-attack-analysis-prediction",
-            "ssh_url": "git@github.com:dave-kramer/heart-attack-analysis-prediction.git",
-            "language": "Jupyter Notebook"
-         },
-         {
-            "url": "https://github.com/dave-kramer/atlasboy",
-            "ssh_url": "git@github.com:dave-kramer/atlasboy.git",
-            "language": "Python"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/DavidSalzmann",
-      "repos": [
-         {
-            "url": "https://github.com/DavidSalzmann/Science-Friction---The-Story-Of-Ryan-Cardenas",
-            "ssh_url": "git@github.com:DavidSalzmann/Science-Friction---The-Story-Of-Ryan-Cardenas.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/DavidSalzmann/PracticeRepository",
-            "ssh_url": "git@github.com:DavidSalzmann/PracticeRepository.git",
-            "language": "C"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/denysvitali",
       "repos": [
          {
@@ -853,14 +748,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/denysvitali/sonos-web-rs",
-            "ssh_url": "git@github.com:denysvitali/sonos-web-rs.git",
-            "language": "CSS"
-         },
-         {
             "url": "https://github.com/denysvitali/vbox-proxy-server",
             "ssh_url": "git@github.com:denysvitali/vbox-proxy-server.git",
             "language": "Rust"
+         },
+         {
+            "url": "https://github.com/denysvitali/sonos-web-rs",
+            "ssh_url": "git@github.com:denysvitali/sonos-web-rs.git",
+            "language": "CSS"
          },
          {
             "url": "https://github.com/denysvitali/aur-firefox-dev-automaintainer",
@@ -983,13 +878,13 @@
             "language": ""
          },
          {
-            "url": "https://github.com/denysvitali/yoda1-scale",
-            "ssh_url": "git@github.com:denysvitali/yoda1-scale.git",
+            "url": "https://github.com/denysvitali/go-mobility",
+            "ssh_url": "git@github.com:denysvitali/go-mobility.git",
             "language": "Go"
          },
          {
-            "url": "https://github.com/denysvitali/go-mobility",
-            "ssh_url": "git@github.com:denysvitali/go-mobility.git",
+            "url": "https://github.com/denysvitali/yoda1-scale",
+            "ssh_url": "git@github.com:denysvitali/yoda1-scale.git",
             "language": "Go"
          },
          {
@@ -1113,14 +1008,14 @@
             "language": "Java"
          },
          {
-            "url": "https://github.com/denysvitali/tuna-gui",
-            "ssh_url": "git@github.com:denysvitali/tuna-gui.git",
-            "language": "C++"
-         },
-         {
             "url": "https://github.com/denysvitali/supsi-compeng-jupyter-notebooks",
             "ssh_url": "git@github.com:denysvitali/supsi-compeng-jupyter-notebooks.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/denysvitali/tuna-gui",
+            "ssh_url": "git@github.com:denysvitali/tuna-gui.git",
+            "language": "C++"
          },
          {
             "url": "https://github.com/denysvitali/docker-alpine-latex",
@@ -1133,14 +1028,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/denysvitali/docker-android-build-tools",
-            "ssh_url": "git@github.com:denysvitali/docker-android-build-tools.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/denysvitali/root-finding",
             "ssh_url": "git@github.com:denysvitali/root-finding.git",
             "language": "Crystal"
+         },
+         {
+            "url": "https://github.com/denysvitali/docker-android-build-tools",
+            "ssh_url": "git@github.com:denysvitali/docker-android-build-tools.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/denysvitali/docker-jenkins-android",
@@ -1148,9 +1043,9 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/denysvitali/emoji-flags",
-            "ssh_url": "git@github.com:denysvitali/emoji-flags.git",
-            "language": ""
+            "url": "https://github.com/denysvitali/docker-rspamd",
+            "ssh_url": "git@github.com:denysvitali/docker-rspamd.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/denysvitali/flatfox-rs",
@@ -1158,9 +1053,9 @@
             "language": "Rust"
          },
          {
-            "url": "https://github.com/denysvitali/docker-rspamd",
-            "ssh_url": "git@github.com:denysvitali/docker-rspamd.git",
-            "language": "Shell"
+            "url": "https://github.com/denysvitali/emoji-flags",
+            "ssh_url": "git@github.com:denysvitali/emoji-flags.git",
+            "language": ""
          },
          {
             "url": "https://github.com/denysvitali/conta-voti",
@@ -1203,14 +1098,14 @@
             "language": "Go"
          },
          {
-            "url": "https://github.com/denysvitali/docker-chasquid",
-            "ssh_url": "git@github.com:denysvitali/docker-chasquid.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/denysvitali/docker-rainloop",
             "ssh_url": "git@github.com:denysvitali/docker-rainloop.git",
             "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/denysvitali/docker-chasquid",
+            "ssh_url": "git@github.com:denysvitali/docker-chasquid.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/denysvitali/bbcr1-logger",
@@ -1228,16 +1123,6 @@
             "language": "Java"
          },
          {
-            "url": "https://github.com/denysvitali/dotfiles",
-            "ssh_url": "git@github.com:denysvitali/dotfiles.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/denysvitali/tsp-node-server",
-            "ssh_url": "git@github.com:denysvitali/tsp-node-server.git",
-            "language": "Go"
-         },
-         {
             "url": "https://github.com/denysvitali/docker-teleirc",
             "ssh_url": "git@github.com:denysvitali/docker-teleirc.git",
             "language": "JavaScript"
@@ -1246,6 +1131,16 @@
             "url": "https://github.com/denysvitali/docker-armv6l-grafana",
             "ssh_url": "git@github.com:denysvitali/docker-armv6l-grafana.git",
             "language": "Shell"
+         },
+         {
+            "url": "https://github.com/denysvitali/dotfiles",
+            "ssh_url": "git@github.com:denysvitali/dotfiles.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/denysvitali/tsp-node-server",
+            "ssh_url": "git@github.com:denysvitali/tsp-node-server.git",
+            "language": "Go"
          },
          {
             "url": "https://github.com/denysvitali/google-photos-downloader",
@@ -1298,13 +1193,13 @@
             "language": "Dockerfile"
          },
          {
-            "url": "https://github.com/denysvitali/firecracker-ctl",
-            "ssh_url": "git@github.com:denysvitali/firecracker-ctl.git",
+            "url": "https://github.com/denysvitali/lightctl",
+            "ssh_url": "git@github.com:denysvitali/lightctl.git",
             "language": "Go"
          },
          {
-            "url": "https://github.com/denysvitali/lightctl",
-            "ssh_url": "git@github.com:denysvitali/lightctl.git",
+            "url": "https://github.com/denysvitali/firecracker-ctl",
+            "ssh_url": "git@github.com:denysvitali/firecracker-ctl.git",
             "language": "Go"
          },
          {
@@ -1328,6 +1223,11 @@
             "language": "Go"
          },
          {
+            "url": "https://github.com/denysvitali/docker-inlinelatex",
+            "ssh_url": "git@github.com:denysvitali/docker-inlinelatex.git",
+            "language": "Shell"
+         },
+         {
             "url": "https://github.com/denysvitali/supsi-i2b-telsic-esp9",
             "ssh_url": "git@github.com:denysvitali/supsi-i2b-telsic-esp9.git",
             "language": "TeX"
@@ -1336,11 +1236,6 @@
             "url": "https://github.com/denysvitali/docker-build-container",
             "ssh_url": "git@github.com:denysvitali/docker-build-container.git",
             "language": ""
-         },
-         {
-            "url": "https://github.com/denysvitali/docker-inlinelatex",
-            "ssh_url": "git@github.com:denysvitali/docker-inlinelatex.git",
-            "language": "Shell"
          },
          {
             "url": "https://github.com/denysvitali/chasquid-alias",
@@ -1353,9 +1248,9 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/denysvitali/hello-gpg",
-            "ssh_url": "git@github.com:denysvitali/hello-gpg.git",
-            "language": ""
+            "url": "https://github.com/denysvitali/crystal-openfood",
+            "ssh_url": "git@github.com:denysvitali/crystal-openfood.git",
+            "language": "Crystal"
          },
          {
             "url": "https://github.com/denysvitali/docker-armv6l-prometheus",
@@ -1363,9 +1258,9 @@
             "language": ""
          },
          {
-            "url": "https://github.com/denysvitali/crystal-openfood",
-            "ssh_url": "git@github.com:denysvitali/crystal-openfood.git",
-            "language": "Crystal"
+            "url": "https://github.com/denysvitali/hello-gpg",
+            "ssh_url": "git@github.com:denysvitali/hello-gpg.git",
+            "language": ""
          },
          {
             "url": "https://github.com/denysvitali/mnml-watchface",
@@ -1393,14 +1288,14 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/denysvitali/mips-instruction-decoder",
-            "ssh_url": "git@github.com:denysvitali/mips-instruction-decoder.git",
-            "language": "Crystal"
-         },
-         {
             "url": "https://github.com/denysvitali/useful-aliases",
             "ssh_url": "git@github.com:denysvitali/useful-aliases.git",
             "language": "Shell"
+         },
+         {
+            "url": "https://github.com/denysvitali/mips-instruction-decoder",
+            "ssh_url": "git@github.com:denysvitali/mips-instruction-decoder.git",
+            "language": "Crystal"
          },
          {
             "url": "https://github.com/denysvitali/ramdisk-builder",
@@ -1550,26 +1445,6 @@
       ]
    },
    {
-      "user": "https://github.com/johannesflaschberger",
-      "repos": [
-         {
-            "url": "https://github.com/johannesflaschberger/TBZ-M300",
-            "ssh_url": "git@github.com:johannesflaschberger/TBZ-M300.git",
-            "language": "Shell"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/labinot",
-      "repos": [
-         {
-            "url": "https://github.com/labinot/mod4Q",
-            "ssh_url": "git@github.com:labinot/mod4Q.git",
-            "language": "Java"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/lupas",
       "repos": [
          {
@@ -1653,14 +1528,14 @@
             "language": "Vue"
          },
          {
-            "url": "https://github.com/lupas/moveTheCloud",
-            "ssh_url": "git@github.com:lupas/moveTheCloud.git",
-            "language": "Vue"
-         },
-         {
             "url": "https://github.com/lupas/fireback",
             "ssh_url": "git@github.com:lupas/fireback.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/lupas/moveTheCloud",
+            "ssh_url": "git@github.com:lupas/moveTheCloud.git",
+            "language": "Vue"
          },
          {
             "url": "https://github.com/lupas/FBM_delete-all-firebase-auth-users",
@@ -1695,21 +1570,6 @@
       ]
    },
    {
-      "user": "https://github.com/manuelmolero",
-      "repos": [
-         {
-            "url": "https://github.com/manuelmolero/mi-proyecto",
-            "ssh_url": "git@github.com:manuelmolero/mi-proyecto.git",
-            "language": "Hack"
-         },
-         {
-            "url": "https://github.com/manuelmolero/koans-ruby",
-            "ssh_url": "git@github.com:manuelmolero/koans-ruby.git",
-            "language": ""
-         }
-      ]
-   },
-   {
       "user": "https://github.com/marioiseli",
       "repos": [
          {
@@ -1723,40 +1583,6 @@
             "language": "C"
          }
       ]
-   },
-   {
-      "user": "https://github.com/MehmetCopur",
-      "repos": [
-         {
-            "url": "https://github.com/MehmetCopur/webtry",
-            "ssh_url": "git@github.com:MehmetCopur/webtry.git",
-            "language": ""
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/nik-nik",
-      "repos": [
-         {
-            "url": "https://github.com/nik-nik/try_git",
-            "ssh_url": "git@github.com:nik-nik/try_git.git",
-            "language": ""
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/patrickfrei",
-      "repos": [
-         {
-            "url": "https://github.com/patrickfrei/test_coding",
-            "ssh_url": "git@github.com:patrickfrei/test_coding.git",
-            "language": ""
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/Plange1",
-      "repos": []
    },
    {
       "user": "https://github.com/renelehmann",
@@ -1837,14 +1663,14 @@
             "language": "Elixir"
          },
          {
-            "url": "https://github.com/samu/elixir-indentation-parser",
-            "ssh_url": "git@github.com:samu/elixir-indentation-parser.git",
-            "language": "Elixir"
-         },
-         {
             "url": "https://github.com/samu/paper-chase-pgd",
             "ssh_url": "git@github.com:samu/paper-chase-pgd.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/samu/elixir-indentation-parser",
+            "ssh_url": "git@github.com:samu/elixir-indentation-parser.git",
+            "language": "Elixir"
          },
          {
             "url": "https://github.com/samu/coversheets",
@@ -1942,14 +1768,14 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/stefanhenseler/synax-blog",
-            "ssh_url": "git@github.com:stefanhenseler/synax-blog.git",
-            "language": "HTML"
-         },
-         {
             "url": "https://github.com/stefanhenseler/acs-engine-playground",
             "ssh_url": "git@github.com:stefanhenseler/acs-engine-playground.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/stefanhenseler/synax-blog",
+            "ssh_url": "git@github.com:stefanhenseler/synax-blog.git",
+            "language": "HTML"
          },
          {
             "url": "https://github.com/stefanhenseler/DeviceRecordManagement",
@@ -1982,14 +1808,14 @@
             "language": "Visual Basic"
          },
          {
-            "url": "https://github.com/stefanhenseler/Project-Atlas-Catalog",
-            "ssh_url": "git@github.com:stefanhenseler/Project-Atlas-Catalog.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/stefanhenseler/project-asgard-hugo",
             "ssh_url": "git@github.com:stefanhenseler/project-asgard-hugo.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/stefanhenseler/Project-Atlas-Catalog",
+            "ssh_url": "git@github.com:stefanhenseler/Project-Atlas-Catalog.git",
+            "language": ""
          },
          {
             "url": "https://github.com/stefanhenseler/BlackPearlProject",
@@ -2005,21 +1831,6 @@
             "url": "https://github.com/stefanhenseler/choco-helm",
             "ssh_url": "git@github.com:stefanhenseler/choco-helm.git",
             "language": "PowerShell"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/valentinajuric",
-      "repos": [
-         {
-            "url": "https://github.com/valentinajuric/msd20-juric-demo2",
-            "ssh_url": "git@github.com:valentinajuric/msd20-juric-demo2.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/valentinajuric/valentinajuric.github.io",
-            "ssh_url": "git@github.com:valentinajuric/valentinajuric.github.io.git",
-            "language": "HTML"
          }
       ]
    }

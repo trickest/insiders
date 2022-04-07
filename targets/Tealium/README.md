@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tealium}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
-COMPANY_NAME ---> G{Gists} ---> GN[37]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> G{Gists} ---> GN[42]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> HCL[HCL]
+ML --> Common_Lisp[Common Lisp]
 ```
