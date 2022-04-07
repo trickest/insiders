@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Issuu}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[111]
-COMPANY_NAME ---> G{Gists} ---> GN[117]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[102]
+COMPANY_NAME ---> G{Gists} ---> GN[123]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> TypeScript
-ML --> Java
-ML --> C++
-ML --> Racket
+ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Racket[Racket]
+ML --> Python[Python]
+ML --> OCaml[OCaml]
 ```

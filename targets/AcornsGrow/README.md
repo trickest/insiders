@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[4]
 COMPANY_NAME ---> R{Repositories} ---> RN[61]
 COMPANY_NAME ---> G{Gists} ---> GN[30]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby
-ML --> TypeScript
-ML --> JavaScript
-ML --> Java
-ML --> Shell
+ML --> Ruby[Ruby]
+ML --> TypeScript[TypeScript]
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> Shell[Shell]
 ```

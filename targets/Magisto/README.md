@@ -3,10 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Magisto}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python
-ML --> HTML
+ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
+ML --> HTML[HTML]
+ML --> Python[Python]
 ```

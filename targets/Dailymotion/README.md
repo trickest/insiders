@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Dailymotion}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[43]
-COMPANY_NAME ---> G{Gists} ---> GN[14]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[29]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> Python
-ML --> HTML
-ML --> Go
-ML --> SAS
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Go[Go]
+ML --> Python[Python]
+ML --> PHP[PHP]
 ```

@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[2]
 COMPANY_NAME ---> R{Repositories} ---> RN[159]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go
-ML --> Python
-ML --> Rust
-ML --> Shell
-ML --> C
+ML --> Go[Go]
+ML --> Python[Python]
+ML --> Rust[Rust]
+ML --> Shell[Shell]
+ML --> C[C]
 ```

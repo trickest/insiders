@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[2]
 COMPANY_NAME ---> R{Repositories} ---> RN[9]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Rust
-ML --> JavaScript
-ML --> Objective-C
-ML --> Java
-ML --> CSS
+ML --> Rust[Rust]
+ML --> JavaScript[JavaScript]
+ML --> Objective-C[Objective-C]
+ML --> Java[Java]
+ML --> CSS[CSS]
 ```

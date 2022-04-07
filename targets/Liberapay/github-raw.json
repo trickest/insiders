@@ -178,13 +178,13 @@
             "language": "GDScript"
          },
          {
-            "url": "https://github.com/Calinou/godot-settings-manager",
-            "ssh_url": "git@github.com:Calinou/godot-settings-manager.git",
+            "url": "https://github.com/Calinou/godot-multiple-resolutions",
+            "ssh_url": "git@github.com:Calinou/godot-multiple-resolutions.git",
             "language": "GDScript"
          },
          {
-            "url": "https://github.com/Calinou/godot-multiple-resolutions",
-            "ssh_url": "git@github.com:Calinou/godot-multiple-resolutions.git",
+            "url": "https://github.com/Calinou/godot-settings-manager",
+            "ssh_url": "git@github.com:Calinou/godot-settings-manager.git",
             "language": "GDScript"
          },
          {
@@ -393,14 +393,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/Calinou/mwc",
-            "ssh_url": "git@github.com:Calinou/mwc.git",
-            "language": "JavaScript"
-         },
-         {
             "url": "https://github.com/Calinou/godotengine.org",
             "ssh_url": "git@github.com:Calinou/godotengine.org.git",
             "language": "CSS"
+         },
+         {
+            "url": "https://github.com/Calinou/mwc",
+            "ssh_url": "git@github.com:Calinou/mwc.git",
+            "language": "JavaScript"
          },
          {
             "url": "https://github.com/Calinou/usercss-qt-dark",
@@ -413,14 +413,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/Calinou/godot-qa-api-generator",
-            "ssh_url": "git@github.com:Calinou/godot-qa-api-generator.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/Calinou/godot-2020-year-in-review",
             "ssh_url": "git@github.com:Calinou/godot-2020-year-in-review.git",
             "language": "GDScript"
+         },
+         {
+            "url": "https://github.com/Calinou/godot-qa-api-generator",
+            "ssh_url": "git@github.com:Calinou/godot-qa-api-generator.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/Calinou/sauerbraten-source-port",
@@ -568,19 +568,24 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/Calinou/godot-date-demo",
-            "ssh_url": "git@github.com:Calinou/godot-date-demo.git",
-            "language": ""
+            "url": "https://github.com/Calinou/godot-overscan-demo",
+            "ssh_url": "git@github.com:Calinou/godot-overscan-demo.git",
+            "language": "GDScript"
          },
          {
-            "url": "https://github.com/Calinou/org.zdoom.Raze",
-            "ssh_url": "git@github.com:Calinou/org.zdoom.Raze.git",
+            "url": "https://github.com/Calinou/godot-date-demo",
+            "ssh_url": "git@github.com:Calinou/godot-date-demo.git",
             "language": ""
          },
          {
             "url": "https://github.com/Calinou/godot-builds-legacy",
             "ssh_url": "git@github.com:Calinou/godot-builds-legacy.git",
             "language": "Batchfile"
+         },
+         {
+            "url": "https://github.com/Calinou/org.zdoom.Raze",
+            "ssh_url": "git@github.com:Calinou/org.zdoom.Raze.git",
+            "language": ""
          },
          {
             "url": "https://github.com/Calinou/if26-projet-android",
@@ -628,14 +633,14 @@
             "language": "PHP"
          },
          {
-            "url": "https://github.com/Calinou/carbone_mobs",
-            "ssh_url": "git@github.com:Calinou/carbone_mobs.git",
-            "language": "RPC"
-         },
-         {
             "url": "https://github.com/Calinou/nyan_tools",
             "ssh_url": "git@github.com:Calinou/nyan_tools.git",
             "language": "Lua"
+         },
+         {
+            "url": "https://github.com/Calinou/carbone_mobs",
+            "ssh_url": "git@github.com:Calinou/carbone_mobs.git",
+            "language": "RPC"
          },
          {
             "url": "https://github.com/Calinou/io.itch.calinou.Escape-Space",
@@ -703,11 +708,6 @@
             "language": "Lua"
          },
          {
-            "url": "https://github.com/Calinou/godot-overscan-demo",
-            "ssh_url": "git@github.com:Calinou/godot-overscan-demo.git",
-            "language": "GDScript"
-         },
-         {
             "url": "https://github.com/Calinou/philipk-textures",
             "ssh_url": "git@github.com:Calinou/philipk-textures.git",
             "language": ""
@@ -737,6 +737,16 @@
    {
       "user": "https://github.com/Changaco",
       "repos": [
+         {
+            "url": "https://github.com/Changaco/unicode-progress-bars",
+            "ssh_url": "git@github.com:Changaco/unicode-progress-bars.git",
+            "language": "HTML"
+         },
+         {
+            "url": "https://github.com/Changaco/version.py",
+            "ssh_url": "git@github.com:Changaco/version.py.git",
+            "language": "Python"
+         },
          {
             "url": "https://github.com/Changaco/python-libarchive-c",
             "ssh_url": "git@github.com:Changaco/python-libarchive-c.git",
@@ -803,14 +813,14 @@
             "language": "Python"
          },
          {
-            "url": "https://github.com/Changaco/opelections",
-            "ssh_url": "git@github.com:Changaco/opelections.git",
-            "language": "Haskell"
-         },
-         {
             "url": "https://github.com/Changaco/kate-highlightings",
             "ssh_url": "git@github.com:Changaco/kate-highlightings.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/Changaco/opelections",
+            "ssh_url": "git@github.com:Changaco/opelections.git",
+            "language": "Haskell"
          },
          {
             "url": "https://github.com/Changaco/misc-scripts",
@@ -823,11 +833,6 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/Changaco/live-contact.js",
-            "ssh_url": "git@github.com:Changaco/live-contact.js.git",
-            "language": "CoffeeScript"
-         },
-         {
             "url": "https://github.com/Changaco/haskell-classical-ciphers",
             "ssh_url": "git@github.com:Changaco/haskell-classical-ciphers.git",
             "language": "Haskell"
@@ -836,11 +841,6 @@
             "url": "https://github.com/Changaco/live-contact.js",
             "ssh_url": "git@github.com:Changaco/live-contact.js.git",
             "language": "CoffeeScript"
-         },
-         {
-            "url": "https://github.com/Changaco/haskell-classical-ciphers",
-            "ssh_url": "git@github.com:Changaco/haskell-classical-ciphers.git",
-            "language": "Haskell"
          }
       ]
    },

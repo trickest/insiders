@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{MakeMyTrip}
 COMPANY_NAME ---> U{Users} ---> UN[37]
-COMPANY_NAME ---> R{Repositories} ---> RN[476]
+COMPANY_NAME ---> R{Repositories} ---> RN[272]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> HTML
-ML --> Jupyter Notebook
-ML --> Ruby
-ML --> Python
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> Python[Python]
 ```

@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[4]
 COMPANY_NAME ---> R{Repositories} ---> RN[161]
 COMPANY_NAME ---> G{Gists} ---> GN[92]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python
-ML --> JavaScript
-ML --> Erlang
-ML --> C
-ML --> Java
+ML --> Python[Python]
+ML --> JavaScript[JavaScript]
+ML --> Erlang[Erlang]
+ML --> C[C]
+ML --> Java[Java]
 ```

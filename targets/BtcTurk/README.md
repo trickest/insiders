@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{BtcTurk}
-COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[130]
-COMPANY_NAME ---> G{Gists} ---> GN[22]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[59]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#
-ML --> Java
-ML --> Python
-ML --> C++
-ML --> JavaScript
+ML --> Java[Java]
+ML --> C++[C++]
+ML --> C#[C#]
+ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ```

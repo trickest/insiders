@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Flickr}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[83]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[89]
 COMPANY_NAME ---> G{Gists} ---> GN[75]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript
-ML --> Ruby
-ML --> ActionScript
-ML --> PHP
-ML --> HTML
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> ActionScript[ActionScript]
+ML --> PHP[PHP]
+ML --> Objective-C[Objective-C]
 ```

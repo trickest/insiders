@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bitwala}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[40]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> CoffeeScript
-ML --> CSS
-ML --> JavaScript
-ML --> PHP
-ML --> HTML
+ML --> JavaScript[JavaScript]
+ML --> CoffeeScript[CoffeeScript]
+ML --> CSS[CSS]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ```

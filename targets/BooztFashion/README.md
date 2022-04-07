@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[1]
 COMPANY_NAME ---> R{Repositories} ---> RN[26]
 COMPANY_NAME ---> G{Gists} ---> GN[21]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Puppet
-ML --> Shell
-ML --> Ruby
-ML --> HTML
-ML --> Pascal
+ML --> Puppet[Puppet]
+ML --> Shell[Shell]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> Pascal[Pascal]
 ```
