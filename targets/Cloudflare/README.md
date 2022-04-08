@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cloudflare}
-COMPANY_NAME ---> U{Users} ---> UN[88]
-COMPANY_NAME ---> R{Repositories} ---> RN[1859]
-COMPANY_NAME ---> G{Gists} ---> GN[1615]
+COMPANY_NAME ---> U{Users} ---> UN[64]
+COMPANY_NAME ---> R{Repositories} ---> RN[1722]
+COMPANY_NAME ---> G{Gists} ---> GN[1605]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]

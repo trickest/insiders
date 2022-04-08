@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bitaccess}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[42]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
 ML --> Java[Java]
 ML --> CSS[CSS]
-ML --> Python[Python]
+ML --> Vim_script[Vim script]
+ML --> Ruby[Ruby]
 ```

@@ -3,10 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Dokobit}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[14]
-COMPANY_NAME ---> G{Gists} ---> GN[21]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[40]
+COMPANY_NAME ---> G{Gists} ---> GN[163]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
 ML --> PHP[PHP]
+ML --> Haskell[Haskell]
+ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
 ```

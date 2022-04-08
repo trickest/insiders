@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Jfrog}
 COMPANY_NAME ---> U{Users} ---> UN[39]
-COMPANY_NAME ---> R{Repositories} ---> RN[347]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[270]
+COMPANY_NAME ---> G{Gists} ---> GN[39]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
 ML --> Go[Go]
+ML --> C++[C++]
 ML --> HTML[HTML]
 ```
