@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Nextcloud}
-COMPANY_NAME ---> U{Users} ---> UN[186]
-COMPANY_NAME ---> R{Repositories} ---> RN[3216]
-COMPANY_NAME ---> G{Gists} ---> GN[1398]
+COMPANY_NAME ---> U{Users} ---> UN[190]
+COMPANY_NAME ---> R{Repositories} ---> RN[3477]
+COMPANY_NAME ---> G{Gists} ---> GN[1399]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]

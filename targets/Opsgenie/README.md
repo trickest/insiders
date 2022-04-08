@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Opsgenie}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[35]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[44]
+COMPANY_NAME ---> G{Gists} ---> GN[31]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
+ML --> Swift[Swift]
 ML --> Java[Java]
-ML --> Shell[Shell]
 ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
+ML --> Shell[Shell]
 ```

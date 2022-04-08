@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Pinterest}
 COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[245]
+COMPANY_NAME ---> R{Repositories} ---> RN[271]
 COMPANY_NAME ---> G{Gists} ---> GN[124]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> Java[Java]
 ML --> Erlang[Erlang]
-ML --> Elixir[Elixir]
+ML --> HTML[HTML]
 ```
