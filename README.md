@@ -30,7 +30,7 @@ A [Trickest](https://trickest.com) workflow collects a list of targets, enumerat
 **Note**: The username generation process consists of multiple steps to maximize coverage, but this could also lead to a few false positives. We carefully designed the workflow (and continue to develop it) to ensure the results are as accurate as possible but please verify the validity of this data before taking action on it.
 
 ## Contribution
-All contributions/ideas/suggestions are welcome! If you want to add/edit a target/workflow, feel free to create a new ticket via [GitHub issues](https://github.com/trickest/inventory/issues), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
+All contributions/ideas/suggestions are welcome! If you want to add/edit a target/workflow, feel free to create a new ticket via [GitHub issues](https://github.com/trickest/insiders/issues), tweet at us [@trick3st](https://twitter.com/trick3st), or join the conversation on [Discord](https://discord.gg/7HZmFYTGcQ).
 
 ## Build your own workflows!
 We believe in the value of tinkering. Sign up for a demo on [trickest.com](https://trickest.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
