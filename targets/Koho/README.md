@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Koho}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[32]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[75]
+COMPANY_NAME ---> G{Gists} ---> GN[49]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Go[Go]
-ML --> R[R]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ML --> CSS[CSS]
+ML --> TypeScript[TypeScript]
 ```

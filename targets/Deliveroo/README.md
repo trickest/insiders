@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Deliveroo}
-COMPANY_NAME ---> U{Users} ---> UN[54]
-COMPANY_NAME ---> R{Repositories} ---> RN[573]
-COMPANY_NAME ---> G{Gists} ---> GN[455]
+COMPANY_NAME ---> U{Users} ---> UN[18]
+COMPANY_NAME ---> R{Repositories} ---> RN[412]
+COMPANY_NAME ---> G{Gists} ---> GN[407]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

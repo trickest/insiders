@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Algolia}
-COMPANY_NAME ---> U{Users} ---> UN[45]
-COMPANY_NAME ---> R{Repositories} ---> RN[638]
-COMPANY_NAME ---> G{Gists} ---> GN[395]
+COMPANY_NAME ---> U{Users} ---> UN[54]
+COMPANY_NAME ---> R{Repositories} ---> RN[668]
+COMPANY_NAME ---> G{Gists} ---> GN[392]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]

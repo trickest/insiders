@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{4chan}
 COMPANY_NAME ---> U{Users} ---> UN[31]
-COMPANY_NAME ---> R{Repositories} ---> RN[114]
-COMPANY_NAME ---> G{Gists} ---> GN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[109]
+COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
