@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{KeyBank}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[44]
-COMPANY_NAME ---> G{Gists} ---> GN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[110]
+COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Scala[Scala]
 ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
 ```
