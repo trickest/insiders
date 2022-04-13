@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Tyk}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[120]
-COMPANY_NAME ---> G{Gists} ---> GN[54]
+COMPANY_NAME ---> R{Repositories} ---> RN[78]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> Java[Java]
+ML --> Go[Go]
 ML --> C#[C#]
+ML --> HTML[HTML]
+ML --> Dart[Dart]
 ```

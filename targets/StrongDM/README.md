@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{StrongDM}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> U{Users} ---> UN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[43]
+COMPANY_NAME ---> G{Gists} ---> GN[28]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
-ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Vim_script[Vim script]
-ML --> TypeScript[TypeScript]
+ML --> Go[Go]
+ML --> Python[Python]
+ML --> Rust[Rust]
+ML --> Ruby[Ruby]
 ```

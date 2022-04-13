@@ -1,26 +1,121 @@
 [
    {
-      "user": "https://github.com/dburlakov",
+      "user": "https://github.com/vulnbe",
       "repos": [
          {
-            "url": "https://github.com/dburlakov/hse",
-            "ssh_url": "git@github.com:dburlakov/hse.git",
+            "url": "https://github.com/vulnbe/burpsuite-copy-as-xmlhttprequest",
+            "ssh_url": "git@github.com:vulnbe/burpsuite-copy-as-xmlhttprequest.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/vulnbe/github-osint",
+            "ssh_url": "git@github.com:vulnbe/github-osint.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/openvas-docker",
+            "ssh_url": "git@github.com:vulnbe/openvas-docker.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/bsimm",
+            "ssh_url": "git@github.com:vulnbe/bsimm.git",
             "language": ""
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/glebmorozov",
-      "repos": [
+         },
          {
-            "url": "https://github.com/glebmorozov/glebmorozov.github.io",
-            "ssh_url": "git@github.com:glebmorozov/glebmorozov.github.io.git",
+            "url": "https://github.com/vulnbe/poc-yaws-cgi-shell-injection",
+            "ssh_url": "git@github.com:vulnbe/poc-yaws-cgi-shell-injection.git",
+            "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/vulnbe/greenbone-source-edition-overlay",
+            "ssh_url": "git@github.com:vulnbe/greenbone-source-edition-overlay.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/vulnbe/elastalert-profiler",
+            "ssh_url": "git@github.com:vulnbe/elastalert-profiler.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/nodemcu-dht-prometheus",
+            "ssh_url": "git@github.com:vulnbe/nodemcu-dht-prometheus.git",
+            "language": "Lua"
+         },
+         {
+            "url": "https://github.com/vulnbe/codeql-javascript-unsafe-jquery-plugin",
+            "ssh_url": "git@github.com:vulnbe/codeql-javascript-unsafe-jquery-plugin.git",
+            "language": "CodeQL"
+         },
+         {
+            "url": "https://github.com/vulnbe/chrome-proxy-extension",
+            "ssh_url": "git@github.com:vulnbe/chrome-proxy-extension.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/vulnbe/netcat-docker",
+            "ssh_url": "git@github.com:vulnbe/netcat-docker.git",
+            "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/vulnbe/vulnbe.github.io",
+            "ssh_url": "git@github.com:vulnbe/vulnbe.github.io.git",
             "language": "HTML"
          },
          {
-            "url": "https://github.com/glebmorozov/DirtyJoe.github.io",
-            "ssh_url": "git@github.com:glebmorozov/DirtyJoe.github.io.git",
-            "language": "HTML"
+            "url": "https://github.com/vulnbe/poc-rebar3-helper",
+            "ssh_url": "git@github.com:vulnbe/poc-rebar3-helper.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/vulnbe/poc-yaws-dav-xxe",
+            "ssh_url": "git@github.com:vulnbe/poc-yaws-dav-xxe.git",
+            "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/vulnbe/aws-mfa-helper",
+            "ssh_url": "git@github.com:vulnbe/aws-mfa-helper.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/opendistro-kibana",
+            "ssh_url": "git@github.com:vulnbe/opendistro-kibana.git",
+            "language": "Makefile"
+         },
+         {
+            "url": "https://github.com/vulnbe/fakedns",
+            "ssh_url": "git@github.com:vulnbe/fakedns.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/homebrew-gnuradio",
+            "ssh_url": "git@github.com:vulnbe/homebrew-gnuradio.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/vulnbe/poc-rebar3",
+            "ssh_url": "git@github.com:vulnbe/poc-rebar3.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/vulnbe/harborsecv",
+            "ssh_url": "git@github.com:vulnbe/harborsecv.git",
+            "language": "Haskell"
+         },
+         {
+            "url": "https://github.com/vulnbe/aws-traffic-mirror-lambda",
+            "ssh_url": "git@github.com:vulnbe/aws-traffic-mirror-lambda.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vulnbe/aws-suricata-playground",
+            "ssh_url": "git@github.com:vulnbe/aws-suricata-playground.git",
+            "language": "HCL"
+         },
+         {
+            "url": "https://github.com/vulnbe/opendistro-elasticsearch",
+            "ssh_url": "git@github.com:vulnbe/opendistro-elasticsearch.git",
+            "language": "Makefile"
          }
       ]
    }

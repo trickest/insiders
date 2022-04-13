@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Viator}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[23]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[50]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> TSQL[TSQL]
-ML --> R[R]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> TSQL[TSQL]
 ML --> Java[Java]
-ML --> Python[Python]
+ML --> R[R]
 ```

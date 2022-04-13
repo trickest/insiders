@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{ScrapingHub}
 COMPANY_NAME ---> U{Users} ---> UN[45]
-COMPANY_NAME ---> R{Repositories} ---> RN[651]
-COMPANY_NAME ---> G{Gists} ---> GN[576]
+COMPANY_NAME ---> R{Repositories} ---> RN[581]
+COMPANY_NAME ---> G{Gists} ---> GN[527]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
 ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Go[Go]
 ```
