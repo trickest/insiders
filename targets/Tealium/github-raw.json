@@ -20,6 +20,46 @@
       ]
    },
    {
+      "user": "https://github.com/cmccluskey",
+      "repos": [
+         {
+            "url": "https://github.com/cmccluskey/hashicat-aws",
+            "ssh_url": "git@github.com:cmccluskey/hashicat-aws.git",
+            "language": "HCL"
+         },
+         {
+            "url": "https://github.com/cmccluskey/blah",
+            "ssh_url": "git@github.com:cmccluskey/blah.git",
+            "language": "HCL"
+         },
+         {
+            "url": "https://github.com/cmccluskey/misc",
+            "ssh_url": "git@github.com:cmccluskey/misc.git",
+            "language": "Python"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/davelucas",
+      "repos": [
+         {
+            "url": "https://github.com/davelucas/react-bowling-kata",
+            "ssh_url": "git@github.com:davelucas/react-bowling-kata.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/davelucas/drbg",
+            "ssh_url": "git@github.com:davelucas/drbg.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/davelucas/java-game-of-life",
+            "ssh_url": "git@github.com:davelucas/java-game-of-life.git",
+            "language": "Java"
+         }
+      ]
+   },
+   {
       "user": "https://github.com/ianhampton",
       "repos": [
          {
@@ -60,12 +100,222 @@
       ]
    },
    {
-      "user": "https://github.com/MikeAnderson",
+      "user": "https://github.com/kevindoran",
       "repos": [
          {
-            "url": "https://github.com/MikeAnderson/mongoDB-NoRM-sample-blog",
-            "ssh_url": "git@github.com:MikeAnderson/mongoDB-NoRM-sample-blog.git",
+            "url": "https://github.com/kevindoran/csb-bot",
+            "ssh_url": "git@github.com:kevindoran/csb-bot.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/kevindoran/rl",
+            "ssh_url": "git@github.com:kevindoran/rl.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/kevindoran/nzfiftax",
+            "ssh_url": "git@github.com:kevindoran/nzfiftax.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/kevindoran/auto-movie-rater",
+            "ssh_url": "git@github.com:kevindoran/auto-movie-rater.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/kevindoran/tron-bot",
+            "ssh_url": "git@github.com:kevindoran/tron-bot.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/kevindoran/anki_topology",
+            "ssh_url": "git@github.com:kevindoran/anki_topology.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/kevindoran/jsf-menu",
+            "ssh_url": "git@github.com:kevindoran/jsf-menu.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/kevindoran/color",
+            "ssh_url": "git@github.com:kevindoran/color.git",
+            "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/kevindoran/dip",
+            "ssh_url": "git@github.com:kevindoran/dip.git",
+            "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/kevindoran/math-animations",
+            "ssh_url": "git@github.com:kevindoran/math-animations.git",
+            "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/kevindoran/draw",
+            "ssh_url": "git@github.com:kevindoran/draw.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/kevindoran/remote_ml_startup",
+            "ssh_url": "git@github.com:kevindoran/remote_ml_startup.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/kevindoran/nn",
+            "ssh_url": "git@github.com:kevindoran/nn.git",
+            "language": "CMake"
+         },
+         {
+            "url": "https://github.com/kevindoran/kevindoran.github.io",
+            "ssh_url": "git@github.com:kevindoran/kevindoran.github.io.git",
+            "language": "HTML"
+         },
+         {
+            "url": "https://github.com/kevindoran/kohuhu",
+            "ssh_url": "git@github.com:kevindoran/kohuhu.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/kevindoran/discoverybox",
+            "ssh_url": "git@github.com:kevindoran/discoverybox.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/kevindoran/micronet",
+            "ssh_url": "git@github.com:kevindoran/micronet.git",
+            "language": "HTML"
+         },
+         {
+            "url": "https://github.com/kevindoran/lean",
+            "ssh_url": "git@github.com:kevindoran/lean.git",
+            "language": "Lean"
+         },
+         {
+            "url": "https://github.com/kevindoran/cmake_template",
+            "ssh_url": "git@github.com:kevindoran/cmake_template.git",
+            "language": "CMake"
+         },
+         {
+            "url": "https://github.com/kevindoran/hs_bot",
+            "ssh_url": "git@github.com:kevindoran/hs_bot.git",
+            "language": "C++"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/markvan",
+      "repos": [
+         {
+            "url": "https://github.com/markvan/rspec02-tree-sort-example",
+            "ssh_url": "git@github.com:markvan/rspec02-tree-sort-example.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/markvan/openURL",
+            "ssh_url": "git@github.com:markvan/openURL.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/markvan/markvan.github.io",
+            "ssh_url": "git@github.com:markvan/markvan.github.io.git",
+            "language": "CSS"
+         },
+         {
+            "url": "https://github.com/markvan/sgv-viewer",
+            "ssh_url": "git@github.com:markvan/sgv-viewer.git",
+            "language": "HTML"
+         },
+         {
+            "url": "https://github.com/markvan/angular-2-experiments",
+            "ssh_url": "git@github.com:markvan/angular-2-experiments.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/markvan/social-museum",
+            "ssh_url": "git@github.com:markvan/social-museum.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/markvan/angular-superheroes",
+            "ssh_url": "git@github.com:markvan/angular-superheroes.git",
+            "language": "TypeScript"
+         },
+         {
+            "url": "https://github.com/markvan/diy-test-framework",
+            "ssh_url": "git@github.com:markvan/diy-test-framework.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/markvan/first-junit",
+            "ssh_url": "git@github.com:markvan/first-junit.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/markvan/photo-renamer",
+            "ssh_url": "git@github.com:markvan/photo-renamer.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/markvan/lightweight-java-web-framework",
+            "ssh_url": "git@github.com:markvan/lightweight-java-web-framework.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/markvan/video-overlay",
+            "ssh_url": "git@github.com:markvan/video-overlay.git",
+            "language": "CSS"
+         },
+         {
+            "url": "https://github.com/markvan/job-finder",
+            "ssh_url": "git@github.com:markvan/job-finder.git",
+            "language": "HTML"
+         },
+         {
+            "url": "https://github.com/markvan/java-stack",
+            "ssh_url": "git@github.com:markvan/java-stack.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/markvan/express-superhero-server",
+            "ssh_url": "git@github.com:markvan/express-superhero-server.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/markvan/savethetrees",
+            "ssh_url": "git@github.com:markvan/savethetrees.git",
+            "language": "HTML"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/milsom",
+      "repos": [
+         {
+            "url": "https://github.com/milsom/koh-test",
+            "ssh_url": "git@github.com:milsom/koh-test.git",
+            "language": "PHP"
+         },
+         {
+            "url": "https://github.com/milsom/tampermonkey",
+            "ssh_url": "git@github.com:milsom/tampermonkey.git",
+            "language": ""
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/NicoleJay",
+      "repos": [
+         {
+            "url": "https://github.com/NicoleJay/course_compiling",
+            "ssh_url": "git@github.com:NicoleJay/course_compiling.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/NicoleJay/NicoleJay.github.io",
+            "ssh_url": "git@github.com:NicoleJay/NicoleJay.github.io.git",
+            "language": "HTML"
          }
       ]
    },
@@ -115,12 +365,92 @@
       ]
    },
    {
-      "user": "https://github.com/SimonTaylor",
+      "user": "https://github.com/thealrivera",
       "repos": [
          {
-            "url": "https://github.com/SimonTaylor/NHibernate.Caches.AppFabric",
-            "ssh_url": "git@github.com:SimonTaylor/NHibernate.Caches.AppFabric.git",
-            "language": "C#"
+            "url": "https://github.com/thealrivera/GSAP_UI",
+            "ssh_url": "git@github.com:thealrivera/GSAP_UI.git",
+            "language": "CSS"
+         },
+         {
+            "url": "https://github.com/thealrivera/tinder_meteor_react_clone",
+            "ssh_url": "git@github.com:thealrivera/tinder_meteor_react_clone.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/thealrivera/NBA_Store",
+            "ssh_url": "git@github.com:thealrivera/NBA_Store.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/thealrivera/blk",
+            "ssh_url": "git@github.com:thealrivera/blk.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/thealrivera/cityforks",
+            "ssh_url": "git@github.com:thealrivera/cityforks.git",
+            "language": "CSS"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/verasidarovich",
+      "repos": [
+         {
+            "url": "https://github.com/verasidarovich/java-k8s",
+            "ssh_url": "git@github.com:verasidarovich/java-k8s.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/bigdata",
+            "ssh_url": "git@github.com:verasidarovich/bigdata.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/ielts",
+            "ssh_url": "git@github.com:verasidarovich/ielts.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/verasidarovich/ramp-up",
+            "ssh_url": "git@github.com:verasidarovich/ramp-up.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/voblacka",
+            "ssh_url": "git@github.com:verasidarovich/voblacka.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/mongodb-examples",
+            "ssh_url": "git@github.com:verasidarovich/mongodb-examples.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/stanford-algorithms",
+            "ssh_url": "git@github.com:verasidarovich/stanford-algorithms.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/hibernate-examples",
+            "ssh_url": "git@github.com:verasidarovich/hibernate-examples.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/verasidarovich/mongodb-blog",
+            "ssh_url": "git@github.com:verasidarovich/mongodb-blog.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/princeton-algorithms",
+            "ssh_url": "git@github.com:verasidarovich/princeton-algorithms.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/verasidarovich/assessment",
+            "ssh_url": "git@github.com:verasidarovich/assessment.git",
+            "language": ""
          }
       ]
    }

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Trustpilot}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[79]
+COMPANY_NAME ---> R{Repositories} ---> RN[78]
 COMPANY_NAME ---> G{Gists} ---> GN[44]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
-ML --> Python[Python]
 ML --> Java[Java]
+ML --> Python[Python]
 ML --> C#[C#]
 ```

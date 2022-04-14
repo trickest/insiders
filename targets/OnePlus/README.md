@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{OnePlus}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[89]
-COMPANY_NAME ---> G{Gists} ---> GN[110]
+COMPANY_NAME ---> R{Repositories} ---> RN[198]
+COMPANY_NAME ---> G{Gists} ---> GN[142]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Swift[Swift]
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
 ML --> C++[C++]
 ```
