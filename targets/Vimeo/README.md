@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vimeo}
-COMPANY_NAME ---> U{Users} ---> UN[27]
-COMPANY_NAME ---> R{Repositories} ---> RN[534]
+COMPANY_NAME ---> U{Users} ---> UN[30]
+COMPANY_NAME ---> R{Repositories} ---> RN[532]
 COMPANY_NAME ---> G{Gists} ---> GN[538]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

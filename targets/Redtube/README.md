@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Redtube}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[81]
-COMPANY_NAME ---> G{Gists} ---> GN[33]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[30]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
+ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
-ML --> R[R]
+ML --> C[C]
+ML --> Python[Python]
 ```
