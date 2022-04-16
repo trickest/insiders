@@ -60,26 +60,6 @@
       ]
    },
    {
-      "user": "https://github.com/brozikcz",
-      "repos": [
-         {
-            "url": "https://github.com/brozikcz/script.android.addon.installer",
-            "ssh_url": "git@github.com:brozikcz/script.android.addon.installer.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/brozikcz/plugin.video.titulkomet.cz",
-            "ssh_url": "git@github.com:brozikcz/plugin.video.titulkomet.cz.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/brozikcz/plugin.video.sledovanitv",
-            "ssh_url": "git@github.com:brozikcz/plugin.video.sledovanitv.git",
-            "language": "Python"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/curusarn",
       "repos": [
          {
@@ -293,14 +273,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/curusarn/twitter-bot",
-            "ssh_url": "git@github.com:curusarn/twitter-bot.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/curusarn/go-shellwords-issue",
             "ssh_url": "git@github.com:curusarn/go-shellwords-issue.git",
             "language": "Go"
+         },
+         {
+            "url": "https://github.com/curusarn/twitter-bot",
+            "ssh_url": "git@github.com:curusarn/twitter-bot.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/curusarn/bunchofdicks.cz",
@@ -420,17 +400,12 @@
       ]
    },
    {
-      "user": "https://github.com/martinpetrus",
+      "user": "https://github.com/lukasbernat",
       "repos": [
          {
-            "url": "https://github.com/martinpetrus/1110",
-            "ssh_url": "git@github.com:martinpetrus/1110.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/martinpetrus/1101",
-            "ssh_url": "git@github.com:martinpetrus/1101.git",
-            "language": "C"
+            "url": "https://github.com/lukasbernat/autorotate-ecs-ami",
+            "ssh_url": "git@github.com:lukasbernat/autorotate-ecs-ami.git",
+            "language": "Python"
          }
       ]
    },
@@ -475,92 +450,67 @@
       ]
    },
    {
-      "user": "https://github.com/pulecp",
+      "user": "https://github.com/OndrejSodek",
       "repos": [
          {
-            "url": "https://github.com/pulecp/mp3-png-to-mp4-for-youtube",
-            "ssh_url": "git@github.com:pulecp/mp3-png-to-mp4-for-youtube.git",
+            "url": "https://github.com/OndrejSodek/cvut-progtest-script",
+            "ssh_url": "git@github.com:OndrejSodek/cvut-progtest-script.git",
             "language": "Shell"
-         },
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/RadekDobrovolny",
+      "repos": [
          {
-            "url": "https://github.com/pulecp/andel-prague-lunch-menu",
-            "ssh_url": "git@github.com:pulecp/andel-prague-lunch-menu.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/pulecp/ansible-inventory-puppetdb",
-            "ssh_url": "git@github.com:pulecp/ansible-inventory-puppetdb.git",
+            "url": "https://github.com/RadekDobrovolny/barcodeImages",
+            "ssh_url": "git@github.com:RadekDobrovolny/barcodeImages.git",
             "language": "Python"
          },
          {
-            "url": "https://github.com/pulecp/test",
-            "ssh_url": "git@github.com:pulecp/test.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/pulecp/remote-screenshot-windows",
-            "ssh_url": "git@github.com:pulecp/remote-screenshot-windows.git",
-            "language": "Visual Basic"
-         },
-         {
-            "url": "https://github.com/pulecp/dpkg-without-dependencies",
-            "ssh_url": "git@github.com:pulecp/dpkg-without-dependencies.git",
-            "language": "Ruby"
-         },
-         {
-            "url": "https://github.com/pulecp/puppet-windows-user",
-            "ssh_url": "git@github.com:pulecp/puppet-windows-user.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/pulecp/imapQuotaMassChecker",
-            "ssh_url": "git@github.com:pulecp/imapQuotaMassChecker.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/pulecp/ubuntu-postfix-cyrus",
-            "ssh_url": "git@github.com:pulecp/ubuntu-postfix-cyrus.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/pulecp/installfest2018",
-            "ssh_url": "git@github.com:pulecp/installfest2018.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/pulecp/installfest2019",
-            "ssh_url": "git@github.com:pulecp/installfest2019.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/pulecp/linuxdays2017",
-            "ssh_url": "git@github.com:pulecp/linuxdays2017.git",
+            "url": "https://github.com/RadekDobrovolny/mechanika-praha",
+            "ssh_url": "git@github.com:RadekDobrovolny/mechanika-praha.git",
             "language": "CSS"
          },
          {
-            "url": "https://github.com/pulecp/vagrant-pacemaker-ha-redis",
-            "ssh_url": "git@github.com:pulecp/vagrant-pacemaker-ha-redis.git",
+            "url": "https://github.com/RadekDobrovolny/mapa-suskupeni",
+            "ssh_url": "git@github.com:RadekDobrovolny/mapa-suskupeni.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/RadekDobrovolny/technokreativni-framework",
+            "ssh_url": "git@github.com:RadekDobrovolny/technokreativni-framework.git",
             "language": "Shell"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/simka",
+      "repos": [
+         {
+            "url": "https://github.com/simka/dotfiles",
+            "ssh_url": "git@github.com:simka/dotfiles.git",
+            "language": "Lua"
          },
          {
-            "url": "https://github.com/pulecp/nagios-mailman-moderator-approval",
-            "ssh_url": "git@github.com:pulecp/nagios-mailman-moderator-approval.git",
-            "language": "Shell"
+            "url": "https://github.com/simka/eslint-config",
+            "ssh_url": "git@github.com:simka/eslint-config.git",
+            "language": "JavaScript"
          },
          {
-            "url": "https://github.com/pulecp/nagios-plugin-check_otrs",
-            "ssh_url": "git@github.com:pulecp/nagios-plugin-check_otrs.git",
-            "language": "Perl"
+            "url": "https://github.com/simka/simka.dev",
+            "ssh_url": "git@github.com:simka/simka.dev.git",
+            "language": "TypeScript"
          },
          {
-            "url": "https://github.com/pulecp/virtualmaster-rescue-image",
-            "ssh_url": "git@github.com:pulecp/virtualmaster-rescue-image.git",
+            "url": "https://github.com/simka/simka",
+            "ssh_url": "git@github.com:simka/simka.git",
             "language": ""
          },
          {
-            "url": "https://github.com/pulecp/vagrant-puppetdb-setup",
-            "ssh_url": "git@github.com:pulecp/vagrant-puppetdb-setup.git",
-            "language": "Shell"
+            "url": "https://github.com/simka/ginkgo",
+            "ssh_url": "git@github.com:simka/ginkgo.git",
+            "language": "Go"
          }
       ]
    },

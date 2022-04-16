@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Rabobank}
-COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[111]
-COMPANY_NAME ---> G{Gists} ---> GN[48]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[114]
+COMPANY_NAME ---> G{Gists} ---> GN[41]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
-ML --> Swift[Swift]
 ML --> Ruby[Ruby]
-ML --> Java[Java]
 ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> C[C]
+ML --> Objective-C[Objective-C]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{RealSelf}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[34]
-COMPANY_NAME ---> G{Gists} ---> GN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
+COMPANY_NAME ---> G{Gists} ---> GN[11]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> Ruby[Ruby]
+ML --> Python[Python]
+ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
-ML --> HTML[HTML]
 ```
