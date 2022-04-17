@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zynga}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[26]
-COMPANY_NAME ---> G{Gists} ---> GN[17]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Go[Go]
-ML --> Scala[Scala]
+ML --> Objective-C[Objective-C]
 ```

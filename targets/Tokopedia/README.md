@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Tokopedia}
 COMPANY_NAME ---> U{Users} ---> UN[45]
-COMPANY_NAME ---> R{Repositories} ---> RN[840]
-COMPANY_NAME ---> G{Gists} ---> GN[555]
+COMPANY_NAME ---> R{Repositories} ---> RN[854]
+COMPANY_NAME ---> G{Gists} ---> GN[558]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Go[Go]
 ML --> Python[Python]
+ML --> Go[Go]
 ```

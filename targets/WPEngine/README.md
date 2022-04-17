@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{WPEngine}
-COMPANY_NAME ---> U{Users} ---> UN[106]
-COMPANY_NAME ---> R{Repositories} ---> RN[1150]
+COMPANY_NAME ---> U{Users} ---> UN[105]
+COMPANY_NAME ---> R{Repositories} ---> RN[1148]
 COMPANY_NAME ---> G{Gists} ---> GN[525]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
