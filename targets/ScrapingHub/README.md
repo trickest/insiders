@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ScrapingHub}
-COMPANY_NAME ---> U{Users} ---> UN[44]
-COMPANY_NAME ---> R{Repositories} ---> RN[573]
-COMPANY_NAME ---> G{Gists} ---> GN[528]
+COMPANY_NAME ---> U{Users} ---> UN[36]
+COMPANY_NAME ---> R{Repositories} ---> RN[505]
+COMPANY_NAME ---> G{Gists} ---> GN[517]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]

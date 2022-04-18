@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Priceline}
 COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[78]
-COMPANY_NAME ---> G{Gists} ---> GN[65]
+COMPANY_NAME ---> R{Repositories} ---> RN[167]
+COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> C#[C#]
+ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
 ML --> Ruby[Ruby]
-ML --> Clojure[Clojure]
-ML --> Java[Java]
-ML --> Python[Python]
 ```

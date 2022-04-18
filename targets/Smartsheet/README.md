@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Smartsheet}
-COMPANY_NAME ---> U{Users} ---> UN[23]
-COMPANY_NAME ---> R{Repositories} ---> RN[374]
-COMPANY_NAME ---> G{Gists} ---> GN[227]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[50]
+COMPANY_NAME ---> G{Gists} ---> GN[53]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> Python[Python]
+ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Swift[Swift]
+ML --> Java[Java]
 ML --> HTML[HTML]
 ```
