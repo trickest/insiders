@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Shopify}
 COMPANY_NAME ---> U{Users} ---> UN[234]
-COMPANY_NAME ---> R{Repositories} ---> RN[5176]
+COMPANY_NAME ---> R{Repositories} ---> RN[5177]
 COMPANY_NAME ---> G{Gists} ---> GN[3649]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

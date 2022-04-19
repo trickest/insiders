@@ -11,5 +11,5 @@ ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> Clojure[Clojure]
+ML --> Ruby[Ruby]
 ```

@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Spotify}
-COMPANY_NAME ---> U{Users} ---> UN[80]
-COMPANY_NAME ---> R{Repositories} ---> RN[1425]
-COMPANY_NAME ---> G{Gists} ---> GN[892]
+COMPANY_NAME ---> U{Users} ---> UN[94]
+COMPANY_NAME ---> R{Repositories} ---> RN[1484]
+COMPANY_NAME ---> G{Gists} ---> GN[895]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Trello}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[96]
-COMPANY_NAME ---> G{Gists} ---> GN[191]
+COMPANY_NAME ---> R{Repositories} ---> RN[79]
+COMPANY_NAME ---> G{Gists} ---> GN[115]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
-ML --> HTML[HTML]
+ML --> Python[Python]
 ML --> Shell[Shell]
 ML --> Java[Java]
 ```
