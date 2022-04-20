@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Maximum}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[155]
-COMPANY_NAME ---> G{Gists} ---> GN[91]
+COMPANY_NAME ---> R{Repositories} ---> RN[132]
+COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> Julia[Julia]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Elixir[Elixir]
+ML --> Julia[Julia]
 ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> Shell[Shell]
 ```
