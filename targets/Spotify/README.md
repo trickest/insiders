@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Spotify}
 COMPANY_NAME ---> U{Users} ---> UN[91]
-COMPANY_NAME ---> R{Repositories} ---> RN[1460]
-COMPANY_NAME ---> G{Gists} ---> GN[891]
+COMPANY_NAME ---> R{Repositories} ---> RN[1456]
+COMPANY_NAME ---> G{Gists} ---> GN[890]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

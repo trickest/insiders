@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Takealot}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[100]
-COMPANY_NAME ---> G{Gists} ---> GN[36]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[27]
+COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
+ML --> Shell[Shell]
+ML --> C[C]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
-ML --> PHP[PHP]
+ML --> Go[Go]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Redox}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[173]
-COMPANY_NAME ---> G{Gists} ---> GN[162]
+COMPANY_NAME ---> R{Repositories} ---> RN[88]
+COMPANY_NAME ---> G{Gists} ---> GN[20]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
 ML --> HTML[HTML]
 ML --> Java[Java]
+ML --> Python[Python]
 ```

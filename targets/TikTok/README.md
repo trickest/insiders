@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{TikTok}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[239]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[29]
 COMPANY_NAME ---> G{Gists} ---> GN[56]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Scala[Scala]
-ML --> Java[Java]
+ML --> C#[C#]
+ML --> ShaderLab[ShaderLab]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Verilog[Verilog]
 ML --> Ruby[Ruby]
-ML --> Python[Python]
 ```
