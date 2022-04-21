@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Coda}
 COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[63]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[47]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> Processing[Processing]
+ML --> C#[C#]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> PHP[PHP]
-ML --> Ruby[Ruby]
 ```

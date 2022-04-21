@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{Bluesnap}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
-ML --> SCSS[SCSS]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> C[C]
+ML --> CSS[CSS]
+ML --> SCSS[SCSS]
+ML --> R[R]
 ```

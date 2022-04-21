@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Airtable}
-COMPANY_NAME ---> U{Users} ---> UN[61]
-COMPANY_NAME ---> R{Repositories} ---> RN[826]
-COMPANY_NAME ---> G{Gists} ---> GN[386]
+COMPANY_NAME ---> U{Users} ---> UN[32]
+COMPANY_NAME ---> R{Repositories} ---> RN[520]
+COMPANY_NAME ---> G{Gists} ---> GN[299]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

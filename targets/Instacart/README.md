@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Instacart}
-COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[295]
-COMPANY_NAME ---> G{Gists} ---> GN[245]
+COMPANY_NAME ---> U{Users} ---> UN[47]
+COMPANY_NAME ---> R{Repositories} ---> RN[529]
+COMPANY_NAME ---> G{Gists} ---> GN[300]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> Ruby[Ruby]
-ML --> Go[Go]
 ML --> HTML[HTML]
+ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> Python[Python]
 ```
