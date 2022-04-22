@@ -8,8 +8,8 @@ COMPANY_NAME ---> R{Repositories} ---> RN[277]
 COMPANY_NAME ---> G{Gists} ---> GN[185]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
 ML --> Java[Java]
+ML --> Ruby[Ruby]
 ML --> HTML[HTML]
 ML --> Swift[Swift]
 ```
