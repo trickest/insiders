@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ExpressVPN}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[74]
-COMPANY_NAME ---> G{Gists} ---> GN[21]
+COMPANY_NAME ---> U{Users} ---> UN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[42]
+COMPANY_NAME ---> G{Gists} ---> GN[28]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> Shell[Shell]
-ML --> Go[Go]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> HTML[HTML]
 ```
