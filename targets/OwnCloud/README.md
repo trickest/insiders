@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{OwnCloud}
-COMPANY_NAME ---> U{Users} ---> UN[87]
-COMPANY_NAME ---> R{Repositories} ---> RN[1334]
+COMPANY_NAME ---> U{Users} ---> UN[90]
+COMPANY_NAME ---> R{Repositories} ---> RN[1351]
 COMPANY_NAME ---> G{Gists} ---> GN[902]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

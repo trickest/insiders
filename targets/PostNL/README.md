@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{PostNL}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[23]
-COMPANY_NAME ---> G{Gists} ---> GN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[22]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> TypeScript[TypeScript]
-ML --> Smalltalk[Smalltalk]
+ML --> Kotlin[Kotlin]
+ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ```
