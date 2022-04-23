@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{GitHub}
-COMPANY_NAME ---> U{Users} ---> UN[253]
-COMPANY_NAME ---> R{Repositories} ---> RN[8551]
-COMPANY_NAME ---> G{Gists} ---> GN[5930]
+COMPANY_NAME ---> U{Users} ---> UN[222]
+COMPANY_NAME ---> R{Repositories} ---> RN[7457]
+COMPANY_NAME ---> G{Gists} ---> GN[5005]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> Shell[Shell]
+ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
 ```

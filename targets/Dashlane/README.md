@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Dashlane}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[245]
-COMPANY_NAME ---> G{Gists} ---> GN[104]
+COMPANY_NAME ---> U{Users} ---> UN[25]
+COMPANY_NAME ---> R{Repositories} ---> RN[315]
+COMPANY_NAME ---> G{Gists} ---> GN[144]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Swift[Swift]
 ML --> TypeScript[TypeScript]
+ML --> Swift[Swift]
 ML --> Ruby[Ruby]
 ```

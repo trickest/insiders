@@ -158,14 +158,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/JayKickliter/gr-fosphor",
-            "ssh_url": "git@github.com:JayKickliter/gr-fosphor.git",
-            "language": "C"
-         },
-         {
             "url": "https://github.com/JayKickliter/streamconv",
             "ssh_url": "git@github.com:JayKickliter/streamconv.git",
             "language": "Rust"
+         },
+         {
+            "url": "https://github.com/JayKickliter/gr-fosphor",
+            "ssh_url": "git@github.com:JayKickliter/gr-fosphor.git",
+            "language": "C"
          },
          {
             "url": "https://github.com/JayKickliter/gh3",
@@ -173,14 +173,14 @@
             "language": "Erlang"
          },
          {
-            "url": "https://github.com/JayKickliter/cauterize-mode",
-            "ssh_url": "git@github.com:JayKickliter/cauterize-mode.git",
-            "language": "Emacs Lisp"
-         },
-         {
             "url": "https://github.com/JayKickliter/radio-rs",
             "ssh_url": "git@github.com:JayKickliter/radio-rs.git",
             "language": "Rust"
+         },
+         {
+            "url": "https://github.com/JayKickliter/cauterize-mode",
+            "ssh_url": "git@github.com:JayKickliter/cauterize-mode.git",
+            "language": "Emacs Lisp"
          },
          {
             "url": "https://github.com/JayKickliter/bst",
@@ -303,14 +303,14 @@
             "language": "Erlang"
          },
          {
-            "url": "https://github.com/Vagabond/logbench",
-            "ssh_url": "git@github.com:Vagabond/logbench.git",
-            "language": "Erlang"
-         },
-         {
             "url": "https://github.com/Vagabond/vagabond.github.com_old",
             "ssh_url": "git@github.com:Vagabond/vagabond.github.com_old.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/Vagabond/logbench",
+            "ssh_url": "git@github.com:Vagabond/logbench.git",
+            "language": "Erlang"
          },
          {
             "url": "https://github.com/Vagabond/bloom_router",
@@ -333,14 +333,14 @@
             "language": "Erlang"
          },
          {
-            "url": "https://github.com/Vagabond/x2x",
-            "ssh_url": "git@github.com:Vagabond/x2x.git",
-            "language": "C"
-         },
-         {
             "url": "https://github.com/Vagabond/lager_bunyan_formatter",
             "ssh_url": "git@github.com:Vagabond/lager_bunyan_formatter.git",
             "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/Vagabond/x2x",
+            "ssh_url": "git@github.com:Vagabond/x2x.git",
+            "language": "C"
          },
          {
             "url": "https://github.com/Vagabond/Helium-Demos",
@@ -370,12 +370,19 @@
       ]
    },
    {
-      "user": "https://github.com/adamshahbaz",
-      "repos": []
-   },
-   {
-      "user": "https://github.com/AijazHussain",
-      "repos": []
+      "user": "https://github.com/abuznego",
+      "repos": [
+         {
+            "url": "https://github.com/abuznego/cmps115-sproutlabs-testAuto-Alexa",
+            "ssh_url": "git@github.com:abuznego/cmps115-sproutlabs-testAuto-Alexa.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/abuznego/hello-world",
+            "ssh_url": "git@github.com:abuznego/hello-world.git",
+            "language": ""
+         }
+      ]
    },
    {
       "user": "https://github.com/allenan",
@@ -496,14 +503,14 @@
             "language": "CSS"
          },
          {
-            "url": "https://github.com/allenan/tumblr",
-            "ssh_url": "git@github.com:allenan/tumblr.git",
-            "language": "CSS"
-         },
-         {
             "url": "https://github.com/allenan/videopress",
             "ssh_url": "git@github.com:allenan/videopress.git",
             "language": "Go"
+         },
+         {
+            "url": "https://github.com/allenan/tumblr",
+            "ssh_url": "git@github.com:allenan/tumblr.git",
+            "language": "CSS"
          },
          {
             "url": "https://github.com/allenan/bnr-homepwner",
@@ -553,26 +560,6 @@
       ]
    },
    {
-      "user": "https://github.com/chrishull",
-      "repos": [
-         {
-            "url": "https://github.com/chrishull/github-eclipse",
-            "ssh_url": "git@github.com:chrishull/github-eclipse.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/chrishull/github-openstack",
-            "ssh_url": "git@github.com:chrishull/github-openstack.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/chrishull/github2",
-            "ssh_url": "git@github.com:chrishull/github2.git",
-            "language": "Assembly"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/cokes518",
       "repos": [
          {
@@ -583,161 +570,7 @@
       ]
    },
    {
-      "user": "https://github.com/evandiewald",
-      "repos": [
-         {
-            "url": "https://github.com/evandiewald/helium-taxable-mining-earnings",
-            "ssh_url": "git@github.com:evandiewald/helium-taxable-mining-earnings.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/LongHive",
-            "ssh_url": "git@github.com:evandiewald/LongHive.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/evandiewald/flow-ticket-transfer",
-            "ssh_url": "git@github.com:evandiewald/flow-ticket-transfer.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/evandiewald/rto-token",
-            "ssh_url": "git@github.com:evandiewald/rto-token.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-tax-tool-webpage",
-            "ssh_url": "git@github.com:evandiewald/helium-tax-tool-webpage.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium_gps",
-            "ssh_url": "git@github.com:evandiewald/helium_gps.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-weather-network",
-            "ssh_url": "git@github.com:evandiewald/helium-weather-network.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/cryptomingle",
-            "ssh_url": "git@github.com:evandiewald/cryptomingle.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/mongodb-google-auth",
-            "ssh_url": "git@github.com:evandiewald/mongodb-google-auth.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-arango-etl",
-            "ssh_url": "git@github.com:evandiewald/helium-arango-etl.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/nitro-enclave-tensorflow",
-            "ssh_url": "git@github.com:evandiewald/nitro-enclave-tensorflow.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/py-helium-console-client",
-            "ssh_url": "git@github.com:evandiewald/py-helium-console-client.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-arango-http",
-            "ssh_url": "git@github.com:evandiewald/helium-arango-http.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/etl-data-dumps",
-            "ssh_url": "git@github.com:evandiewald/etl-data-dumps.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-arango-etl-lite",
-            "ssh_url": "git@github.com:evandiewald/helium-arango-etl-lite.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/hotspot-filters",
-            "ssh_url": "git@github.com:evandiewald/hotspot-filters.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/am-blockchain-app",
-            "ssh_url": "git@github.com:evandiewald/am-blockchain-app.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-rocks-etl",
-            "ssh_url": "git@github.com:evandiewald/helium-rocks-etl.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/ticket-transfer-frontend",
-            "ssh_url": "git@github.com:evandiewald/ticket-transfer-frontend.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/evandiewald/additive-os",
-            "ssh_url": "git@github.com:evandiewald/additive-os.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-transaction-etl",
-            "ssh_url": "git@github.com:evandiewald/helium-transaction-etl.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/mse-matlab-scripts",
-            "ssh_url": "git@github.com:evandiewald/mse-matlab-scripts.git",
-            "language": "MATLAB"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-network-analysis",
-            "ssh_url": "git@github.com:evandiewald/helium-network-analysis.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-topography",
-            "ssh_url": "git@github.com:evandiewald/helium-topography.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/eosprint-data-scraper",
-            "ssh_url": "git@github.com:evandiewald/eosprint-data-scraper.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/etl-data-dumps-webpage",
-            "ssh_url": "git@github.com:evandiewald/etl-data-dumps-webpage.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/dbt-dewi-etl",
-            "ssh_url": "git@github.com:evandiewald/dbt-dewi-etl.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/evandiewald/h3-countries",
-            "ssh_url": "git@github.com:evandiewald/h3-countries.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/evandiewald/helium-arango-analysis",
-            "ssh_url": "git@github.com:evandiewald/helium-arango-analysis.git",
-            "language": "Python"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/HeHelium",
-      "repos": []
-   },
-   {
-      "user": "https://github.com/Heliumwagle",
       "repos": []
    },
    {
@@ -863,14 +696,14 @@
             "language": "Makefile"
          },
          {
-            "url": "https://github.com/lthiery/sx1276-rs",
-            "ssh_url": "git@github.com:lthiery/sx1276-rs.git",
-            "language": "C"
-         },
-         {
             "url": "https://github.com/lthiery/helios",
             "ssh_url": "git@github.com:lthiery/helios.git",
             "language": "Rust"
+         },
+         {
+            "url": "https://github.com/lthiery/sx1276-rs",
+            "ssh_url": "git@github.com:lthiery/sx1276-rs.git",
+            "language": "C"
          },
          {
             "url": "https://github.com/lthiery/Sensorhub",
@@ -1005,32 +838,152 @@
       ]
    },
    {
-      "user": "https://github.com/premsingh",
+      "user": "https://github.com/MichaelCook",
       "repos": [
          {
-            "url": "https://github.com/premsingh/p_lib",
-            "ssh_url": "git@github.com:premsingh/p_lib.git",
-            "language": ""
+            "url": "https://github.com/MichaelCook/xlsx2py",
+            "ssh_url": "git@github.com:MichaelCook/xlsx2py.git",
+            "language": "Python"
          },
          {
-            "url": "https://github.com/premsingh/zend-service-sagepay",
-            "ssh_url": "git@github.com:premsingh/zend-service-sagepay.git",
-            "language": "PHP"
+            "url": "https://github.com/MichaelCook/glob_match",
+            "ssh_url": "git@github.com:MichaelCook/glob_match.git",
+            "language": "C++"
          },
          {
-            "url": "https://github.com/premsingh/gitetf",
-            "ssh_url": "git@github.com:premsingh/gitetf.git",
-            "language": "PHP"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/SvenHoffmann",
-      "repos": [
+            "url": "https://github.com/MichaelCook/textform",
+            "ssh_url": "git@github.com:MichaelCook/textform.git",
+            "language": "Python"
+         },
          {
-            "url": "https://github.com/SvenHoffmann/StravaDownloader",
-            "ssh_url": "git@github.com:SvenHoffmann/StravaDownloader.git",
-            "language": "C#"
+            "url": "https://github.com/MichaelCook/wwf",
+            "ssh_url": "git@github.com:MichaelCook/wwf.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/cd-history",
+            "ssh_url": "git@github.com:MichaelCook/cd-history.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/rename",
+            "ssh_url": "git@github.com:MichaelCook/rename.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/scanport",
+            "ssh_url": "git@github.com:MichaelCook/scanport.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/MichaelCook/Podcasts",
+            "ssh_url": "git@github.com:MichaelCook/Podcasts.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/MichaelCook/cribbage",
+            "ssh_url": "git@github.com:MichaelCook/cribbage.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/git-prompt",
+            "ssh_url": "git@github.com:MichaelCook/git-prompt.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/relink",
+            "ssh_url": "git@github.com:MichaelCook/relink.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/run-group",
+            "ssh_url": "git@github.com:MichaelCook/run-group.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/QtProgress",
+            "ssh_url": "git@github.com:MichaelCook/QtProgress.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/sudoku",
+            "ssh_url": "git@github.com:MichaelCook/sudoku.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/MichaelCook/tag3",
+            "ssh_url": "git@github.com:MichaelCook/tag3.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/Argv",
+            "ssh_url": "git@github.com:MichaelCook/Argv.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/MichaelCook/mp3gain",
+            "ssh_url": "git@github.com:MichaelCook/mp3gain.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/MichaelCook/iswitch",
+            "ssh_url": "git@github.com:MichaelCook/iswitch.git",
+            "language": "Emacs Lisp"
+         },
+         {
+            "url": "https://github.com/MichaelCook/process-status",
+            "ssh_url": "git@github.com:MichaelCook/process-status.git",
+            "language": "Emacs Lisp"
+         },
+         {
+            "url": "https://github.com/MichaelCook/table-to-markup",
+            "ssh_url": "git@github.com:MichaelCook/table-to-markup.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/wordle",
+            "ssh_url": "git@github.com:MichaelCook/wordle.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/architecture",
+            "ssh_url": "git@github.com:MichaelCook/architecture.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/MichaelCook/pdf-inter",
+            "ssh_url": "git@github.com:MichaelCook/pdf-inter.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/MichaelCook/make-calendar-ics",
+            "ssh_url": "git@github.com:MichaelCook/make-calendar-ics.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/check-include-guards",
+            "ssh_url": "git@github.com:MichaelCook/check-include-guards.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/auditmake",
+            "ssh_url": "git@github.com:MichaelCook/auditmake.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/ftp-push",
+            "ssh_url": "git@github.com:MichaelCook/ftp-push.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/MichaelCook/progress",
+            "ssh_url": "git@github.com:MichaelCook/progress.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/MichaelCook/tk-countdown",
+            "ssh_url": "git@github.com:MichaelCook/tk-countdown.git",
+            "language": "Tcl"
          }
       ]
    },
@@ -1043,18 +996,13 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/vicmgs/6ees6ees6ees",
-            "ssh_url": "git@github.com:vicmgs/6ees6ees6ees.git",
-            "language": "JavaScript"
-         },
-         {
             "url": "https://github.com/vicmgs/subclass-dance-party",
             "ssh_url": "git@github.com:vicmgs/subclass-dance-party.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/vicmgs/chatterbox-client",
-            "ssh_url": "git@github.com:vicmgs/chatterbox-client.git",
+            "url": "https://github.com/vicmgs/6ees6ees6ees",
+            "ssh_url": "git@github.com:vicmgs/6ees6ees6ees.git",
             "language": "JavaScript"
          },
          {
@@ -1065,6 +1013,11 @@
          {
             "url": "https://github.com/vicmgs/n-queens",
             "ssh_url": "git@github.com:vicmgs/n-queens.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/vicmgs/chatterbox-client",
+            "ssh_url": "git@github.com:vicmgs/chatterbox-client.git",
             "language": "JavaScript"
          },
          {
@@ -1118,18 +1071,18 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/vicmgs/djangopractice2",
-            "ssh_url": "git@github.com:vicmgs/djangopractice2.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/vicmgs/django1",
             "ssh_url": "git@github.com:vicmgs/django1.git",
             "language": "Python"
          },
          {
-            "url": "https://github.com/vicmgs/shortly-angular",
-            "ssh_url": "git@github.com:vicmgs/shortly-angular.git",
+            "url": "https://github.com/vicmgs/djangopractice2",
+            "ssh_url": "git@github.com:vicmgs/djangopractice2.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/vicmgs/shortly-express",
+            "ssh_url": "git@github.com:vicmgs/shortly-express.git",
             "language": "JavaScript"
          },
          {
@@ -1138,8 +1091,8 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/vicmgs/shortly-express",
-            "ssh_url": "git@github.com:vicmgs/shortly-express.git",
+            "url": "https://github.com/vicmgs/shortly-angular",
+            "ssh_url": "git@github.com:vicmgs/shortly-angular.git",
             "language": "JavaScript"
          },
          {
@@ -1178,24 +1131,24 @@
             "language": "JavaScript"
          },
          {
+            "url": "https://github.com/vicmgs/data-structures",
+            "ssh_url": "git@github.com:vicmgs/data-structures.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/vicmgs/recast.ly",
             "ssh_url": "git@github.com:vicmgs/recast.ly.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/vicmgs/data-structures",
-            "ssh_url": "git@github.com:vicmgs/data-structures.git",
+            "url": "https://github.com/vicmgs/mytunes",
+            "ssh_url": "git@github.com:vicmgs/mytunes.git",
             "language": "JavaScript"
          },
          {
             "url": "https://github.com/vicmgs/inews",
             "ssh_url": "git@github.com:vicmgs/inews.git",
             "language": ""
-         },
-         {
-            "url": "https://github.com/vicmgs/mytunes",
-            "ssh_url": "git@github.com:vicmgs/mytunes.git",
-            "language": "JavaScript"
          }
       ]
    },
@@ -1248,14 +1201,14 @@
             "language": "Elixir"
          },
          {
-            "url": "https://github.com/vihu/rust-tc",
-            "ssh_url": "git@github.com:vihu/rust-tc.git",
-            "language": "Rust"
-         },
-         {
             "url": "https://github.com/vihu/wit-prob-poc",
             "ssh_url": "git@github.com:vihu/wit-prob-poc.git",
             "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/vihu/rust-tc",
+            "ssh_url": "git@github.com:vihu/rust-tc.git",
+            "language": "Rust"
          },
          {
             "url": "https://github.com/vihu/oldmoviebot",
@@ -1316,6 +1269,11 @@
             "url": "https://github.com/vihu/erlang-skiplist",
             "ssh_url": "git@github.com:vihu/erlang-skiplist.git",
             "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/vihu/hnt-proxy",
+            "ssh_url": "git@github.com:vihu/hnt-proxy.git",
+            "language": "Rust"
          },
          {
             "url": "https://github.com/vihu/HelloWorld",
@@ -1398,6 +1356,11 @@
             "language": "Elixir"
          },
          {
+            "url": "https://github.com/vihu/zipcodes_to_gps",
+            "ssh_url": "git@github.com:vihu/zipcodes_to_gps.git",
+            "language": "Python"
+         },
+         {
             "url": "https://github.com/vihu/sample",
             "ssh_url": "git@github.com:vihu/sample.git",
             "language": "Python"
@@ -1405,11 +1368,6 @@
          {
             "url": "https://github.com/vihu/ituneProject",
             "ssh_url": "git@github.com:vihu/ituneProject.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/vihu/zipcodes_to_gps",
-            "ssh_url": "git@github.com:vihu/zipcodes_to_gps.git",
             "language": "Python"
          },
          {
