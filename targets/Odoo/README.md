@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Odoo}
-COMPANY_NAME ---> U{Users} ---> UN[26]
-COMPANY_NAME ---> R{Repositories} ---> RN[244]
+COMPANY_NAME ---> U{Users} ---> UN[24]
+COMPANY_NAME ---> R{Repositories} ---> RN[210]
 COMPANY_NAME ---> G{Gists} ---> GN[89]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Payoneer}
-COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[101]
-COMPANY_NAME ---> G{Gists} ---> GN[15]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[91]
+COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> C++[C++]
+ML --> Python[Python]
+ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
+ML --> Objective-C[Objective-C]
 ```

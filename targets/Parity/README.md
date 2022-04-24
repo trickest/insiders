@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Parity}
 COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[147]
-COMPANY_NAME ---> G{Gists} ---> GN[77]
+COMPANY_NAME ---> R{Repositories} ---> RN[159]
+COMPANY_NAME ---> G{Gists} ---> GN[126]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Rust[Rust]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Perl[Perl]
 ML --> Python[Python]
-ML --> CSS[CSS]
+ML --> Julia[Julia]
 ```

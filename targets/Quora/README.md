@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Quora}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[26]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[31]
+COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> CSS[CSS]
-ML --> HTML[HTML]
+ML --> Java[Java]
 ML --> C[C]
-ML --> Ruby[Ruby]
+ML --> Verilog[Verilog]
+ML --> TypeScript[TypeScript]
 ```

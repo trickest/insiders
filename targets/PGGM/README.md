@@ -5,11 +5,11 @@ graph LR
 COMPANY_NAME{PGGM}
 COMPANY_NAME ---> U{Users} ---> UN[14]
 COMPANY_NAME ---> R{Repositories} ---> RN[66]
-COMPANY_NAME ---> G{Gists} ---> GN[229]
+COMPANY_NAME ---> G{Gists} ---> GN[254]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Erlang[Erlang]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Python[Python]
+ML --> C[C]
 ML --> C#[C#]
-ML --> Ruby[Ruby]
 ```

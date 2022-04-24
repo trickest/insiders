@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Myntra}
-COMPANY_NAME ---> U{Users} ---> UN[33]
-COMPANY_NAME ---> R{Repositories} ---> RN[215]
-COMPANY_NAME ---> G{Gists} ---> GN[24]
+COMPANY_NAME ---> U{Users} ---> UN[25]
+COMPANY_NAME ---> R{Repositories} ---> RN[185]
+COMPANY_NAME ---> G{Gists} ---> GN[19]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> PHP[PHP]
 ML --> Python[Python]
+ML --> C++[C++]
 ```

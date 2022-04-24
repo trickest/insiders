@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{OwnCloud}
-COMPANY_NAME ---> U{Users} ---> UN[90]
-COMPANY_NAME ---> R{Repositories} ---> RN[1351]
-COMPANY_NAME ---> G{Gists} ---> GN[902]
+COMPANY_NAME ---> U{Users} ---> UN[89]
+COMPANY_NAME ---> R{Repositories} ---> RN[1343]
+COMPANY_NAME ---> G{Gists} ---> GN[901]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
