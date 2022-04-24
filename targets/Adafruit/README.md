@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Adafruit}
 COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[277]
-COMPANY_NAME ---> G{Gists} ---> GN[341]
+COMPANY_NAME ---> R{Repositories} ---> RN[308]
+COMPANY_NAME ---> G{Gists} ---> GN[406]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> C[C]

@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AmoCRM}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[50]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
 COMPANY_NAME ---> G{Gists} ---> GN[111]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
-ML --> HTML[HTML]
-ML --> C#[C#]
+ML --> Perl[Perl]
+ML --> Liquid[Liquid]
 ```
