@@ -11,5 +11,5 @@ ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
 ML --> Swift[Swift]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
 ```
