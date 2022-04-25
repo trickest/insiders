@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MercadoLibre}
-COMPANY_NAME ---> U{Users} ---> UN[51]
-COMPANY_NAME ---> R{Repositories} ---> RN[967]
+COMPANY_NAME ---> U{Users} ---> UN[50]
+COMPANY_NAME ---> R{Repositories} ---> RN[964]
 COMPANY_NAME ---> G{Gists} ---> GN[234]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

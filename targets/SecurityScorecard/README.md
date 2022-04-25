@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SecurityScorecard}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[207]
-COMPANY_NAME ---> G{Gists} ---> GN[80]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[256]
+COMPANY_NAME ---> G{Gists} ---> GN[107]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
 ML --> Python[Python]
 ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
 ML --> CSS[CSS]
 ```

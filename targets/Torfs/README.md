@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Torfs}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[17]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> C#[C#]
-ML --> Vim_script[Vim script]
-ML --> SaltStack[SaltStack]
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> SCSS[SCSS]
+ML --> HTML[HTML]
+ML --> Vim_script[Vim script]
 ```

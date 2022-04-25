@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{PUBG}
 COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[110]
+COMPANY_NAME ---> R{Repositories} ---> RN[95]
 COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Java[Java]
-ML --> CSS[CSS]
 ML --> Python[Python]
+ML --> Java[Java]
+ML --> Dart[Dart]
 ```
