@@ -3,8 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zoho}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[74]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[65]
+COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> C#[C#]
 ```

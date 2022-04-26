@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Socrata}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[56]
-COMPANY_NAME ---> G{Gists} ---> GN[48]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[91]
+COMPANY_NAME ---> G{Gists} ---> GN[50]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Elixir[Elixir]
 ML --> JavaScript[JavaScript]
+ML --> Elixir[Elixir]
 ML --> Scala[Scala]
-ML --> Haskell[Haskell]
+ML --> CSS[CSS]
 ML --> Python[Python]
 ```
