@@ -11,5 +11,5 @@ ML --> Java[Java]
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
 ML --> Elixir[Elixir]
-ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
 ```
