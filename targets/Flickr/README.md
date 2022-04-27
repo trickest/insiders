@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Flickr}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[68]
+COMPANY_NAME ---> R{Repositories} ---> RN[75]
 COMPANY_NAME ---> G{Gists} ---> GN[75]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
+ML --> PLSQL[PLSQL]
 ML --> ActionScript[ActionScript]
 ML --> PHP[PHP]
-ML --> CoffeeScript[CoffeeScript]
 ```

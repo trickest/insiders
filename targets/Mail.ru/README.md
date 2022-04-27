@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Mail.ru}
 COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[124]
+COMPANY_NAME ---> R{Repositories} ---> RN[268]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> TypeScript[TypeScript]
+ML --> C++[C++]
+ML --> Java[Java]
+ML --> CSS[CSS]
 ```

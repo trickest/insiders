@@ -4,10 +4,9 @@
 graph LR
 COMPANY_NAME{Hanno}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[3]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> C#[C#]
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ```

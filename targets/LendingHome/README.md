@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{LendingHome}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[75]
+COMPANY_NAME ---> R{Repositories} ---> RN[93]
 COMPANY_NAME ---> G{Gists} ---> GN[89]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
 ML --> Dart[Dart]
-ML --> C#[C#]
 ML --> HTML[HTML]
+ML --> C#[C#]
 ```
