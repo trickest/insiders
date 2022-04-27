@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Torfs}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
 ML --> Java[Java]
-ML --> SCSS[SCSS]
-ML --> HTML[HTML]
-ML --> Vim_script[Vim script]
+ML --> C#[C#]
 ```

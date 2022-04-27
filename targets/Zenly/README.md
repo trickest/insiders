@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zenly}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[4]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[39]
+COMPANY_NAME ---> G{Gists} ---> GN[16]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
-ML --> Python[Python]
-ML --> TypeScript[TypeScript]
-ML --> Rust[Rust]
-ML --> Java[Java]
+ML --> Objective-C[Objective-C]
+ML --> Swift[Swift]
+ML --> Go[Go]
+ML --> HTML[HTML]
+ML --> C[C]
 ```

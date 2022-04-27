@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tokopedia}
-COMPANY_NAME ---> U{Users} ---> UN[53]
-COMPANY_NAME ---> R{Repositories} ---> RN[957]
-COMPANY_NAME ---> G{Gists} ---> GN[591]
+COMPANY_NAME ---> U{Users} ---> UN[44]
+COMPANY_NAME ---> R{Repositories} ---> RN[927]
+COMPANY_NAME ---> G{Gists} ---> GN[566]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

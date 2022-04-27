@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zerodha}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[333]
-COMPANY_NAME ---> G{Gists} ---> GN[156]
+COMPANY_NAME ---> U{Users} ---> UN[37]
+COMPANY_NAME ---> R{Repositories} ---> RN[405]
+COMPANY_NAME ---> G{Gists} ---> GN[157]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> Go[Go]

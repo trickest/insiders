@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Roblox}
-COMPANY_NAME ---> U{Users} ---> UN[67]
-COMPANY_NAME ---> R{Repositories} ---> RN[501]
-COMPANY_NAME ---> G{Gists} ---> GN[176]
+COMPANY_NAME ---> U{Users} ---> UN[66]
+COMPANY_NAME ---> R{Repositories} ---> RN[493]
+COMPANY_NAME ---> G{Gists} ---> GN[201]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> Go[Go]
-ML --> C++[C++]
 ```

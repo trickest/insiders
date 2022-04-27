@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{NordVPN}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
+COMPANY_NAME ---> G{Gists} ---> GN[11]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Rust[Rust]
-ML --> Python[Python]
-ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
 ML --> Kotlin[Kotlin]
+ML --> Java[Java]
+ML --> CSS[CSS]
+ML --> Rust[Rust]
 ```

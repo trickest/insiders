@@ -503,6 +503,11 @@
       "user": "https://github.com/nihui",
       "repos": [
          {
+            "url": "https://github.com/nihui/waifu2x-ncnn-vulkan",
+            "ssh_url": "git@github.com:nihui/waifu2x-ncnn-vulkan.git",
+            "language": "C"
+         },
+         {
             "url": "https://github.com/nihui/opencv-mobile",
             "ssh_url": "git@github.com:nihui/opencv-mobile.git",
             "language": "C"
@@ -513,9 +518,49 @@
             "language": "C"
          },
          {
+            "url": "https://github.com/nihui/dain-ncnn-vulkan",
+            "ssh_url": "git@github.com:nihui/dain-ncnn-vulkan.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-android-yolov5",
+            "ssh_url": "git@github.com:nihui/ncnn-android-yolov5.git",
+            "language": "C++"
+         },
+         {
             "url": "https://github.com/nihui/rife-ncnn-vulkan",
             "ssh_url": "git@github.com:nihui/rife-ncnn-vulkan.git",
             "language": "C"
+         },
+         {
+            "url": "https://github.com/nihui/srmd-ncnn-vulkan",
+            "ssh_url": "git@github.com:nihui/srmd-ncnn-vulkan.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/nihui/realcugan-ncnn-vulkan",
+            "ssh_url": "git@github.com:nihui/realcugan-ncnn-vulkan.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-android-nanodet",
+            "ssh_url": "git@github.com:nihui/ncnn-android-nanodet.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-assets",
+            "ssh_url": "git@github.com:nihui/ncnn-assets.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-android-scrfd",
+            "ssh_url": "git@github.com:nihui/ncnn-android-scrfd.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-android-squeezenet",
+            "ssh_url": "git@github.com:nihui/ncnn-android-squeezenet.git",
+            "language": "C++"
          },
          {
             "url": "https://github.com/nihui/cain-ncnn-vulkan",
@@ -528,6 +573,11 @@
             "language": "C"
          },
          {
+            "url": "https://github.com/nihui/ncnn-webassembly-yolov5",
+            "ssh_url": "git@github.com:nihui/ncnn-webassembly-yolov5.git",
+            "language": "C++"
+         },
+         {
             "url": "https://github.com/nihui/ncnn-webassembly-nanodet",
             "ssh_url": "git@github.com:nihui/ncnn-webassembly-nanodet.git",
             "language": "C++"
@@ -536,6 +586,36 @@
             "url": "https://github.com/nihui/ncnn-android-benchmark",
             "ssh_url": "git@github.com:nihui/ncnn-android-benchmark.git",
             "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-android-mobilenetssd",
+            "ssh_url": "git@github.com:nihui/ncnn-android-mobilenetssd.git",
+            "language": "Java"
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-small-board",
+            "ssh_url": "git@github.com:nihui/ncnn-small-board.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/nihui/vkpeak",
+            "ssh_url": "git@github.com:nihui/vkpeak.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/nihui",
+            "ssh_url": "git@github.com:nihui/nihui.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/nihui/ncnn-webassembly-scrfd",
+            "ssh_url": "git@github.com:nihui/ncnn-webassembly-scrfd.git",
+            "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/valgrind-android",
+            "ssh_url": "git@github.com:nihui/valgrind-android.git",
+            "language": ""
          },
          {
             "url": "https://github.com/nihui/ncnn-webassembly-portrait-segmentation",
@@ -568,6 +648,11 @@
             "language": "CMake"
          },
          {
+            "url": "https://github.com/nihui/ncnn_on_xr806",
+            "ssh_url": "git@github.com:nihui/ncnn_on_xr806.git",
+            "language": "C++"
+         },
+         {
             "url": "https://github.com/nihui/zzzz",
             "ssh_url": "git@github.com:nihui/zzzz.git",
             "language": "C++"
@@ -581,6 +666,11 @@
             "url": "https://github.com/nihui/InferXLite",
             "ssh_url": "git@github.com:nihui/InferXLite.git",
             "language": "C++"
+         },
+         {
+            "url": "https://github.com/nihui/fxxk-tensorflow-lite-note",
+            "ssh_url": "git@github.com:nihui/fxxk-tensorflow-lite-note.git",
+            "language": "Jupyter Notebook"
          },
          {
             "url": "https://github.com/nihui/xf86-video-siska",
@@ -675,96 +765,6 @@
          {
             "url": "https://github.com/nihui/choqok-netease",
             "ssh_url": "git@github.com:nihui/choqok-netease.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/VulkanOnMetal",
-            "ssh_url": "git@github.com:nihui/VulkanOnMetal.git",
-            "language": "C"
-         },
-         {
-            "url": "https://github.com/nihui/kdoubanfm",
-            "ssh_url": "git@github.com:nihui/kdoubanfm.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kcm-fontadjust",
-            "ssh_url": "git@github.com:nihui/kcm-fontadjust.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kamule",
-            "ssh_url": "git@github.com:nihui/kamule.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/choqok-sina",
-            "ssh_url": "git@github.com:nihui/choqok-sina.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kopete-qq",
-            "ssh_url": "git@github.com:nihui/kopete-qq.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/qsopcast",
-            "ssh_url": "git@github.com:nihui/qsopcast.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kopete-fetion",
-            "ssh_url": "git@github.com:nihui/kopete-fetion.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/choqok-tencent",
-            "ssh_url": "git@github.com:nihui/choqok-tencent.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kiconedit",
-            "ssh_url": "git@github.com:nihui/kiconedit.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/plasma-webqq",
-            "ssh_url": "git@github.com:nihui/plasma-webqq.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/vendor-rockchip-common",
-            "ssh_url": "git@github.com:nihui/vendor-rockchip-common.git",
-            "language": "C"
-         },
-         {
-            "url": "https://github.com/nihui/nihui-patch",
-            "ssh_url": "git@github.com:nihui/nihui-patch.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/nihui/eva-qt4",
-            "ssh_url": "git@github.com:nihui/eva-qt4.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kfuseiso",
-            "ssh_url": "git@github.com:nihui/kfuseiso.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/estelle",
-            "ssh_url": "git@github.com:nihui/estelle.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/choqok-netease",
-            "ssh_url": "git@github.com:nihui/choqok-netease.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/nihui/kde-thumbnailer",
-            "ssh_url": "git@github.com:nihui/kde-thumbnailer.git",
             "language": "C++"
          },
          {

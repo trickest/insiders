@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Upwork}
 COMPANY_NAME ---> U{Users} ---> UN[31]
-COMPANY_NAME ---> R{Repositories} ---> RN[254]
-COMPANY_NAME ---> G{Gists} ---> GN[41]
+COMPANY_NAME ---> R{Repositories} ---> RN[206]
+COMPANY_NAME ---> G{Gists} ---> GN[59]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
-ML --> Python[Python]
+ML --> PHP[PHP]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> Ruby[Ruby]
+ML --> Java[Java]
 ```

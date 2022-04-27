@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Zendesk}
 COMPANY_NAME ---> U{Users} ---> UN[68]
-COMPANY_NAME ---> R{Repositories} ---> RN[879]
-COMPANY_NAME ---> G{Gists} ---> GN[469]
+COMPANY_NAME ---> R{Repositories} ---> RN[878]
+COMPANY_NAME ---> G{Gists} ---> GN[475]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
