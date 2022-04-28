@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Synack}
-COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[151]
-COMPANY_NAME ---> G{Gists} ---> GN[160]
+COMPANY_NAME ---> U{Users} ---> UN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[139]
+COMPANY_NAME ---> G{Gists} ---> GN[146]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Ruby[Ruby]
-ML --> Java[Java]
+ML --> PHP[PHP]
+ML --> Vim_script[Vim script]
 ```

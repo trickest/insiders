@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Upgrade}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
-COMPANY_NAME ---> G{Gists} ---> GN[26]
+COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> Ruby[Ruby]
-ML --> TypeScript[TypeScript]
-ML --> Python[Python]
+ML --> JavaScript[JavaScript]
+ML --> Shell[Shell]
 ML --> PHP[PHP]
+ML --> CSS[CSS]
 ```

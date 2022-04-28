@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Nutanix}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[28]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
+COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C[C]
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> C[C]
 ML --> HTML[HTML]
-ML --> C++[C++]
+ML --> Vim_script[Vim script]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{TomTom}
 COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[125]
-COMPANY_NAME ---> G{Gists} ---> GN[38]
+COMPANY_NAME ---> R{Repositories} ---> RN[87]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> C++[C++]
 ML --> Python[Python]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> Shell[Shell]
 ```
