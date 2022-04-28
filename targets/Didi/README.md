@@ -8,8 +8,8 @@ COMPANY_NAME ---> R{Repositories} ---> RN[126]
 COMPANY_NAME ---> G{Gists} ---> GN[31]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> HTML[HTML]
 ML --> Go[Go]
+ML --> HTML[HTML]
 ML --> C[C]
 ML --> Shell[Shell]
 ```

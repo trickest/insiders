@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MariaDB}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[284]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[295]
 COMPANY_NAME ---> G{Gists} ---> GN[128]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]

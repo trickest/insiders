@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Lob}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Java[Java]
-ML --> HTML[HTML]
 ML --> Go[Go]
-ML --> CSS[CSS]
+ML --> C#[C#]
+ML --> TypeScript[TypeScript]
+ML --> Python[Python]
+ML --> MATLAB[MATLAB]
 ```

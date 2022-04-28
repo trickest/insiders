@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{HTC}
 COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[51]
-COMPANY_NAME ---> G{Gists} ---> GN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> Swift[Swift]
-ML --> Shell[Shell]
+ML --> PHP[PHP]
+ML --> Dart[Dart]
 ```
