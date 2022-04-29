@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Amon}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[48]
+COMPANY_NAME ---> R{Repositories} ---> RN[46]
 COMPANY_NAME ---> G{Gists} ---> GN[48]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
-ML --> C#[C#]
+ML --> HTML[HTML]
 ML --> Shell[Shell]
 ML --> Processing[Processing]
+ML --> JavaScript[JavaScript]
 ```

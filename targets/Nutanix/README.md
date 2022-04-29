@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Nutanix}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[26]
-COMPANY_NAME ---> G{Gists} ---> GN[17]
+COMPANY_NAME ---> U{Users} ---> UN[33]
+COMPANY_NAME ---> R{Repositories} ---> RN[198]
+COMPANY_NAME ---> G{Gists} ---> GN[38]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> C[C]
-ML --> HTML[HTML]
-ML --> Vim_script[Vim script]
+ML --> Ruby[Ruby]
+ML --> Go[Go]
 ```

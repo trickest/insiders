@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Nextiva}
-COMPANY_NAME ---> U{Users} ---> UN[27]
-COMPANY_NAME ---> R{Repositories} ---> RN[293]
-COMPANY_NAME ---> G{Gists} ---> GN[152]
+COMPANY_NAME ---> U{Users} ---> UN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[322]
+COMPANY_NAME ---> G{Gists} ---> GN[178]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Python[Python]
-ML --> Go[Go]
+ML --> Swift[Swift]
 ```

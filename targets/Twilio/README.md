@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Twilio}
-COMPANY_NAME ---> U{Users} ---> UN[62]
-COMPANY_NAME ---> R{Repositories} ---> RN[1419]
-COMPANY_NAME ---> G{Gists} ---> GN[566]
+COMPANY_NAME ---> U{Users} ---> UN[71]
+COMPANY_NAME ---> R{Repositories} ---> RN[1593]
+COMPANY_NAME ---> G{Gists} ---> GN[669]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
