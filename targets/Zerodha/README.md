@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Zerodha}
 COMPANY_NAME ---> U{Users} ---> UN[31]
-COMPANY_NAME ---> R{Repositories} ---> RN[398]
-COMPANY_NAME ---> G{Gists} ---> GN[156]
+COMPANY_NAME ---> R{Repositories} ---> RN[461]
+COMPANY_NAME ---> G{Gists} ---> GN[168]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> Go[Go]
 ML --> JavaScript[JavaScript]
+ML --> Go[Go]
 ML --> HTML[HTML]
 ML --> Java[Java]
 ```

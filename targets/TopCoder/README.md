@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{TopCoder}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[85]
-COMPANY_NAME ---> G{Gists} ---> GN[25]
+COMPANY_NAME ---> R{Repositories} ---> RN[133]
+COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
 ML --> Java[Java]
-ML --> Python[Python]
-ML --> Rust[Rust]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Objective-C[Objective-C]
+ML --> Swift[Swift]
 ```
