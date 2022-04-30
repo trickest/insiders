@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Logitech}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[51]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
 COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> TeX[TeX]
-ML --> C++[C++]
+ML --> CSS[CSS]
 ```

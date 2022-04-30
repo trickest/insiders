@@ -11,5 +11,5 @@ ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> Go[Go]
-ML --> Scala[Scala]
+ML --> PHP[PHP]
 ```
