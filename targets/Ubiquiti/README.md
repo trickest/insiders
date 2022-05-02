@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Ubiquiti}
-COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[98]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> U{Users} ---> UN[20]
+COMPANY_NAME ---> R{Repositories} ---> RN[128]
+COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Go[Go]
-ML --> Shell[Shell]
+ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> Java[Java]
 ```

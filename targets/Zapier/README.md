@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Zapier}
 COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[246]
-COMPANY_NAME ---> G{Gists} ---> GN[296]
+COMPANY_NAME ---> R{Repositories} ---> RN[159]
+COMPANY_NAME ---> G{Gists} ---> GN[159]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
-ML --> PHP[PHP]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ```
