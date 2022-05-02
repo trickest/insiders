@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Koho}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[50]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[49]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> Java[Java]
 ML --> C++[C++]
+ML --> Python[Python]
+ML --> Shell[Shell]
+ML --> C#[C#]
 ```

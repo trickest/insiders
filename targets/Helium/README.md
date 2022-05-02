@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Helium}
-COMPANY_NAME ---> U{Users} ---> UN[29]
-COMPANY_NAME ---> R{Repositories} ---> RN[386]
-COMPANY_NAME ---> G{Gists} ---> GN[371]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[300]
+COMPANY_NAME ---> G{Gists} ---> GN[338]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Erlang[Erlang]
-ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> Rust[Rust]
+ML --> Python[Python]
 ML --> C[C]
 ```
