@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Zivver}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[79]
-COMPANY_NAME ---> G{Gists} ---> GN[44]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
+COMPANY_NAME ---> G{Gists} ---> GN[53]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> Ruby[Ruby]
 ML --> Java[Java]
-ML --> Shell[Shell]
-ML --> TeX[TeX]
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> C[C]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Skyscanner}
-COMPANY_NAME ---> U{Users} ---> UN[44]
-COMPANY_NAME ---> R{Repositories} ---> RN[462]
-COMPANY_NAME ---> G{Gists} ---> GN[222]
+COMPANY_NAME ---> U{Users} ---> UN[55]
+COMPANY_NAME ---> R{Repositories} ---> RN[1015]
+COMPANY_NAME ---> G{Gists} ---> GN[105]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
-ML --> Swift[Swift]
+ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
 ```

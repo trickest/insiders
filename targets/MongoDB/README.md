@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MongoDB}
-COMPANY_NAME ---> U{Users} ---> UN[50]
-COMPANY_NAME ---> R{Repositories} ---> RN[1033]
-COMPANY_NAME ---> G{Gists} ---> GN[1157]
+COMPANY_NAME ---> U{Users} ---> UN[60]
+COMPANY_NAME ---> R{Repositories} ---> RN[1085]
+COMPANY_NAME ---> G{Gists} ---> GN[1158]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

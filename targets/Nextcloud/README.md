@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{Nextcloud}
 COMPANY_NAME ---> U{Users} ---> UN[188]
 COMPANY_NAME ---> R{Repositories} ---> RN[3251]
-COMPANY_NAME ---> G{Gists} ---> GN[1557]
+COMPANY_NAME ---> G{Gists} ---> GN[1558]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
