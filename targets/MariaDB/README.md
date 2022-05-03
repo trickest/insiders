@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{MariaDB}
 COMPANY_NAME ---> U{Users} ---> UN[17]
 COMPANY_NAME ---> R{Repositories} ---> RN[284]
-COMPANY_NAME ---> G{Gists} ---> GN[128]
+COMPANY_NAME ---> G{Gists} ---> GN[351]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> C[C]

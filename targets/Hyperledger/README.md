@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Hyperledger}
 COMPANY_NAME ---> U{Users} ---> UN[61]
-COMPANY_NAME ---> R{Repositories} ---> RN[947]
-COMPANY_NAME ---> G{Gists} ---> GN[398]
+COMPANY_NAME ---> R{Repositories} ---> RN[985]
+COMPANY_NAME ---> G{Gists} ---> GN[419]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

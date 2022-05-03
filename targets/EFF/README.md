@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{EFF}
 COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[128]
-COMPANY_NAME ---> G{Gists} ---> GN[60]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> C++[C++]
+ML --> Vim_script[Vim script]
 ```
