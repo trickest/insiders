@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Databricks}
-COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[172]
-COMPANY_NAME ---> G{Gists} ---> GN[122]
+COMPANY_NAME ---> U{Users} ---> UN[43]
+COMPANY_NAME ---> R{Repositories} ---> RN[335]
+COMPANY_NAME ---> G{Gists} ---> GN[293]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> C#[C#]
-ML --> TypeScript[TypeScript]
+ML --> Python[Python]
 ML --> Scala[Scala]
+ML --> C++[C++]
 ```

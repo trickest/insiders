@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{EpicGames}
-COMPANY_NAME ---> U{Users} ---> UN[2239]
-COMPANY_NAME ---> R{Repositories} ---> RN[55680]
-COMPANY_NAME ---> G{Gists} ---> GN[4841]
+COMPANY_NAME ---> U{Users} ---> UN[2242]
+COMPANY_NAME ---> R{Repositories} ---> RN[55778]
+COMPANY_NAME ---> G{Gists} ---> GN[7334]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

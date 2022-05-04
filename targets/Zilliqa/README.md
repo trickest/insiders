@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zilliqa}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[65]
-COMPANY_NAME ---> G{Gists} ---> GN[59]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> C[C]
-ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> TeX[TeX]
+ML --> Coq[Coq]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Redis}
-COMPANY_NAME ---> U{Users} ---> UN[15]
-COMPANY_NAME ---> R{Repositories} ---> RN[191]
-COMPANY_NAME ---> G{Gists} ---> GN[100]
+COMPANY_NAME ---> U{Users} ---> UN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[188]
+COMPANY_NAME ---> G{Gists} ---> GN[38]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
-ML --> Clojure[Clojure]
+ML --> Python[Python]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
+ML --> Clojure[Clojure]
+ML --> Java[Java]
 ```

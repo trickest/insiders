@@ -3,8 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Viator}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[30]
-COMPANY_NAME ---> G{Gists} ---> GN[33]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[34]
+COMPANY_NAME ---> G{Gists} ---> GN[49]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Java[Java]
+ML --> PHP[PHP]
 ```

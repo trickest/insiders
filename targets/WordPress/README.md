@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{WordPress}
-COMPANY_NAME ---> U{Users} ---> UN[185]
-COMPANY_NAME ---> R{Repositories} ---> RN[3718]
-COMPANY_NAME ---> G{Gists} ---> GN[4519]
+COMPANY_NAME ---> U{Users} ---> UN[186]
+COMPANY_NAME ---> R{Repositories} ---> RN[3814]
+COMPANY_NAME ---> G{Gists} ---> GN[4564]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Odoo}
 COMPANY_NAME ---> U{Users} ---> UN[34]
-COMPANY_NAME ---> R{Repositories} ---> RN[267]
-COMPANY_NAME ---> G{Gists} ---> GN[88]
+COMPANY_NAME ---> R{Repositories} ---> RN[247]
+COMPANY_NAME ---> G{Gists} ---> GN[190]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> C[C]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
+ML --> C[C]
 ML --> Rust[Rust]
+ML --> HTML[HTML]
 ```

@@ -853,14 +853,14 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/koute/emscripten-build",
-            "ssh_url": "git@github.com:koute/emscripten-build.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/koute/ci-helpers",
             "ssh_url": "git@github.com:koute/ci-helpers.git",
             "language": "Shell"
+         },
+         {
+            "url": "https://github.com/koute/emscripten-build",
+            "ssh_url": "git@github.com:koute/emscripten-build.git",
+            "language": ""
          }
       ]
    },
@@ -1393,6 +1393,11 @@
             "language": "Dockerfile"
          },
          {
+            "url": "https://github.com/neechbear/rrdmon",
+            "ssh_url": "git@github.com:neechbear/rrdmon.git",
+            "language": "Shell"
+         },
+         {
             "url": "https://github.com/neechbear/Colloquy-Bot-Simple",
             "ssh_url": "git@github.com:neechbear/Colloquy-Bot-Simple.git",
             "language": "Perl"
@@ -1413,14 +1418,14 @@
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/rrdmon",
-            "ssh_url": "git@github.com:neechbear/rrdmon.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/neechbear/gofoo",
             "ssh_url": "git@github.com:neechbear/gofoo.git",
             "language": "Go"
+         },
+         {
+            "url": "https://github.com/neechbear/docker-python26ci",
+            "ssh_url": "git@github.com:neechbear/docker-python26ci.git",
+            "language": ""
          },
          {
             "url": "https://github.com/neechbear/wowlogonswitcher",
@@ -1428,9 +1433,9 @@
             "language": ""
          },
          {
-            "url": "https://github.com/neechbear/docker-python26ci",
-            "ssh_url": "git@github.com:neechbear/docker-python26ci.git",
-            "language": ""
+            "url": "https://github.com/neechbear/Apache2-AuthColloquy",
+            "ssh_url": "git@github.com:neechbear/Apache2-AuthColloquy.git",
+            "language": "Perl"
          },
          {
             "url": "https://github.com/neechbear/botbot2",
@@ -1446,11 +1451,6 @@
             "url": "https://github.com/neechbear/dhIndex",
             "ssh_url": "git@github.com:neechbear/dhIndex.git",
             "language": ""
-         },
-         {
-            "url": "https://github.com/neechbear/Apache2-AuthColloquy",
-            "ssh_url": "git@github.com:neechbear/Apache2-AuthColloquy.git",
-            "language": "Perl"
          },
          {
             "url": "https://github.com/neechbear/webcam",
@@ -1473,11 +1473,6 @@
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/zabbix",
-            "ssh_url": "git@github.com:neechbear/zabbix.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/neechbear/Sys-Filesystem",
             "ssh_url": "git@github.com:neechbear/Sys-Filesystem.git",
             "language": "Perl"
@@ -1486,6 +1481,11 @@
             "url": "https://github.com/neechbear/bash-syslog",
             "ssh_url": "git@github.com:neechbear/bash-syslog.git",
             "language": "Perl"
+         },
+         {
+            "url": "https://github.com/neechbear/zabbix",
+            "ssh_url": "git@github.com:neechbear/zabbix.git",
+            "language": ""
          },
          {
             "url": "https://github.com/neechbear/Util-SelfDestruct",
@@ -1553,18 +1553,23 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/neechbear/foss-schedule",
-            "ssh_url": "git@github.com:neechbear/foss-schedule.git",
-            "language": "Makefile"
-         },
-         {
             "url": "https://github.com/neechbear/phue-random",
             "ssh_url": "git@github.com:neechbear/phue-random.git",
             "language": "Python"
          },
          {
+            "url": "https://github.com/neechbear/foss-schedule",
+            "ssh_url": "git@github.com:neechbear/foss-schedule.git",
+            "language": "Makefile"
+         },
+         {
             "url": "https://github.com/neechbear/Apache2-AutoIndex-XSLT",
             "ssh_url": "git@github.com:neechbear/Apache2-AutoIndex-XSLT.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/neechbear/Tie-RRD",
+            "ssh_url": "git@github.com:neechbear/Tie-RRD.git",
             "language": "Perl"
          },
          {
@@ -1573,9 +1578,9 @@
             "language": "Lua"
          },
          {
-            "url": "https://github.com/neechbear/Tie-RRD",
-            "ssh_url": "git@github.com:neechbear/Tie-RRD.git",
-            "language": "Perl"
+            "url": "https://github.com/neechbear/nw.hn",
+            "ssh_url": "git@github.com:neechbear/nw.hn.git",
+            "language": "HTML"
          },
          {
             "url": "https://github.com/neechbear/homebrew-tap",
@@ -1588,9 +1593,9 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/neechbear/nw.hn",
-            "ssh_url": "git@github.com:neechbear/nw.hn.git",
-            "language": "HTML"
+            "url": "https://github.com/neechbear/botbot",
+            "ssh_url": "git@github.com:neechbear/botbot.git",
+            "language": "Perl"
          },
          {
             "url": "https://github.com/neechbear/Tie-TinyURL",
@@ -1608,24 +1613,19 @@
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/botbot",
-            "ssh_url": "git@github.com:neechbear/botbot.git",
-            "language": "Perl"
-         },
-         {
             "url": "https://github.com/neechbear/docker-python27ci",
             "ssh_url": "git@github.com:neechbear/docker-python27ci.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/neechbear/docker-sshkeyci",
-            "ssh_url": "git@github.com:neechbear/docker-sshkeyci.git",
             "language": ""
          },
          {
             "url": "https://github.com/neechbear/botbot3",
             "ssh_url": "git@github.com:neechbear/botbot3.git",
             "language": "Perl"
+         },
+         {
+            "url": "https://github.com/neechbear/docker-sshkeyci",
+            "ssh_url": "git@github.com:neechbear/docker-sshkeyci.git",
+            "language": ""
          },
          {
             "url": "https://github.com/neechbear/WWW-FleXtel",

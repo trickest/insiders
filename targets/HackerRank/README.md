@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{HackerRank}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[86]
+COMPANY_NAME ---> G{Gists} ---> GN[21]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> Ruby[Ruby]
-ML --> C++[C++]
 ML --> CSS[CSS]
+ML --> C++[C++]
+ML --> C[C]
 ```

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Vimeo}
 COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[493]
+COMPANY_NAME ---> R{Repositories} ---> RN[497]
 COMPANY_NAME ---> G{Gists} ---> GN[529]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
