@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Jora}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Kotlin[Kotlin]
+ML --> Python[Python]
 ML --> Java[Java]
-ML --> Tcl[Tcl]
-ML --> HTML[HTML]
+ML --> Vim_script[Vim script]
 ML --> TypeScript[TypeScript]
+ML --> Rust[Rust]
 ```

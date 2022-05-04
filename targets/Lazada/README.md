@@ -4,10 +4,12 @@
 graph LR
 COMPANY_NAME{Lazada}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[44]
 COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> C#[C#]
-ML --> PLpgSQL[PLpgSQL]
+ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> Shell[Shell]
+ML --> JavaScript[JavaScript]
+ML --> C[C]
 ```
