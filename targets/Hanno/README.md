@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hanno}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[50]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Rust[Rust]
-ML --> CoffeeScript[CoffeeScript]
-ML --> HTML[HTML]
-ML --> Scala[Scala]
-ML --> Python[Python]
+ML --> JavaScript[JavaScript]
+ML --> R[R]
+ML --> Vue[Vue]
+ML --> Shell[Shell]
+ML --> Objective-C[Objective-C]
 ```

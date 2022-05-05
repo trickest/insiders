@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Gusto}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[112]
+COMPANY_NAME ---> R{Repositories} ---> RN[113]
 COMPANY_NAME ---> G{Gists} ---> GN[34]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
 ML --> C#[C#]
+ML --> Swift[Swift]
 ML --> HTML[HTML]
-ML --> C++[C++]
 ```

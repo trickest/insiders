@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bitwarden}
-COMPANY_NAME ---> U{Users} ---> UN[29]
-COMPANY_NAME ---> R{Repositories} ---> RN[199]
-COMPANY_NAME ---> G{Gists} ---> GN[49]
+COMPANY_NAME ---> U{Users} ---> UN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[191]
+COMPANY_NAME ---> G{Gists} ---> GN[47]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
 ML --> HTML[HTML]

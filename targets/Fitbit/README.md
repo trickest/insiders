@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Fitbit}
-COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[289]
-COMPANY_NAME ---> G{Gists} ---> GN[210]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[178]
+COMPANY_NAME ---> G{Gists} ---> GN[160]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Go[Go]
-ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> CSS[CSS]
+ML --> Shell[Shell]
 ```

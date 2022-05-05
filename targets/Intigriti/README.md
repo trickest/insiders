@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Intigriti}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[38]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[48]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
+ML --> Ruby[Ruby]
 ML --> HTML[HTML]
-ML --> Vim_script[Vim script]
+ML --> Dart[Dart]
+ML --> Shell[Shell]
 ```
