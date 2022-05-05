@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Yatra}
-COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[121]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> U{Users} ---> UN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[118]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
 ML --> Kotlin[Kotlin]
+ML --> Java[Java]
 ML --> Python[Python]
-ML --> HTML[HTML]
+ML --> MATLAB[MATLAB]
 ```

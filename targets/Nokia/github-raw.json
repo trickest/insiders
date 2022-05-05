@@ -623,14 +623,14 @@
             "language": "Python"
          },
          {
-            "url": "https://github.com/jbemmel/srl-salt-minion",
-            "ssh_url": "git@github.com:jbemmel/srl-salt-minion.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/jbemmel/static-vxlan-agent",
             "ssh_url": "git@github.com:jbemmel/static-vxlan-agent.git",
             "language": "Go"
+         },
+         {
+            "url": "https://github.com/jbemmel/srl-salt-minion",
+            "ssh_url": "git@github.com:jbemmel/srl-salt-minion.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/jbemmel/spotlab",
@@ -643,14 +643,14 @@
             "language": "Makefile"
          },
          {
-            "url": "https://github.com/jbemmel/srl-netbeez",
-            "ssh_url": "git@github.com:jbemmel/srl-netbeez.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/jbemmel/jbemmel.github.io",
             "ssh_url": "git@github.com:jbemmel/jbemmel.github.io.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/jbemmel/srl-netbeez",
+            "ssh_url": "git@github.com:jbemmel/srl-netbeez.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/jbemmel/srl-open-r",
@@ -688,14 +688,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/jbemmel/srl-vxlan-oam",
-            "ssh_url": "git@github.com:jbemmel/srl-vxlan-oam.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/jbemmel/ready-to-play-srl-lab",
             "ssh_url": "git@github.com:jbemmel/ready-to-play-srl-lab.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/jbemmel/srl-vxlan-oam",
+            "ssh_url": "git@github.com:jbemmel/srl-vxlan-oam.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/jbemmel/srl-bgp-safeguard",
@@ -853,14 +853,14 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/koute/ci-helpers",
-            "ssh_url": "git@github.com:koute/ci-helpers.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/koute/emscripten-build",
             "ssh_url": "git@github.com:koute/emscripten-build.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/koute/ci-helpers",
+            "ssh_url": "git@github.com:koute/ci-helpers.git",
+            "language": "Shell"
          }
       ]
    },
@@ -1393,11 +1393,6 @@
             "language": "Dockerfile"
          },
          {
-            "url": "https://github.com/neechbear/rrdmon",
-            "ssh_url": "git@github.com:neechbear/rrdmon.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/neechbear/Colloquy-Bot-Simple",
             "ssh_url": "git@github.com:neechbear/Colloquy-Bot-Simple.git",
             "language": "Perl"
@@ -1418,18 +1413,23 @@
             "language": "Perl"
          },
          {
+            "url": "https://github.com/neechbear/rrdmon",
+            "ssh_url": "git@github.com:neechbear/rrdmon.git",
+            "language": "Shell"
+         },
+         {
             "url": "https://github.com/neechbear/gofoo",
             "ssh_url": "git@github.com:neechbear/gofoo.git",
             "language": "Go"
          },
          {
-            "url": "https://github.com/neechbear/docker-python26ci",
-            "ssh_url": "git@github.com:neechbear/docker-python26ci.git",
+            "url": "https://github.com/neechbear/wowlogonswitcher",
+            "ssh_url": "git@github.com:neechbear/wowlogonswitcher.git",
             "language": ""
          },
          {
-            "url": "https://github.com/neechbear/wowlogonswitcher",
-            "ssh_url": "git@github.com:neechbear/wowlogonswitcher.git",
+            "url": "https://github.com/neechbear/docker-python26ci",
+            "ssh_url": "git@github.com:neechbear/docker-python26ci.git",
             "language": ""
          },
          {
@@ -1473,6 +1473,11 @@
             "language": "Perl"
          },
          {
+            "url": "https://github.com/neechbear/zabbix",
+            "ssh_url": "git@github.com:neechbear/zabbix.git",
+            "language": ""
+         },
+         {
             "url": "https://github.com/neechbear/Sys-Filesystem",
             "ssh_url": "git@github.com:neechbear/Sys-Filesystem.git",
             "language": "Perl"
@@ -1481,11 +1486,6 @@
             "url": "https://github.com/neechbear/bash-syslog",
             "ssh_url": "git@github.com:neechbear/bash-syslog.git",
             "language": "Perl"
-         },
-         {
-            "url": "https://github.com/neechbear/zabbix",
-            "ssh_url": "git@github.com:neechbear/zabbix.git",
-            "language": ""
          },
          {
             "url": "https://github.com/neechbear/Util-SelfDestruct",
@@ -1523,6 +1523,11 @@
             "language": ""
          },
          {
+            "url": "https://github.com/neechbear/Parse-DMIDecode",
+            "ssh_url": "git@github.com:neechbear/Parse-DMIDecode.git",
+            "language": "DIGITAL Command Language"
+         },
+         {
             "url": "https://github.com/neechbear/Math-Telecom",
             "ssh_url": "git@github.com:neechbear/Math-Telecom.git",
             "language": "Perl"
@@ -1531,11 +1536,6 @@
             "url": "https://github.com/neechbear/noodlebar",
             "ssh_url": "git@github.com:neechbear/noodlebar.git",
             "language": ""
-         },
-         {
-            "url": "https://github.com/neechbear/Parse-DMIDecode",
-            "ssh_url": "git@github.com:neechbear/Parse-DMIDecode.git",
-            "language": "DIGITAL Command Language"
          },
          {
             "url": "https://github.com/neechbear/docker-perl5ci",
@@ -1563,9 +1563,9 @@
             "language": "Makefile"
          },
          {
-            "url": "https://github.com/neechbear/Apache2-AutoIndex-XSLT",
-            "ssh_url": "git@github.com:neechbear/Apache2-AutoIndex-XSLT.git",
-            "language": "Perl"
+            "url": "https://github.com/neechbear/colloquy",
+            "ssh_url": "git@github.com:neechbear/colloquy.git",
+            "language": "Lua"
          },
          {
             "url": "https://github.com/neechbear/Tie-RRD",
@@ -1573,9 +1573,14 @@
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/colloquy",
-            "ssh_url": "git@github.com:neechbear/colloquy.git",
-            "language": "Lua"
+            "url": "https://github.com/neechbear/Apache2-AutoIndex-XSLT",
+            "ssh_url": "git@github.com:neechbear/Apache2-AutoIndex-XSLT.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/neechbear/connected_users",
+            "ssh_url": "git@github.com:neechbear/connected_users.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/neechbear/nw.hn",
@@ -1588,19 +1593,9 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/neechbear/connected_users",
-            "ssh_url": "git@github.com:neechbear/connected_users.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/neechbear/botbot",
-            "ssh_url": "git@github.com:neechbear/botbot.git",
-            "language": "Perl"
-         },
-         {
-            "url": "https://github.com/neechbear/Tie-TinyURL",
-            "ssh_url": "git@github.com:neechbear/Tie-TinyURL.git",
-            "language": "Perl"
+            "url": "https://github.com/neechbear/docker-python27ci",
+            "ssh_url": "git@github.com:neechbear/docker-python27ci.git",
+            "language": ""
          },
          {
             "url": "https://github.com/neechbear/Acme-Stardate",
@@ -1613,9 +1608,14 @@
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/docker-python27ci",
-            "ssh_url": "git@github.com:neechbear/docker-python27ci.git",
-            "language": ""
+            "url": "https://github.com/neechbear/Tie-TinyURL",
+            "ssh_url": "git@github.com:neechbear/Tie-TinyURL.git",
+            "language": "Perl"
+         },
+         {
+            "url": "https://github.com/neechbear/botbot",
+            "ssh_url": "git@github.com:neechbear/botbot.git",
+            "language": "Perl"
          },
          {
             "url": "https://github.com/neechbear/botbot3",
@@ -1628,13 +1628,13 @@
             "language": ""
          },
          {
-            "url": "https://github.com/neechbear/WWW-FleXtel",
-            "ssh_url": "git@github.com:neechbear/WWW-FleXtel.git",
+            "url": "https://github.com/neechbear/Bundle-Colloquy-BotBot2",
+            "ssh_url": "git@github.com:neechbear/Bundle-Colloquy-BotBot2.git",
             "language": "Perl"
          },
          {
-            "url": "https://github.com/neechbear/Bundle-Colloquy-BotBot2",
-            "ssh_url": "git@github.com:neechbear/Bundle-Colloquy-BotBot2.git",
+            "url": "https://github.com/neechbear/WWW-FleXtel",
+            "ssh_url": "git@github.com:neechbear/WWW-FleXtel.git",
             "language": "Perl"
          },
          {

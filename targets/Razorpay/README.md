@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Razorpay}
-COMPANY_NAME ---> U{Users} ---> UN[77]
-COMPANY_NAME ---> R{Repositories} ---> RN[1657]
-COMPANY_NAME ---> G{Gists} ---> GN[606]
+COMPANY_NAME ---> U{Users} ---> UN[35]
+COMPANY_NAME ---> R{Repositories} ---> RN[1229]
+COMPANY_NAME ---> G{Gists} ---> GN[447]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]

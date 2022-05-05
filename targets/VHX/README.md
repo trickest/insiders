@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{VHX}
 COMPANY_NAME ---> U{Users} ---> UN[8]
 COMPANY_NAME ---> R{Repositories} ---> RN[264]
-COMPANY_NAME ---> G{Gists} ---> GN[349]
+COMPANY_NAME ---> G{Gists} ---> GN[350]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]

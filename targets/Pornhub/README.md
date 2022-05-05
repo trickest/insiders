@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Pornhub}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Ruby[Ruby]
-ML --> HTML[HTML]
+ML --> C[C]
+ML --> Clojure[Clojure]
+ML --> Swift[Swift]
+ML --> Python[Python]
 ```

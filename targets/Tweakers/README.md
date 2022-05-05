@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Tweakers}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[59]
-COMPANY_NAME ---> G{Gists} ---> GN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[32]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
 ML --> SCSS[SCSS]
+ML --> Shell[Shell]
 ML --> Makefile[Makefile]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{TransferWise}
-COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[150]
-COMPANY_NAME ---> G{Gists} ---> GN[24]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[259]
+COMPANY_NAME ---> G{Gists} ---> GN[26]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
+ML --> Java[Java]
 ML --> TypeScript[TypeScript]
 ML --> Python[Python]
-ML --> Objective-C[Objective-C]
 ```
