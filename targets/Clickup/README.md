@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Clickup}
-COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[88]
-COMPANY_NAME ---> G{Gists} ---> GN[24]
+COMPANY_NAME ---> U{Users} ---> UN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[136]
+COMPANY_NAME ---> G{Gists} ---> GN[27]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
 ML --> Python[Python]
-ML --> Kotlin[Kotlin]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> Java[Java]
+ML --> PHP[PHP]
 ```
