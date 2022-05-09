@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Go[Go]
 ML --> PHP[PHP]
+ML --> Scala[Scala]
 ```

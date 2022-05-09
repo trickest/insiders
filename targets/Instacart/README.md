@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Instacart}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[237]
+COMPANY_NAME ---> U{Users} ---> UN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[235]
 COMPANY_NAME ---> G{Gists} ---> GN[202]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
