@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Lululemon}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[187]
-COMPANY_NAME ---> G{Gists} ---> GN[81]
+COMPANY_NAME ---> U{Users} ---> UN[29]
+COMPANY_NAME ---> R{Repositories} ---> RN[299]
+COMPANY_NAME ---> G{Gists} ---> GN[130]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]

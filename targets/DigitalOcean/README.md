@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{DigitalOcean}
-COMPANY_NAME ---> U{Users} ---> UN[33]
-COMPANY_NAME ---> R{Repositories} ---> RN[613]
-COMPANY_NAME ---> G{Gists} ---> GN[231]
+COMPANY_NAME ---> U{Users} ---> UN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[616]
+COMPANY_NAME ---> G{Gists} ---> GN[229]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]
