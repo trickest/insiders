@@ -3,13 +3,11 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HealthifyMe}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[87]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[6]
 COMPANY_NAME ---> G{Gists} ---> GN[33]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Objective-C[Objective-C]
-ML --> Python[Python]
-ML --> HTML[HTML]
-ML --> TypeScript[TypeScript]
+ML --> Rebol[Rebol]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ```

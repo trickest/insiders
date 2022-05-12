@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Kubernetes}
 COMPANY_NAME ---> U{Users} ---> UN[664]
-COMPANY_NAME ---> R{Repositories} ---> RN[15058]
-COMPANY_NAME ---> G{Gists} ---> GN[10821]
+COMPANY_NAME ---> R{Repositories} ---> RN[15164]
+COMPANY_NAME ---> G{Gists} ---> GN[470]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
 ML --> Python[Python]
