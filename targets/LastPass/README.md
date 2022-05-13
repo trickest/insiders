@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{LastPass}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[37]
+COMPANY_NAME ---> R{Repositories} ---> RN[45]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
-ML --> CSS[CSS]
 ML --> HTML[HTML]
-ML --> Java[Java]
-ML --> Python[Python]
+ML --> CSS[CSS]
+ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
 ```

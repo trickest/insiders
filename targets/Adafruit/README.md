@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Adafruit}
-COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[275]
+COMPANY_NAME ---> U{Users} ---> UN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[280]
 COMPANY_NAME ---> G{Gists} ---> GN[342]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
