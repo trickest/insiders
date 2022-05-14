@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Evernote}
 COMPANY_NAME ---> U{Users} ---> UN[15]
-COMPANY_NAME ---> R{Repositories} ---> RN[62]
-COMPANY_NAME ---> G{Gists} ---> GN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
+COMPANY_NAME ---> G{Gists} ---> GN[38]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
 ML --> Swift[Swift]
-ML --> Java[Java]
-ML --> Elixir[Elixir]
+ML --> HTML[HTML]
+ML --> C#[C#]
+ML --> Rust[Rust]
 ```

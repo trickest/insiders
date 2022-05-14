@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Aiven}
 COMPANY_NAME ---> U{Users} ---> UN[23]
-COMPANY_NAME ---> R{Repositories} ---> RN[403]
+COMPANY_NAME ---> R{Repositories} ---> RN[404]
 COMPANY_NAME ---> G{Gists} ---> GN[196]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]

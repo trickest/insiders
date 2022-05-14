@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Connectis}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[96]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[134]
+COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> JavaScript[JavaScript]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Python[Python]
 ML --> Ruby[Ruby]
-ML --> Go[Go]
-ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
 ```

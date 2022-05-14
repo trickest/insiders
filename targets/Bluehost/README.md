@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bluehost}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[246]
-COMPANY_NAME ---> G{Gists} ---> GN[165]
+COMPANY_NAME ---> U{Users} ---> UN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[805]
+COMPANY_NAME ---> G{Gists} ---> GN[262]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> CSS[CSS]
+ML --> Groovy[Groovy]
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Perl[Perl]
-ML --> CSS[CSS]
-ML --> C[C]
+ML --> Java[Java]
 ```

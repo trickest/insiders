@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Auvik}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[45]
+COMPANY_NAME ---> R{Repositories} ---> RN[67]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> C++[C++]
 ML --> Java[Java]
+ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
-ML --> Python[Python]
-ML --> Kotlin[Kotlin]
-ML --> Scala[Scala]
+ML --> R[R]
 ```
