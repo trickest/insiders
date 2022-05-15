@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Gmelius}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[52]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[68]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
 ML --> Kotlin[Kotlin]
-ML --> C#[C#]
+ML --> TypeScript[TypeScript]
+ML --> Vue[Vue]
 ```

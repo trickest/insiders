@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{HubSpot}
 COMPANY_NAME ---> U{Users} ---> UN[45]
-COMPANY_NAME ---> R{Repositories} ---> RN[650]
-COMPANY_NAME ---> G{Gists} ---> GN[463]
+COMPANY_NAME ---> R{Repositories} ---> RN[626]
+COMPANY_NAME ---> G{Gists} ---> GN[458]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

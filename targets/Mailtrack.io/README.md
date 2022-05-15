@@ -3,12 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Mailtrack.io}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[2]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Shell[Shell]
 ```
