@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Jora}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[52]
+COMPANY_NAME ---> G{Gists} ---> GN[47]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Vue[Vue]
 ML --> HTML[HTML]
+ML --> CSS[CSS]
 ML --> Kotlin[Kotlin]
-ML --> Java[Java]
 ```

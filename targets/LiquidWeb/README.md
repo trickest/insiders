@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{LiquidWeb}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[267]
+COMPANY_NAME ---> R{Repositories} ---> RN[264]
 COMPANY_NAME ---> G{Gists} ---> GN[216]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]

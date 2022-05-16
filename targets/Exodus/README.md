@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Exodus}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[84]
-COMPANY_NAME ---> G{Gists} ---> GN[50]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[100]
+COMPANY_NAME ---> G{Gists} ---> GN[91]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Dockerfile[Dockerfile]
-ML --> PHP[PHP]
 ML --> HTML[HTML]
-ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> Ruby[Ruby]
+ML --> Vue[Vue]
 ```
