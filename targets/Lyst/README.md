@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Lyst}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
 COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> PHP[PHP]
-ML --> Shell[Shell]
-ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
+ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> Shell[Shell]
 ```

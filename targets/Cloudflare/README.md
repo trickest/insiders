@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cloudflare}
-COMPANY_NAME ---> U{Users} ---> UN[64]
-COMPANY_NAME ---> R{Repositories} ---> RN[1695]
-COMPANY_NAME ---> G{Gists} ---> GN[1630]
+COMPANY_NAME ---> U{Users} ---> UN[100]
+COMPANY_NAME ---> R{Repositories} ---> RN[1903]
+COMPANY_NAME ---> G{Gists} ---> GN[1749]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]
 ML --> Python[Python]
 ML --> Rust[Rust]
-ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
 ```
