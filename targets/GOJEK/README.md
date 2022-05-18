@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{GOJEK}
 COMPANY_NAME ---> U{Users} ---> UN[13]
 COMPANY_NAME ---> R{Repositories} ---> RN[240]
-COMPANY_NAME ---> G{Gists} ---> GN[81]
+COMPANY_NAME ---> G{Gists} ---> GN[79]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
 ML --> JavaScript[JavaScript]
