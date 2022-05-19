@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{DigitalOcean}
 COMPANY_NAME ---> U{Users} ---> UN[19]
 COMPANY_NAME ---> R{Repositories} ---> RN[560]
-COMPANY_NAME ---> G{Gists} ---> GN[222]
+COMPANY_NAME ---> G{Gists} ---> GN[223]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]
