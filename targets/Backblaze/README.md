@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Backblaze}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[30]
-COMPANY_NAME ---> G{Gists} ---> GN[62]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[130]
+COMPANY_NAME ---> G{Gists} ---> GN[151]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Kotlin[Kotlin]
+ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Go[Go]
-ML --> C[C]
-ML --> Shell[Shell]
+ML --> Rust[Rust]
+ML --> Ruby[Ruby]
+ML --> Kotlin[Kotlin]
 ```

@@ -11,5 +11,5 @@ ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
 ML --> Python[Python]
 ML --> Vue[Vue]
-ML --> HTML[HTML]
+ML --> Rust[Rust]
 ```
