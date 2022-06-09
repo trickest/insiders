@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Google}
-COMPANY_NAME ---> U{Users} ---> UN[653]
-COMPANY_NAME ---> R{Repositories} ---> RN[11475]
-COMPANY_NAME ---> G{Gists} ---> GN[8099]
+COMPANY_NAME ---> U{Users} ---> UN[655]
+COMPANY_NAME ---> R{Repositories} ---> RN[11583]
+COMPANY_NAME ---> G{Gists} ---> GN[8114]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

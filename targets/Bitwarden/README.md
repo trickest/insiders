@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Bitwarden}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[204]
+COMPANY_NAME ---> R{Repositories} ---> RN[206]
 COMPANY_NAME ---> G{Gists} ---> GN[39]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
