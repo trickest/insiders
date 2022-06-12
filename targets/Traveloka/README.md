@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Traveloka}
 COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[655]
+COMPANY_NAME ---> R{Repositories} ---> RN[656]
 COMPANY_NAME ---> G{Gists} ---> GN[184]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
