@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{GOJEK}
-COMPANY_NAME ---> U{Users} ---> UN[40]
-COMPANY_NAME ---> R{Repositories} ---> RN[616]
-COMPANY_NAME ---> G{Gists} ---> GN[114]
+COMPANY_NAME ---> U{Users} ---> UN[37]
+COMPANY_NAME ---> R{Repositories} ---> RN[700]
+COMPANY_NAME ---> G{Gists} ---> GN[188]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Go[Go]
 ML --> Python[Python]
-ML --> HTML[HTML]
+ML --> Go[Go]
+ML --> Kotlin[Kotlin]
 ```

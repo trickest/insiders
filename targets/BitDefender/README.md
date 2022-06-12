@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{BitDefender}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[42]
-COMPANY_NAME ---> G{Gists} ---> GN[35]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
 ML --> TypeScript[TypeScript]
-ML --> HTML[HTML]
+ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
+ML --> Lua[Lua]
 ```

@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{DropBox}
-COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[559]
-COMPANY_NAME ---> G{Gists} ---> GN[227]
+COMPANY_NAME ---> U{Users} ---> UN[41]
+COMPANY_NAME ---> R{Repositories} ---> RN[621]
+COMPANY_NAME ---> G{Gists} ---> GN[230]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Rust[Rust]
