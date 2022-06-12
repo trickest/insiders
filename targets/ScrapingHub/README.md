@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ScrapingHub}
-COMPANY_NAME ---> U{Users} ---> UN[40]
-COMPANY_NAME ---> R{Repositories} ---> RN[539]
-COMPANY_NAME ---> G{Gists} ---> GN[413]
+COMPANY_NAME ---> U{Users} ---> UN[39]
+COMPANY_NAME ---> R{Repositories} ---> RN[473]
+COMPANY_NAME ---> G{Gists} ---> GN[381]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Go[Go]
+ML --> CSS[CSS]
 ```
