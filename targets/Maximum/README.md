@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Maximum}
 COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[159]
-COMPANY_NAME ---> G{Gists} ---> GN[46]
+COMPANY_NAME ---> R{Repositories} ---> RN[161]
+COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{OVH}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[456]
+COMPANY_NAME ---> R{Repositories} ---> RN[457]
 COMPANY_NAME ---> G{Gists} ---> GN[120]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]

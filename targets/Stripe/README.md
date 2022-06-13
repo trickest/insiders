@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Stripe}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[94]
-COMPANY_NAME ---> G{Gists} ---> GN[26]
+COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
+ML --> Java[Java]
+ML --> Kotlin[Kotlin]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> Shell[Shell]
 ML --> JavaScript[JavaScript]
+ML --> Dart[Dart]
 ```

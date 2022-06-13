@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Nextcloud}
-COMPANY_NAME ---> U{Users} ---> UN[185]
-COMPANY_NAME ---> R{Repositories} ---> RN[3352]
-COMPANY_NAME ---> G{Gists} ---> GN[1707]
+COMPANY_NAME ---> U{Users} ---> UN[107]
+COMPANY_NAME ---> R{Repositories} ---> RN[1868]
+COMPANY_NAME ---> G{Gists} ---> GN[773]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
 ML --> Python[Python]
 ML --> Shell[Shell]
-ML --> HTML[HTML]
+ML --> Java[Java]
 ```
