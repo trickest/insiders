@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{Centrify}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
+COMPANY_NAME ---> G{Gists} ---> GN[85]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
 ML --> C#[C#]
-ML --> Lua[Lua]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> Shell[Shell]
+ML --> C++[C++]
 ```

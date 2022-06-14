@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CBS}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C[C]
+ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Shell[Shell]
+ML --> R[R]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

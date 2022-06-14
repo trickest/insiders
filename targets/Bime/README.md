@@ -4,12 +4,9 @@
 graph LR
 COMPANY_NAME{Bime}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[20]
+COMPANY_NAME ---> R{Repositories} ---> RN[4]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> CSS[CSS]
-ML --> PHP[PHP]
-ML --> JavaScript[JavaScript]
-ML --> SCSS[SCSS]
+ML --> R[R]
+ML --> C[C]
 ```
