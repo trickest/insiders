@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{EpicGames}
 COMPANY_NAME ---> U{Users} ---> UN[2216]
-COMPANY_NAME ---> R{Repositories} ---> RN[55291]
+COMPANY_NAME ---> R{Repositories} ---> RN[55298]
 COMPANY_NAME ---> G{Gists} ---> GN[9275]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

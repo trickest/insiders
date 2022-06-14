@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Qulture.Rocks}
 COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[132]
+COMPANY_NAME ---> R{Repositories} ---> RN[118]
 COMPANY_NAME ---> G{Gists} ---> GN[65]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
 ML --> HTML[HTML]
 ML --> Ruby[Ruby]
 ML --> Python[Python]
