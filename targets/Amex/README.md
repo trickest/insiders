@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Amex}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[48]
+COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> TypeScript[TypeScript]
-ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> C++[C++]
+ML --> TypeScript[TypeScript]
+ML --> CoffeeScript[CoffeeScript]
+ML --> CSS[CSS]
 ```

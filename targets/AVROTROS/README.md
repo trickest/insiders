@@ -3,11 +3,10 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AVROTROS}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[14]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> HTML[HTML]
 ML --> C#[C#]
 ```
