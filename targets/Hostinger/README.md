@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Hostinger}
 COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[106]
-COMPANY_NAME ---> G{Gists} ---> GN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[131]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> PHP[PHP]
-ML --> TypeScript[TypeScript]
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ```
