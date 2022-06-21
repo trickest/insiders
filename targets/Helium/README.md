@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Helium}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[306]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[303]
 COMPANY_NAME ---> G{Gists} ---> GN[340]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Erlang[Erlang]

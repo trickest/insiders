@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Airtable}
-COMPANY_NAME ---> U{Users} ---> UN[32]
-COMPANY_NAME ---> R{Repositories} ---> RN[483]
-COMPANY_NAME ---> G{Gists} ---> GN[284]
+COMPANY_NAME ---> U{Users} ---> UN[45]
+COMPANY_NAME ---> R{Repositories} ---> RN[574]
+COMPANY_NAME ---> G{Gists} ---> GN[407]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> TypeScript[TypeScript]
 ML --> Ruby[Ruby]
+ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
 ```

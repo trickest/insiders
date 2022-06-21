@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Fitbit}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[230]
-COMPANY_NAME ---> G{Gists} ---> GN[179]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[214]
+COMPANY_NAME ---> G{Gists} ---> GN[178]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

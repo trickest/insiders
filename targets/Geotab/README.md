@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Geotab}
 COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[193]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[126]
+COMPANY_NAME ---> G{Gists} ---> GN[19]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
-ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
+ML --> Java[Java]
+ML --> Rust[Rust]
 ```

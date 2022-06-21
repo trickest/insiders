@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Logitech}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[39]
+COMPANY_NAME ---> R{Repositories} ---> RN[38]
 COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
