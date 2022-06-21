@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{NewRelic}
-COMPANY_NAME ---> U{Users} ---> UN[36]
-COMPANY_NAME ---> R{Repositories} ---> RN[455]
+COMPANY_NAME ---> U{Users} ---> UN[37]
+COMPANY_NAME ---> R{Repositories} ---> RN[456]
 COMPANY_NAME ---> G{Gists} ---> GN[375]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Upstox}
-COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[140]
-COMPANY_NAME ---> G{Gists} ---> GN[28]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
+COMPANY_NAME ---> G{Gists} ---> GN[18]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> HCL[HCL]
-ML --> HTML[HTML]
-ML --> Go[Go]
+ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> Kotlin[Kotlin]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Vivy}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
-COMPANY_NAME ---> G{Gists} ---> GN[304]
+COMPANY_NAME ---> R{Repositories} ---> RN[38]
+COMPANY_NAME ---> G{Gists} ---> GN[300]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
+ML --> Kotlin[Kotlin]
+ML --> Java[Java]
 ML --> Go[Go]
-ML --> C#[C#]
-ML --> PHP[PHP]
 ```
