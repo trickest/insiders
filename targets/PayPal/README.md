@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{PayPal}
-COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[692]
-COMPANY_NAME ---> G{Gists} ---> GN[273]
+COMPANY_NAME ---> U{Users} ---> UN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[713]
+COMPANY_NAME ---> G{Gists} ---> GN[272]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

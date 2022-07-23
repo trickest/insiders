@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Veeam}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[70]
-COMPANY_NAME ---> G{Gists} ---> GN[44]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[73]
+COMPANY_NAME ---> G{Gists} ---> GN[29]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> PowerShell[PowerShell]
-ML --> PHP[PHP]
+ML --> C#[C#]
+ML --> Shell[Shell]
 ML --> Python[Python]
-ML --> HTML[HTML]
+ML --> HCL[HCL]
 ```

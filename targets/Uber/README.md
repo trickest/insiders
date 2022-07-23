@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Uber}
-COMPANY_NAME ---> U{Users} ---> UN[68]
-COMPANY_NAME ---> R{Repositories} ---> RN[1336]
-COMPANY_NAME ---> G{Gists} ---> GN[808]
+COMPANY_NAME ---> U{Users} ---> UN[84]
+COMPANY_NAME ---> R{Repositories} ---> RN[1426]
+COMPANY_NAME ---> G{Gists} ---> GN[627]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Pixiv}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[251]
+COMPANY_NAME ---> R{Repositories} ---> RN[252]
 COMPANY_NAME ---> G{Gists} ---> GN[401]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
