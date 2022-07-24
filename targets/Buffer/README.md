@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Buffer}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[84]
-COMPANY_NAME ---> G{Gists} ---> GN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C++[C++]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> CMake[CMake]
+ML --> Python[Python]
+ML --> C++[C++]
+ML --> Shell[Shell]
+ML --> PHP[PHP]
 ```

@@ -8,8 +8,8 @@ COMPANY_NAME ---> R{Repositories} ---> RN[217]
 COMPANY_NAME ---> G{Gists} ---> GN[151]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> GDScript[GDScript]
-ML --> Python[Python]
 ML --> Shell[Shell]
+ML --> Python[Python]
 ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
 ```
