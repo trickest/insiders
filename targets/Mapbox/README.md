@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Mapbox}
-COMPANY_NAME ---> U{Users} ---> UN[92]
-COMPANY_NAME ---> R{Repositories} ---> RN[1322]
+COMPANY_NAME ---> U{Users} ---> UN[90]
+COMPANY_NAME ---> R{Repositories} ---> RN[1347]
 COMPANY_NAME ---> G{Gists} ---> GN[1609]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

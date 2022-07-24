@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Pinterest}
-COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[184]
+COMPANY_NAME ---> U{Users} ---> UN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[187]
 COMPANY_NAME ---> G{Gists} ---> GN[192]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
