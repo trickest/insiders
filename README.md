@@ -24,7 +24,7 @@ A [Trickest](https://trickest.com) workflow collects a list of targets, enumerat
 - Use a slightly modified version of [CrossLinked](https://github.com/m8r0wn/CrossLinked) to collect employee names and usernames from LinkedIn(Thanks, [m8r0wn](https://github.com/m8r0wn))
 - Generate username permutations based on the collected names/usernames.
 - Enumerate public GitHub organization members using the [GitHub CLI](https://cli.github.com/) (Thanks, GitHub?)
-- Merge the collected potential usernames and pass them to our own [enumerepo](https://github.com/trickest/enumerepo) (Public release soon!) which validates the usernames and enumerates their public repositories.
+- Merge the collected potential usernames and pass them to our own [enumerepo](https://github.com/trickest/enumerepo) which validates the usernames and enumerates their public repositories.
 - All of the collected orgs/usernames/repos/gists are then passed to [TruffleHog](https://github.com/trufflesecurity/trufflehog) to find exposed secrets/credentials (Thanks [Truffle Security](https://github.com/trufflesecurity)!) as highlighted above in the `Secrets` workflow. Note that the results of this part are not pushed to this repository for obvious reasons. They are only accessible to our users who can edit/customize this workflow to view the secrets, receive notifications about new ones, or export them using one of our integrations.
 - In the end, we parse and organize the collected data and push it here (except for the `Secrets` part.)
 - We have the workflow scheduled to run regularly to keep the data up-to-date at all times.
