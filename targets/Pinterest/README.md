@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Pinterest}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[187]
-COMPANY_NAME ---> G{Gists} ---> GN[192]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[183]
+COMPANY_NAME ---> G{Gists} ---> GN[186]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Erlang[Erlang]

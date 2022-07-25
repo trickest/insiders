@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zendesk}
-COMPANY_NAME ---> U{Users} ---> UN[58]
-COMPANY_NAME ---> R{Repositories} ---> RN[833]
-COMPANY_NAME ---> G{Gists} ---> GN[459]
+COMPANY_NAME ---> U{Users} ---> UN[68]
+COMPANY_NAME ---> R{Repositories} ---> RN[902]
+COMPANY_NAME ---> G{Gists} ---> GN[467]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

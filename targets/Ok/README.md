@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Ok}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[37]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[39]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
+ML --> Dockerfile[Dockerfile]
 ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
-ML --> CSS[CSS]
+ML --> Shell[Shell]
 ```

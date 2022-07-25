@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Marriott}
 COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[81]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[94]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> Java[Java]
 ML --> Python[Python]
-ML --> C++[C++]
+ML --> Ruby[Ruby]
 ```
