@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Koho}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[39]
+COMPANY_NAME ---> R{Repositories} ---> RN[89]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
-ML --> HTML[HTML]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
-ML --> TypeScript[TypeScript]
+ML --> Shell[Shell]
+ML --> C#[C#]
 ```
