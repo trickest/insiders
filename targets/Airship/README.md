@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Airship}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[100]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[68]
+COMPANY_NAME ---> G{Gists} ---> GN[83]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
 ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ML --> Java[Java]
+ML --> ActionScript[ActionScript]
 ```

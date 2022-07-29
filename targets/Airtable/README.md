@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Airtable}
 COMPANY_NAME ---> U{Users} ---> UN[50]
-COMPANY_NAME ---> R{Repositories} ---> RN[602]
-COMPANY_NAME ---> G{Gists} ---> GN[334]
+COMPANY_NAME ---> R{Repositories} ---> RN[568]
+COMPANY_NAME ---> G{Gists} ---> GN[378]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

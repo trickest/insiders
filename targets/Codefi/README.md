@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Codefi}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[56]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
 COMPANY_NAME ---> G{Gists} ---> GN[124]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Python[Python]
-ML --> Ruby[Ruby]
-ML --> Kotlin[Kotlin]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Python[Python]
+ML --> PowerShell[PowerShell]
+ML --> CSS[CSS]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bluesnap}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[210]
+COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C[C]
-ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> SCSS[SCSS]
-ML --> Lua[Lua]
+ML --> Python[Python]
+ML --> Shell[Shell]
+ML --> Go[Go]
+ML --> HTML[HTML]
 ```
