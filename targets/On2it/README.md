@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{On2it}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[87]
+COMPANY_NAME ---> R{Repositories} ---> RN[30]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
-ML --> PHP[PHP]
-ML --> Python[Python]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ML --> C#[C#]
-ML --> Lua[Lua]
+ML --> Python[Python]
 ```

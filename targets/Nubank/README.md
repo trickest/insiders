@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Nubank}
-COMPANY_NAME ---> U{Users} ---> UN[91]
-COMPANY_NAME ---> R{Repositories} ---> RN[1612]
+COMPANY_NAME ---> U{Users} ---> UN[102]
+COMPANY_NAME ---> R{Repositories} ---> RN[1650]
 COMPANY_NAME ---> G{Gists} ---> GN[833]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

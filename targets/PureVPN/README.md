@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{PureVPN}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[57]
+COMPANY_NAME ---> R{Repositories} ---> RN[122]
 COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
 ML --> Swift[Swift]
-ML --> TypeScript[TypeScript]
-ML --> Python[Python]
+ML --> CSS[CSS]
 ```
