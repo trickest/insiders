@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Elastic}
 COMPANY_NAME ---> U{Users} ---> UN[152]
-COMPANY_NAME ---> R{Repositories} ---> RN[3495]
-COMPANY_NAME ---> G{Gists} ---> GN[1642]
+COMPANY_NAME ---> R{Repositories} ---> RN[3496]
+COMPANY_NAME ---> G{Gists} ---> GN[4154]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
 ML --> Python[Python]
+ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> Shell[Shell]
 ```
