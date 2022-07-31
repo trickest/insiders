@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{OVH}
-COMPANY_NAME ---> U{Users} ---> UN[34]
-COMPANY_NAME ---> R{Repositories} ---> RN[599]
-COMPANY_NAME ---> G{Gists} ---> GN[110]
+COMPANY_NAME ---> U{Users} ---> UN[30]
+COMPANY_NAME ---> R{Repositories} ---> RN[498]
+COMPANY_NAME ---> G{Gists} ---> GN[112]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
 ML --> JavaScript[JavaScript]
