@@ -88,13 +88,13 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-api",
-            "ssh_url": "git@github.com:NicolasSiver/nodebb-plugin-ns-api.git",
+            "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-disable-infinite-scroll",
+            "ssh_url": "git@github.com:NicolasSiver/nodebb-plugin-ns-disable-infinite-scroll.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-disable-infinite-scroll",
-            "ssh_url": "git@github.com:NicolasSiver/nodebb-plugin-ns-disable-infinite-scroll.git",
+            "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-api",
+            "ssh_url": "git@github.com:NicolasSiver/nodebb-plugin-ns-api.git",
             "language": "JavaScript"
          },
          {
@@ -255,16 +255,6 @@
       ]
    },
    {
-      "user": "https://github.com/Keyi-Wang",
-      "repos": [
-         {
-            "url": "https://github.com/Keyi-Wang/operate-system",
-            "ssh_url": "git@github.com:Keyi-Wang/operate-system.git",
-            "language": ""
-         }
-      ]
-   },
-   {
       "user": "https://github.com/luwes",
       "repos": [
          {
@@ -398,6 +388,11 @@
             "language": "JavaScript"
          },
          {
+            "url": "https://github.com/luwes/super-media-element",
+            "ssh_url": "git@github.com:luwes/super-media-element.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/luwes/redux-proxy-selectors",
             "ssh_url": "git@github.com:luwes/redux-proxy-selectors.git",
             "language": "JavaScript"
@@ -405,11 +400,6 @@
          {
             "url": "https://github.com/luwes/jwplayer-video-element",
             "ssh_url": "git@github.com:luwes/jwplayer-video-element.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/luwes/super-media-element",
-            "ssh_url": "git@github.com:luwes/super-media-element.git",
             "language": "JavaScript"
          },
          {
@@ -751,6 +741,21 @@
             "url": "https://github.com/quentinms/hackforthesea",
             "ssh_url": "git@github.com:quentinms/hackforthesea.git",
             "language": "C++"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/yuenwah",
+      "repos": [
+         {
+            "url": "https://github.com/yuenwah/k8s",
+            "ssh_url": "git@github.com:yuenwah/k8s.git",
+            "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/yuenwah/linkerd",
+            "ssh_url": "git@github.com:yuenwah/linkerd.git",
+            "language": ""
          }
       ]
    }
