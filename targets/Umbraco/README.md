@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Umbraco}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[311]
-COMPANY_NAME ---> G{Gists} ---> GN[341]
+COMPANY_NAME ---> R{Repositories} ---> RN[302]
+COMPANY_NAME ---> G{Gists} ---> GN[339]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
 ML --> JavaScript[JavaScript]

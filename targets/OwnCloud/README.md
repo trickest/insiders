@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{OwnCloud}
-COMPANY_NAME ---> U{Users} ---> UN[73]
-COMPANY_NAME ---> R{Repositories} ---> RN[1160]
-COMPANY_NAME ---> G{Gists} ---> GN[848]
+COMPANY_NAME ---> U{Users} ---> UN[87]
+COMPANY_NAME ---> R{Repositories} ---> RN[1363]
+COMPANY_NAME ---> G{Gists} ---> GN[905]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> PHP[PHP]
 ML --> Java[Java]
-ML --> Go[Go]
+ML --> PHP[PHP]
+ML --> Shell[Shell]
 ```

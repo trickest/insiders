@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Overstock}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[171]
-COMPANY_NAME ---> G{Gists} ---> GN[42]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[104]
+COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> CSS[CSS]
-ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ML --> HTML[HTML]
-ML --> R[R]
+ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Python[Python]
 ```
