@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{NinjaKiwi}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
+ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
+ML --> Go[Go]
 ML --> C++[C++]
-ML --> C[C]
-ML --> BitBake[BitBake]
+ML --> Objective-C[Objective-C]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Woodpecker}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[61]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> U{Users} ---> UN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[90]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
 ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> CSS[CSS]
+ML --> Ruby[Ruby]
 ```

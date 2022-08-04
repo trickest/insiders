@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Shopify}
-COMPANY_NAME ---> U{Users} ---> UN[253]
-COMPANY_NAME ---> R{Repositories} ---> RN[5607]
-COMPANY_NAME ---> G{Gists} ---> GN[4209]
+COMPANY_NAME ---> U{Users} ---> UN[250]
+COMPANY_NAME ---> R{Repositories} ---> RN[5545]
+COMPANY_NAME ---> G{Gists} ---> GN[4135]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

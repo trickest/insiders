@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SEMrush}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[20]
 COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Objective-C[Objective-C]
 ML --> JavaScript[JavaScript]
 ML --> Smarty[Smarty]
-ML --> Go[Go]
-ML --> Puppet[Puppet]
 ML --> HTML[HTML]
+ML --> Go[Go]
 ```
