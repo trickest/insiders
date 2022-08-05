@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Salesforce}
-COMPANY_NAME ---> U{Users} ---> UN[41]
-COMPANY_NAME ---> R{Repositories} ---> RN[557]
-COMPANY_NAME ---> G{Gists} ---> GN[482]
+COMPANY_NAME ---> U{Users} ---> UN[38]
+COMPANY_NAME ---> R{Repositories} ---> RN[552]
+COMPANY_NAME ---> G{Gists} ---> GN[612]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]
 ML --> Apex[Apex]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
+ML --> Python[Python]
 ```

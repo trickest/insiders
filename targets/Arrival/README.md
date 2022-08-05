@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Arrival}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> HCL[HCL]
-ML --> Go[Go]
-ML --> HTML[HTML]
+ML --> C[C]
+ML --> C++[C++]
+ML --> CSS[CSS]
 ```

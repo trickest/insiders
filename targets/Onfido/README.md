@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Onfido}
-COMPANY_NAME ---> U{Users} ---> UN[23]
-COMPANY_NAME ---> R{Repositories} ---> RN[162]
-COMPANY_NAME ---> G{Gists} ---> GN[50]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[86]
+COMPANY_NAME ---> G{Gists} ---> GN[41]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
-ML --> HTML[HTML]
-ML --> Ruby[Ruby]
+ML --> Python[Python]
+ML --> Objective-C[Objective-C]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Baidu}
 COMPANY_NAME ---> U{Users} ---> UN[83]
-COMPANY_NAME ---> R{Repositories} ---> RN[878]
-COMPANY_NAME ---> G{Gists} ---> GN[89]
+COMPANY_NAME ---> R{Repositories} ---> RN[873]
+COMPANY_NAME ---> G{Gists} ---> GN[85]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
-ML --> HTML[HTML]
 ML --> C++[C++]
+ML --> HTML[HTML]
 ```
