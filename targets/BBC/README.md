@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{BBC}
 COMPANY_NAME ---> U{Users} ---> UN[53]
-COMPANY_NAME ---> R{Repositories} ---> RN[1298]
-COMPANY_NAME ---> G{Gists} ---> GN[714]
+COMPANY_NAME ---> R{Repositories} ---> RN[1299]
+COMPANY_NAME ---> G{Gists} ---> GN[715]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

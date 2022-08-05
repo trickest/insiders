@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Crowdstrike}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[336]
-COMPANY_NAME ---> G{Gists} ---> GN[847]
+COMPANY_NAME ---> U{Users} ---> UN[41]
+COMPANY_NAME ---> R{Repositories} ---> RN[1057]
+COMPANY_NAME ---> G{Gists} ---> GN[1048]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
-ML --> Ruby[Ruby]
-ML --> C[C]
+ML --> CSS[CSS]
+ML --> Groovy[Groovy]
 ML --> Java[Java]
+ML --> Shell[Shell]
 ```

@@ -113,14 +113,14 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/matsrietdijk/wp-benchmark",
-            "ssh_url": "git@github.com:matsrietdijk/wp-benchmark.git",
-            "language": "PHP"
-         },
-         {
             "url": "https://github.com/matsrietdijk/matsrietdijk-frontend",
             "ssh_url": "git@github.com:matsrietdijk/matsrietdijk-frontend.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/matsrietdijk/wp-benchmark",
+            "ssh_url": "git@github.com:matsrietdijk/wp-benchmark.git",
+            "language": "PHP"
          },
          {
             "url": "https://github.com/matsrietdijk/www.matsrietdijk.com",
@@ -223,6 +223,11 @@
       "user": "https://github.com/reneklacan",
       "repos": [
          {
+            "url": "https://github.com/reneklacan/symspell",
+            "ssh_url": "git@github.com:reneklacan/symspell.git",
+            "language": "Rust"
+         },
+         {
             "url": "https://github.com/reneklacan/cayley-ruby",
             "ssh_url": "git@github.com:reneklacan/cayley-ruby.git",
             "language": "Ruby"
@@ -316,11 +321,6 @@
             "url": "https://github.com/reneklacan/kabuto",
             "ssh_url": "git@github.com:reneklacan/kabuto.git",
             "language": "Ruby"
-         },
-         {
-            "url": "https://github.com/reneklacan/haslim",
-            "ssh_url": "git@github.com:reneklacan/haslim.git",
-            "language": "Haskell"
          },
          {
             "url": "https://github.com/reneklacan/haslim",
