@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Pantheon}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[24]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Vim_script[Vim script]
-ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
+ML --> R[R]
 ```

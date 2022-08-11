@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Roblox}
 COMPANY_NAME ---> U{Users} ---> UN[77]
-COMPANY_NAME ---> R{Repositories} ---> RN[662]
+COMPANY_NAME ---> R{Repositories} ---> RN[687]
 COMPANY_NAME ---> G{Gists} ---> GN[152]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
+ML --> C++[C++]
 ML --> HTML[HTML]
-ML --> Ruby[Ruby]
 ```

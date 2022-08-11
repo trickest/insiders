@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{PagerDuty}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[213]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[228]
 COMPANY_NAME ---> G{Gists} ---> GN[164]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
