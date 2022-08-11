@@ -45,6 +45,26 @@
       ]
    },
    {
+      "user": "https://github.com/dineshmistry",
+      "repos": [
+         {
+            "url": "https://github.com/dineshmistry/vagrant-kubernetes",
+            "ssh_url": "git@github.com:dineshmistry/vagrant-kubernetes.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/dineshmistry/vagrant",
+            "ssh_url": "git@github.com:dineshmistry/vagrant.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/dineshmistry/kubernetes",
+            "ssh_url": "git@github.com:dineshmistry/kubernetes.git",
+            "language": ""
+         }
+      ]
+   },
+   {
       "user": "https://github.com/hex-ci",
       "repos": [
          {
@@ -138,6 +158,11 @@
             "language": "JavaScript"
          },
          {
+            "url": "https://github.com/hex-ci/postcss-unit-processor",
+            "ssh_url": "git@github.com:hex-ci/postcss-unit-processor.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/hex-ci/geak-audio",
             "ssh_url": "git@github.com:hex-ci/geak-audio.git",
             "language": "JavaScript"
@@ -150,11 +175,6 @@
          {
             "url": "https://github.com/hex-ci/no-merge-button",
             "ssh_url": "git@github.com:hex-ci/no-merge-button.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/hex-ci/postcss-unit-processor",
-            "ssh_url": "git@github.com:hex-ci/postcss-unit-processor.git",
             "language": "JavaScript"
          },
          {
@@ -251,16 +271,6 @@
             "url": "https://github.com/hex-ci/docker-shadowsocks-kcptun",
             "ssh_url": "git@github.com:hex-ci/docker-shadowsocks-kcptun.git",
             "language": "Shell"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/Zainab-Abbas",
-      "repos": [
-         {
-            "url": "https://github.com/Zainab-Abbas/Multipath-TCP",
-            "ssh_url": "git@github.com:Zainab-Abbas/Multipath-TCP.git",
-            "language": "C++"
          }
       ]
    }

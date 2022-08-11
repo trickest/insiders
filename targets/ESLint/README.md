@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{ESLint}
 COMPANY_NAME ---> U{Users} ---> UN[32]
-COMPANY_NAME ---> R{Repositories} ---> RN[848]
+COMPANY_NAME ---> R{Repositories} ---> RN[850]
 COMPANY_NAME ---> G{Gists} ---> GN[620]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
