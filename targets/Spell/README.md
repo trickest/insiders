@@ -4,12 +4,10 @@
 graph LR
 COMPANY_NAME{Spell}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[9]
 COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> PHP[PHP]
 ML --> HTML[HTML]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> R[R]
-ML --> SAS[SAS]
 ```

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{WordPress}
 COMPANY_NAME ---> U{Users} ---> UN[139]
-COMPANY_NAME ---> R{Repositories} ---> RN[3543]
+COMPANY_NAME ---> R{Repositories} ---> RN[3544]
 COMPANY_NAME ---> G{Gists} ---> GN[4476]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
