@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{GitHub}
 COMPANY_NAME ---> U{Users} ---> UN[257]
-COMPANY_NAME ---> R{Repositories} ---> RN[8533]
+COMPANY_NAME ---> R{Repositories} ---> RN[8534]
 COMPANY_NAME ---> G{Gists} ---> GN[5993]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
