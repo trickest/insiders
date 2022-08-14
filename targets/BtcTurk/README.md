@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{BtcTurk}
 COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[95]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[97]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
-ML --> Python[Python]
+ML --> Java[Java]
 ML --> Kotlin[Kotlin]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> Python[Python]
 ```

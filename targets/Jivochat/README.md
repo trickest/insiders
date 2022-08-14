@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Jivochat}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Perl[Perl]
-ML --> Vim_script[Vim script]
+ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> Lua[Lua]
 ML --> Java[Java]
-ML --> C#[C#]
-ML --> C[C]
 ```

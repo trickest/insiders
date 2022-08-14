@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HubSpot}
-COMPANY_NAME ---> U{Users} ---> UN[48]
-COMPANY_NAME ---> R{Repositories} ---> RN[650]
-COMPANY_NAME ---> G{Gists} ---> GN[515]
+COMPANY_NAME ---> U{Users} ---> UN[45]
+COMPANY_NAME ---> R{Repositories} ---> RN[638]
+COMPANY_NAME ---> G{Gists} ---> GN[465]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
