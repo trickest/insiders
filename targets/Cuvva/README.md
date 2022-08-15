@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> C#[C#]
 ML --> Go[Go]
-ML --> HTML[HTML]
 ML --> Objective-C[Objective-C]
+ML --> HTML[HTML]
 ```
