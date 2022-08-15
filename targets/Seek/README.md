@@ -4,10 +4,11 @@
 graph LR
 COMPANY_NAME{Seek}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[9]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> Java[Java]
+ML --> MATLAB[MATLAB]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ```

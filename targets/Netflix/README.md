@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Netflix}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[865]
-COMPANY_NAME ---> G{Gists} ---> GN[571]
+COMPANY_NAME ---> U{Users} ---> UN[44]
+COMPANY_NAME ---> R{Repositories} ---> RN[1054]
+COMPANY_NAME ---> G{Gists} ---> GN[893]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

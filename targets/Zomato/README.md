@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zomato}
-COMPANY_NAME ---> U{Users} ---> UN[37]
-COMPANY_NAME ---> R{Repositories} ---> RN[340]
-COMPANY_NAME ---> G{Gists} ---> GN[104]
+COMPANY_NAME ---> U{Users} ---> UN[33]
+COMPANY_NAME ---> R{Repositories} ---> RN[286]
+COMPANY_NAME ---> G{Gists} ---> GN[51]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> Kotlin[Kotlin]
+ML --> PHP[PHP]
 ML --> HTML[HTML]
 ```

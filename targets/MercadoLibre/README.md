@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{MercadoLibre}
 COMPANY_NAME ---> U{Users} ---> UN[63]
-COMPANY_NAME ---> R{Repositories} ---> RN[1215]
-COMPANY_NAME ---> G{Gists} ---> GN[400]
+COMPANY_NAME ---> R{Repositories} ---> RN[1223]
+COMPANY_NAME ---> G{Gists} ---> GN[361]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
