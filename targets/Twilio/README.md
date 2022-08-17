@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Twilio}
-COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[1009]
-COMPANY_NAME ---> G{Gists} ---> GN[459]
+COMPANY_NAME ---> U{Users} ---> UN[55]
+COMPANY_NAME ---> R{Repositories} ---> RN[1113]
+COMPANY_NAME ---> G{Gists} ---> GN[482]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> Go[Go]
+ML --> TypeScript[TypeScript]
+ML --> CSS[CSS]
 ```
