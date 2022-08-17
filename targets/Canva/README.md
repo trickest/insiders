@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Canva}
 COMPANY_NAME ---> U{Users} ---> UN[44]
-COMPANY_NAME ---> R{Repositories} ---> RN[969]
+COMPANY_NAME ---> R{Repositories} ---> RN[970]
 COMPANY_NAME ---> G{Gists} ---> GN[749]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

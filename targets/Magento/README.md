@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Magento}
 COMPANY_NAME ---> U{Users} ---> UN[190]
-COMPANY_NAME ---> R{Repositories} ---> RN[2881]
-COMPANY_NAME ---> G{Gists} ---> GN[2190]
+COMPANY_NAME ---> R{Repositories} ---> RN[2882]
+COMPANY_NAME ---> G{Gists} ---> GN[2080]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]

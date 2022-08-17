@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Eventbrite}
-COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[59]
-COMPANY_NAME ---> G{Gists} ---> GN[169]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[115]
+COMPANY_NAME ---> G{Gists} ---> GN[30]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> HTML[HTML]
 ML --> Swift[Swift]
-ML --> Vim_script[Vim script]
+ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
 ```

@@ -11,5 +11,5 @@ ML --> Python[Python]
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
 ML --> Swift[Swift]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> HTML[HTML]
 ```

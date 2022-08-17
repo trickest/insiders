@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Discord}
 COMPANY_NAME ---> U{Users} ---> UN[31]
-COMPANY_NAME ---> R{Repositories} ---> RN[586]
+COMPANY_NAME ---> R{Repositories} ---> RN[584]
 COMPANY_NAME ---> G{Gists} ---> GN[388]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
