@@ -4,11 +4,10 @@
 graph LR
 COMPANY_NAME{LetsBuild}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Swift[Swift]
-ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> Kotlin[Kotlin]
 ```

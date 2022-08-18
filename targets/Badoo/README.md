@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Badoo}
-COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[201]
-COMPANY_NAME ---> G{Gists} ---> GN[158]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[166]
+COMPANY_NAME ---> G{Gists} ---> GN[151]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
 ML --> Go[Go]
-ML --> HTML[HTML]
+ML --> PHP[PHP]
 ML --> Shell[Shell]
+ML --> HTML[HTML]
 ```
