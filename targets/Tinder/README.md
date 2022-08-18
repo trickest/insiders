@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Tinder}
 COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[81]
+COMPANY_NAME ---> R{Repositories} ---> RN[103]
 COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
+ML --> C[C]
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Shell[Shell]
+ML --> JavaScript[JavaScript]
 ```

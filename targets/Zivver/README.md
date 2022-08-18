@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zivver}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[62]
 COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Vim_script[Vim script]
+ML --> Java[Java]
+ML --> Python[Python]
+ML --> C[C]
 ML --> TypeScript[TypeScript]
-ML --> PHP[PHP]
+ML --> C#[C#]
 ```

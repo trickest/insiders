@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{VK.com}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Rust[Rust]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> Swift[Swift]
+ML --> Java[Java]
 ```

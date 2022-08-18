@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Reddit}
-COMPANY_NAME ---> U{Users} ---> UN[23]
-COMPANY_NAME ---> R{Repositories} ---> RN[514]
+COMPANY_NAME ---> U{Users} ---> UN[27]
+COMPANY_NAME ---> R{Repositories} ---> RN[586]
 COMPANY_NAME ---> G{Gists} ---> GN[218]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

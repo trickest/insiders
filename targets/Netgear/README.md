@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Netgear}
 COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[81]
-COMPANY_NAME ---> G{Gists} ---> GN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[138]
+COMPANY_NAME ---> G{Gists} ---> GN[25]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C[C]
-ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> Swift[Swift]
 ML --> HTML[HTML]
-ML --> PHP[PHP]
 ```
