@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{Square}
 COMPANY_NAME ---> U{Users} ---> UN[31]
 COMPANY_NAME ---> R{Repositories} ---> RN[817]
-COMPANY_NAME ---> G{Gists} ---> GN[1035]
+COMPANY_NAME ---> G{Gists} ---> GN[845]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

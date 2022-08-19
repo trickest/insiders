@@ -203,6 +203,11 @@
             "language": "CoffeeScript"
          },
          {
+            "url": "https://github.com/6/extract_artist_track",
+            "ssh_url": "git@github.com:6/extract_artist_track.git",
+            "language": "Ruby"
+         },
+         {
             "url": "https://github.com/6/favmix",
             "ssh_url": "git@github.com:6/favmix.git",
             "language": "Java"
@@ -211,11 +216,6 @@
             "url": "https://github.com/6/heroku-clojure-example",
             "ssh_url": "git@github.com:6/heroku-clojure-example.git",
             "language": "Clojure"
-         },
-         {
-            "url": "https://github.com/6/extract_artist_track",
-            "ssh_url": "git@github.com:6/extract_artist_track.git",
-            "language": "Ruby"
          },
          {
             "url": "https://github.com/6/gigadrill.com",
@@ -248,19 +248,14 @@
             "language": "CSS"
          },
          {
-            "url": "https://github.com/6/random-kaomoji",
-            "ssh_url": "git@github.com:6/random-kaomoji.git",
-            "language": "Ruby"
-         },
-         {
             "url": "https://github.com/6/vagrant-ruby-starter",
             "ssh_url": "git@github.com:6/vagrant-ruby-starter.git",
             "language": "Shell"
          },
          {
-            "url": "https://github.com/6/misc-scripts",
-            "ssh_url": "git@github.com:6/misc-scripts.git",
-            "language": "Python"
+            "url": "https://github.com/6/random-kaomoji",
+            "ssh_url": "git@github.com:6/random-kaomoji.git",
+            "language": "Ruby"
          },
          {
             "url": "https://github.com/6/humanize_fraction",
@@ -271,6 +266,11 @@
             "url": "https://github.com/6/rss-mutate-proxy",
             "ssh_url": "git@github.com:6/rss-mutate-proxy.git",
             "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/6/misc-scripts",
+            "ssh_url": "git@github.com:6/misc-scripts.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/6/Dex",
@@ -353,11 +353,6 @@
             "language": "Go"
          },
          {
-            "url": "https://github.com/6/hooks",
-            "ssh_url": "git@github.com:6/hooks.git",
-            "language": "Ruby"
-         },
-         {
             "url": "https://github.com/6/heroku-jruby-puma",
             "ssh_url": "git@github.com:6/heroku-jruby-puma.git",
             "language": "Ruby"
@@ -365,6 +360,11 @@
          {
             "url": "https://github.com/6/nurf",
             "ssh_url": "git@github.com:6/nurf.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/6/hooks",
+            "ssh_url": "git@github.com:6/hooks.git",
             "language": "Ruby"
          },
          {
@@ -433,11 +433,6 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/6/terraform-launchdarkly-experiment",
-            "ssh_url": "git@github.com:6/terraform-launchdarkly-experiment.git",
-            "language": "HCL"
-         },
-         {
             "url": "https://github.com/6/userscripts",
             "ssh_url": "git@github.com:6/userscripts.git",
             "language": "JavaScript"
@@ -446,6 +441,11 @@
             "url": "https://github.com/6/Colander",
             "ssh_url": "git@github.com:6/Colander.git",
             "language": "CoffeeScript"
+         },
+         {
+            "url": "https://github.com/6/terraform-launchdarkly-experiment",
+            "ssh_url": "git@github.com:6/terraform-launchdarkly-experiment.git",
+            "language": "HCL"
          },
          {
             "url": "https://github.com/6/lolping",
@@ -473,11 +473,6 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/6/learn-to-game",
-            "ssh_url": "git@github.com:6/learn-to-game.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/6/simple-token",
             "ssh_url": "git@github.com:6/simple-token.git",
             "language": "TypeScript"
@@ -486,16 +481,6 @@
             "url": "https://github.com/6/battletower",
             "ssh_url": "git@github.com:6/battletower.git",
             "language": "CoffeeScript"
-         },
-         {
-            "url": "https://github.com/6/imggit",
-            "ssh_url": "git@github.com:6/imggit.git",
-            "language": "Ruby"
-         },
-         {
-            "url": "https://github.com/6/jquery.nicoembed",
-            "ssh_url": "git@github.com:6/jquery.nicoembed.git",
-            "language": "JavaScript"
          },
          {
             "url": "https://github.com/6/ahoy",
@@ -508,13 +493,28 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/6/domain-gen",
-            "ssh_url": "git@github.com:6/domain-gen.git",
+            "url": "https://github.com/6/jquery.nicoembed",
+            "ssh_url": "git@github.com:6/jquery.nicoembed.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/6/imggit",
+            "ssh_url": "git@github.com:6/imggit.git",
             "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/6/learn-to-game",
+            "ssh_url": "git@github.com:6/learn-to-game.git",
+            "language": ""
          },
          {
             "url": "https://github.com/6/rails-on-rails",
             "ssh_url": "git@github.com:6/rails-on-rails.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/6/domain-gen",
+            "ssh_url": "git@github.com:6/domain-gen.git",
             "language": "Ruby"
          },
          {
@@ -523,13 +523,13 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/6/remix",
-            "ssh_url": "git@github.com:6/remix.git",
+            "url": "https://github.com/6/jison-example",
+            "ssh_url": "git@github.com:6/jison-example.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/6/jison-example",
-            "ssh_url": "git@github.com:6/jison-example.git",
+            "url": "https://github.com/6/remix",
+            "ssh_url": "git@github.com:6/remix.git",
             "language": "JavaScript"
          },
          {
@@ -548,8 +548,8 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/6/imgur_url",
-            "ssh_url": "git@github.com:6/imgur_url.git",
+            "url": "https://github.com/6/rails_example",
+            "ssh_url": "git@github.com:6/rails_example.git",
             "language": "Ruby"
          },
          {
@@ -558,8 +558,8 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/6/rails_example",
-            "ssh_url": "git@github.com:6/rails_example.git",
+            "url": "https://github.com/6/imgur_url",
+            "ssh_url": "git@github.com:6/imgur_url.git",
             "language": "Ruby"
          },
          {
@@ -578,14 +578,14 @@
             "language": "Ruby"
          },
          {
-            "url": "https://github.com/6/sidestreet",
-            "ssh_url": "git@github.com:6/sidestreet.git",
-            "language": "Ruby"
-         },
-         {
             "url": "https://github.com/6/whats-my-ip",
             "ssh_url": "git@github.com:6/whats-my-ip.git",
             "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/6/heroku-usage",
+            "ssh_url": "git@github.com:6/heroku-usage.git",
+            "language": "JavaScript"
          },
          {
             "url": "https://github.com/6/AndAnd.Net",
@@ -593,9 +593,9 @@
             "language": "C#"
          },
          {
-            "url": "https://github.com/6/heroku-usage",
-            "ssh_url": "git@github.com:6/heroku-usage.git",
-            "language": "JavaScript"
+            "url": "https://github.com/6/sidestreet",
+            "ssh_url": "git@github.com:6/sidestreet.git",
+            "language": "Ruby"
          },
          {
             "url": "https://github.com/6/smartyci",
@@ -1368,14 +1368,14 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/bsiqueira/tweetr",
-            "ssh_url": "git@github.com:bsiqueira/tweetr.git",
-            "language": "JavaScript"
-         },
-         {
             "url": "https://github.com/bsiqueira/midterm_resource_wall",
             "ssh_url": "git@github.com:bsiqueira/midterm_resource_wall.git",
             "language": "CSS"
+         },
+         {
+            "url": "https://github.com/bsiqueira/tweetr",
+            "ssh_url": "git@github.com:bsiqueira/tweetr.git",
+            "language": "JavaScript"
          },
          {
             "url": "https://github.com/bsiqueira/http-request-package",

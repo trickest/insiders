@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vimeo}
-COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[488]
-COMPANY_NAME ---> G{Gists} ---> GN[538]
+COMPANY_NAME ---> U{Users} ---> UN[24]
+COMPANY_NAME ---> R{Repositories} ---> RN[552]
+COMPANY_NAME ---> G{Gists} ---> GN[537]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

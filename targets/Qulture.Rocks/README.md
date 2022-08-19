@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Qulture.Rocks}
-COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[108]
-COMPANY_NAME ---> G{Gists} ---> GN[22]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[101]
+COMPANY_NAME ---> G{Gists} ---> GN[53]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

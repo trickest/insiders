@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{Zapier}
 COMPANY_NAME ---> U{Users} ---> UN[4]
 COMPANY_NAME ---> R{Repositories} ---> RN[57]
-COMPANY_NAME ---> G{Gists} ---> GN[194]
+COMPANY_NAME ---> G{Gists} ---> GN[102]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
