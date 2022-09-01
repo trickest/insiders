@@ -9,7 +9,7 @@ COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> CoffeeScript[CoffeeScript]
-ML --> Vim_script[Vim script]
+ML --> Vim_Script[Vim Script]
 ML --> Shell[Shell]
 ML --> Java[Java]
 ```

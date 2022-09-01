@@ -83,14 +83,14 @@
             "language": "C"
          },
          {
-            "url": "https://github.com/ayatk/nodecg-beat-link",
-            "ssh_url": "git@github.com:ayatk/nodecg-beat-link.git",
-            "language": "TypeScript"
-         },
-         {
             "url": "https://github.com/ayatk/ayatk.com",
             "ssh_url": "git@github.com:ayatk/ayatk.com.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/ayatk/nodecg-beat-link",
+            "ssh_url": "git@github.com:ayatk/nodecg-beat-link.git",
+            "language": "TypeScript"
          },
          {
             "url": "https://github.com/ayatk/go-build-tools",
@@ -216,6 +216,11 @@
             "url": "https://github.com/fsubal/donphan",
             "ssh_url": "git@github.com:fsubal/donphan.git",
             "language": "PHP"
+         },
+         {
+            "url": "https://github.com/fsubal/charcoal-recipes",
+            "ssh_url": "git@github.com:fsubal/charcoal-recipes.git",
+            "language": ""
          },
          {
             "url": "https://github.com/fsubal/react-async-dialog",
@@ -346,11 +351,6 @@
             "url": "https://github.com/fsubal/html-mail-template",
             "ssh_url": "git@github.com:fsubal/html-mail-template.git",
             "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/fsubal/charcoal-recipes",
-            "ssh_url": "git@github.com:fsubal/charcoal-recipes.git",
-            "language": ""
          },
          {
             "url": "https://github.com/fsubal/RPG_Scala",
@@ -590,7 +590,7 @@
          {
             "url": "https://github.com/imadoki/dotfiles",
             "ssh_url": "git@github.com:imadoki/dotfiles.git",
-            "language": "Vim script"
+            "language": "Vim Script"
          },
          {
             "url": "https://github.com/imadoki/hotwire-rails-sample",
@@ -753,24 +753,24 @@
             "language": "CoffeeScript"
          },
          {
+            "url": "https://github.com/pnlybubbles/rigid-circle",
+            "ssh_url": "git@github.com:pnlybubbles/rigid-circle.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/pnlybubbles/flux-server-side-rendering-sample",
             "ssh_url": "git@github.com:pnlybubbles/flux-server-side-rendering-sample.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/pnlybubbles/rigid-circle",
-            "ssh_url": "git@github.com:pnlybubbles/rigid-circle.git",
+            "url": "https://github.com/pnlybubbles/GoogleVoiceAnalyze",
+            "ssh_url": "git@github.com:pnlybubbles/GoogleVoiceAnalyze.git",
             "language": "JavaScript"
          },
          {
             "url": "https://github.com/pnlybubbles/dairensa-practice",
             "ssh_url": "git@github.com:pnlybubbles/dairensa-practice.git",
             "language": "CoffeeScript"
-         },
-         {
-            "url": "https://github.com/pnlybubbles/GoogleVoiceAnalyze",
-            "ssh_url": "git@github.com:pnlybubbles/GoogleVoiceAnalyze.git",
-            "language": "JavaScript"
          },
          {
             "url": "https://github.com/pnlybubbles/gulp-txtjs",
@@ -813,9 +813,9 @@
             "language": "CoffeeScript"
          },
          {
-            "url": "https://github.com/pnlybubbles/bvh",
-            "ssh_url": "git@github.com:pnlybubbles/bvh.git",
-            "language": "Rust"
+            "url": "https://github.com/pnlybubbles/postcss-bind-attr",
+            "ssh_url": "git@github.com:pnlybubbles/postcss-bind-attr.git",
+            "language": "JavaScript"
          },
          {
             "url": "https://github.com/pnlybubbles/yew-befunge",
@@ -823,9 +823,9 @@
             "language": "Rust"
          },
          {
-            "url": "https://github.com/pnlybubbles/postcss-bind-attr",
-            "ssh_url": "git@github.com:pnlybubbles/postcss-bind-attr.git",
-            "language": "JavaScript"
+            "url": "https://github.com/pnlybubbles/bvh",
+            "ssh_url": "git@github.com:pnlybubbles/bvh.git",
+            "language": "Rust"
          }
       ]
    },
@@ -873,8 +873,8 @@
       "user": "https://github.com/toshusai",
       "repos": [
          {
-            "url": "https://github.com/toshusai/vega",
-            "ssh_url": "git@github.com:toshusai/vega.git",
+            "url": "https://github.com/toshusai/Vega",
+            "ssh_url": "git@github.com:toshusai/Vega.git",
             "language": "Vue"
          },
          {
@@ -940,7 +940,7 @@
          {
             "url": "https://github.com/walf443/dotfiles",
             "ssh_url": "git@github.com:walf443/dotfiles.git",
-            "language": "Vim script"
+            "language": "Vim Script"
          },
          {
             "url": "https://github.com/walf443/unix_socket_hack",

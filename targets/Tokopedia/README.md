@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tokopedia}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[146]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> U{Users} ---> UN[30]
+COMPANY_NAME ---> R{Repositories} ---> RN[810]
+COMPANY_NAME ---> G{Gists} ---> GN[233]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> Go[Go]
+ML --> Kotlin[Kotlin]
 ```

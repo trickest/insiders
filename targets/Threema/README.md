@@ -8,7 +8,7 @@ COMPANY_NAME ---> R{Repositories} ---> RN[7]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C++[C++]
-ML --> Vim_script[Vim script]
+ML --> Vim_Script[Vim Script]
 ML --> TeX[TeX]
 ML --> Python[Python]
 ML --> C[C]

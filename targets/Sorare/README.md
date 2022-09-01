@@ -4,8 +4,12 @@
 graph LR
 COMPANY_NAME{Sorare}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[3]
-COMPANY_NAME ---> G{Gists} ---> GN[33]
+COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> CSS[CSS]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
+ML --> Vim_Script[Vim Script]
+ML --> TeX[TeX]
 ```

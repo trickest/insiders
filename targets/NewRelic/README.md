@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{NewRelic}
-COMPANY_NAME ---> U{Users} ---> UN[38]
-COMPANY_NAME ---> R{Repositories} ---> RN[453]
-COMPANY_NAME ---> G{Gists} ---> GN[360]
+COMPANY_NAME ---> U{Users} ---> UN[39]
+COMPANY_NAME ---> R{Repositories} ---> RN[472]
+COMPANY_NAME ---> G{Gists} ---> GN[402]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
