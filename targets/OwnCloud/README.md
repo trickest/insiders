@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{OwnCloud}
 COMPANY_NAME ---> U{Users} ---> UN[84]
-COMPANY_NAME ---> R{Repositories} ---> RN[1340]
+COMPANY_NAME ---> R{Repositories} ---> RN[1341]
 COMPANY_NAME ---> G{Gists} ---> GN[907]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
 ML --> PHP[PHP]
-ML --> Shell[Shell]
+ML --> Go[Go]
 ```
