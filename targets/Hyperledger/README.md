@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hyperledger}
-COMPANY_NAME ---> U{Users} ---> UN[63]
-COMPANY_NAME ---> R{Repositories} ---> RN[1060]
-COMPANY_NAME ---> G{Gists} ---> GN[672]
+COMPANY_NAME ---> U{Users} ---> UN[64]
+COMPANY_NAME ---> R{Repositories} ---> RN[1066]
+COMPANY_NAME ---> G{Gists} ---> GN[677]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

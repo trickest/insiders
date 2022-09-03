@@ -43,14 +43,14 @@
             "language": "PHP"
          },
          {
-            "url": "https://github.com/Calinou/godot-builds-ci",
-            "ssh_url": "git@github.com:Calinou/godot-builds-ci.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/Calinou/godot-style-guide",
             "ssh_url": "git@github.com:Calinou/godot-style-guide.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/Calinou/godot-builds-ci",
+            "ssh_url": "git@github.com:Calinou/godot-builds-ci.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/Calinou/quake2-neural-upscale",
@@ -88,6 +88,16 @@
             "language": "GDScript"
          },
          {
+            "url": "https://github.com/Calinou/godot-cmvalley",
+            "ssh_url": "git@github.com:Calinou/godot-cmvalley.git",
+            "language": "GDScript"
+         },
+         {
+            "url": "https://github.com/Calinou/escape-space",
+            "ssh_url": "git@github.com:Calinou/escape-space.git",
+            "language": "GDScript"
+         },
+         {
             "url": "https://github.com/Calinou/carbone-ng",
             "ssh_url": "git@github.com:Calinou/carbone-ng.git",
             "language": "Logos"
@@ -98,11 +108,6 @@
             "language": ""
          },
          {
-            "url": "https://github.com/Calinou/escape-space",
-            "ssh_url": "git@github.com:Calinou/escape-space.git",
-            "language": "GDScript"
-         },
-         {
             "url": "https://github.com/Calinou/free-blue-noise-textures",
             "ssh_url": "git@github.com:Calinou/free-blue-noise-textures.git",
             "language": ""
@@ -111,11 +116,6 @@
             "url": "https://github.com/Calinou/base16-godot",
             "ssh_url": "git@github.com:Calinou/base16-godot.git",
             "language": "HTML"
-         },
-         {
-            "url": "https://github.com/Calinou/godot-cmvalley",
-            "ssh_url": "git@github.com:Calinou/godot-cmvalley.git",
-            "language": "GDScript"
          },
          {
             "url": "https://github.com/Calinou/godot-addon-template",
@@ -273,14 +273,14 @@
             "language": "C++"
          },
          {
-            "url": "https://github.com/Calinou/csg-plus-demo",
-            "ssh_url": "git@github.com:Calinou/csg-plus-demo.git",
-            "language": "GDScript"
-         },
-         {
             "url": "https://github.com/Calinou/ipinfo",
             "ssh_url": "git@github.com:Calinou/ipinfo.git",
             "language": "Go"
+         },
+         {
+            "url": "https://github.com/Calinou/csg-plus-demo",
+            "ssh_url": "git@github.com:Calinou/csg-plus-demo.git",
+            "language": "GDScript"
          },
          {
             "url": "https://github.com/Calinou/godot-rendering-performance-test",
@@ -423,14 +423,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/Calinou/godot-qa-api-generator",
-            "ssh_url": "git@github.com:Calinou/godot-qa-api-generator.git",
-            "language": "Python"
-         },
-         {
             "url": "https://github.com/Calinou/godot-2020-year-in-review",
             "ssh_url": "git@github.com:Calinou/godot-2020-year-in-review.git",
             "language": "GDScript"
+         },
+         {
+            "url": "https://github.com/Calinou/godot-qa-api-generator",
+            "ssh_url": "git@github.com:Calinou/godot-qa-api-generator.git",
+            "language": "Python"
          },
          {
             "url": "https://github.com/Calinou/sauerbraten-source-port",
@@ -668,6 +668,11 @@
             "language": "Lua"
          },
          {
+            "url": "https://github.com/Calinou/godot-bfi-overlay",
+            "ssh_url": "git@github.com:Calinou/godot-bfi-overlay.git",
+            "language": "GDScript"
+         },
+         {
             "url": "https://github.com/Calinou/io.itch.calinou.Escape-Space",
             "ssh_url": "git@github.com:Calinou/io.itch.calinou.Escape-Space.git",
             "language": ""
@@ -701,6 +706,11 @@
             "url": "https://github.com/Calinou/bins",
             "ssh_url": "git@github.com:Calinou/bins.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/Calinou/godot-bfi",
+            "ssh_url": "git@github.com:Calinou/godot-bfi.git",
+            "language": "GDScript"
          },
          {
             "url": "https://github.com/Calinou/carbone_torches",

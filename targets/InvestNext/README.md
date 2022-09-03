@@ -8,6 +8,6 @@ COMPANY_NAME ---> R{Repositories} ---> RN[4]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> Vim_script[Vim script]
+ML --> Vim_Script[Vim Script]
 ML --> Shell[Shell]
 ```

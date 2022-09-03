@@ -208,14 +208,14 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/ameno-/personal",
-            "ssh_url": "git@github.com:ameno-/personal.git",
-            "language": "CSS"
-         },
-         {
             "url": "https://github.com/ameno-/libraryview",
             "ssh_url": "git@github.com:ameno-/libraryview.git",
             "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/ameno-/personal",
+            "ssh_url": "git@github.com:ameno-/personal.git",
+            "language": "CSS"
          },
          {
             "url": "https://github.com/ameno-/think-twice-ext",
@@ -379,7 +379,7 @@
          {
             "url": "https://github.com/annakaringal/vim-setup",
             "ssh_url": "git@github.com:annakaringal/vim-setup.git",
-            "language": "Vim script"
+            "language": "Vim Script"
          }
       ]
    },
@@ -442,14 +442,14 @@
             "language": "Makefile"
          },
          {
-            "url": "https://github.com/atugade/terraform-lil",
-            "ssh_url": "git@github.com:atugade/terraform-lil.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/atugade/environment-nosezenith-production",
             "ssh_url": "git@github.com:atugade/environment-nosezenith-production.git",
             "language": "Makefile"
+         },
+         {
+            "url": "https://github.com/atugade/terraform-lil",
+            "ssh_url": "git@github.com:atugade/terraform-lil.git",
+            "language": ""
          },
          {
             "url": "https://github.com/atugade/eluviotest",
@@ -569,45 +569,6 @@
       ]
    },
    {
-      "user": "https://github.com/cjjimenez",
-      "repos": []
-   },
-   {
-      "user": "https://github.com/devosnw",
-      "repos": [
-         {
-            "url": "https://github.com/devosnw/scripts-bash",
-            "ssh_url": "git@github.com:devosnw/scripts-bash.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/devosnw/gridium",
-            "ssh_url": "git@github.com:devosnw/gridium.git",
-            "language": "HTML"
-         },
-         {
-            "url": "https://github.com/devosnw/dotfiles",
-            "ssh_url": "git@github.com:devosnw/dotfiles.git",
-            "language": "Vim script"
-         },
-         {
-            "url": "https://github.com/devosnw/.zsh",
-            "ssh_url": "git@github.com:devosnw/.zsh.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/devosnw/.bashrc.d",
-            "ssh_url": "git@github.com:devosnw/.bashrc.d.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/devosnw/.vim",
-            "ssh_url": "git@github.com:devosnw/.vim.git",
-            "language": "Vim script"
-         }
-      ]
-   },
-   {
       "user": "https://github.com/emfloyd2",
       "repos": [
          {
@@ -716,21 +677,6 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/jackgene/presentation-service-performance",
-            "ssh_url": "git@github.com:jackgene/presentation-service-performance.git",
-            "language": "Swift"
-         },
-         {
-            "url": "https://github.com/jackgene/swift-benchmark",
-            "ssh_url": "git@github.com:jackgene/swift-benchmark.git",
-            "language": "Swift"
-         },
-         {
-            "url": "https://github.com/jackgene/go-benchmark",
-            "ssh_url": "git@github.com:jackgene/go-benchmark.git",
-            "language": "Go"
-         },
-         {
             "url": "https://github.com/jackgene/empty-sbtw",
             "ssh_url": "git@github.com:jackgene/empty-sbtw.git",
             "language": "Shell"
@@ -771,24 +717,19 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/jackgene/strongly-typed-presentation",
-            "ssh_url": "git@github.com:jackgene/strongly-typed-presentation.git",
-            "language": "HTML"
-         },
-         {
             "url": "https://github.com/jackgene/talks",
             "ssh_url": "git@github.com:jackgene/talks.git",
             "language": "Elm"
          },
          {
+            "url": "https://github.com/jackgene/strongly-typed-presentation",
+            "ssh_url": "git@github.com:jackgene/strongly-typed-presentation.git",
+            "language": "HTML"
+         },
+         {
             "url": "https://github.com/jackgene/scala-maths",
             "ssh_url": "git@github.com:jackgene/scala-maths.git",
             "language": "Scala"
-         },
-         {
-            "url": "https://github.com/jackgene/swift-concurrency-benchmark",
-            "ssh_url": "git@github.com:jackgene/swift-concurrency-benchmark.git",
-            "language": "Swift"
          },
          {
             "url": "https://github.com/jackgene/Minesweeper",
@@ -804,6 +745,26 @@
             "url": "https://github.com/jackgene/jndidatasourcejdbcdriver",
             "ssh_url": "git@github.com:jackgene/jndidatasourcejdbcdriver.git",
             "language": "Java"
+         },
+         {
+            "url": "https://github.com/jackgene/empty-lein",
+            "ssh_url": "git@github.com:jackgene/empty-lein.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/jackgene/jmh-benchmark",
+            "ssh_url": "git@github.com:jackgene/jmh-benchmark.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/jackgene/monadic-go",
+            "ssh_url": "git@github.com:jackgene/monadic-go.git",
+            "language": "Go"
+         },
+         {
+            "url": "https://github.com/jackgene/presentation-service-go",
+            "ssh_url": "git@github.com:jackgene/presentation-service-go.git",
+            "language": "HTML"
          },
          {
             "url": "https://github.com/jackgene/presentation-service-swift",
@@ -896,6 +857,11 @@
       "user": "https://github.com/kevinusername",
       "repos": [
          {
+            "url": "https://github.com/kevinusername/Goof3",
+            "ssh_url": "git@github.com:kevinusername/Goof3.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/kevinusername/CMSI-485",
             "ssh_url": "git@github.com:kevinusername/CMSI-485.git",
             "language": "Python"
@@ -904,11 +870,6 @@
             "url": "https://github.com/kevinusername/CMSI-282",
             "ssh_url": "git@github.com:kevinusername/CMSI-282.git",
             "language": "Java"
-         },
-         {
-            "url": "https://github.com/kevinusername/Goof3",
-            "ssh_url": "git@github.com:kevinusername/Goof3.git",
-            "language": "JavaScript"
          },
          {
             "url": "https://github.com/kevinusername/Lyrics-API-Web-App",
@@ -978,7 +939,7 @@
          {
             "url": "https://github.com/kylealwyn/dotfiles",
             "ssh_url": "git@github.com:kylealwyn/dotfiles.git",
-            "language": "Vim script"
+            "language": "Vim Script"
          },
          {
             "url": "https://github.com/kylealwyn/react-webpack-code-splitting",
@@ -1018,11 +979,6 @@
          {
             "url": "https://github.com/kylealwyn/hq",
             "ssh_url": "git@github.com:kylealwyn/hq.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/kylealwyn/ashleyworsham.com",
-            "ssh_url": "git@github.com:kylealwyn/ashleyworsham.com.git",
             "language": "JavaScript"
          },
          {
@@ -1431,9 +1387,9 @@
             "language": "TypeScript"
          },
          {
-            "url": "https://github.com/yowainwright/porky",
-            "ssh_url": "git@github.com:yowainwright/porky.git",
-            "language": "JavaScript"
+            "url": "https://github.com/yowainwright/build-lambda-layer",
+            "ssh_url": "git@github.com:yowainwright/build-lambda-layer.git",
+            "language": "TypeScript"
          },
          {
             "url": "https://github.com/yowainwright/postcss-scss",

@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> Vim_script[Vim script]
+ML --> Vim_Script[Vim Script]
 ML --> CSS[CSS]
 ```
