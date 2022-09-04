@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Salesforce}
-COMPANY_NAME ---> U{Users} ---> UN[33]
-COMPANY_NAME ---> R{Repositories} ---> RN[519]
+COMPANY_NAME ---> U{Users} ---> UN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[517]
 COMPANY_NAME ---> G{Gists} ---> GN[468]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

@@ -10,4 +10,5 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> PHP[PHP]
+ML --> Java[Java]
 ```

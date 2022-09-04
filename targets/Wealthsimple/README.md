@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Wealthsimple}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[358]
-COMPANY_NAME ---> G{Gists} ---> GN[139]
+COMPANY_NAME ---> U{Users} ---> UN[41]
+COMPANY_NAME ---> R{Repositories} ---> RN[491]
+COMPANY_NAME ---> G{Gists} ---> GN[152]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

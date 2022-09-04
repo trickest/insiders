@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Nubank}
 COMPANY_NAME ---> U{Users} ---> UN[91]
-COMPANY_NAME ---> R{Repositories} ---> RN[1570]
+COMPANY_NAME ---> R{Repositories} ---> RN[1571]
 COMPANY_NAME ---> G{Gists} ---> GN[764]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
