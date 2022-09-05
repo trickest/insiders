@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Atlassian}
-COMPANY_NAME ---> U{Users} ---> UN[92]
-COMPANY_NAME ---> R{Repositories} ---> RN[1484]
-COMPANY_NAME ---> G{Gists} ---> GN[596]
+COMPANY_NAME ---> U{Users} ---> UN[60]
+COMPANY_NAME ---> R{Repositories} ---> RN[1367]
+COMPANY_NAME ---> G{Gists} ---> GN[532]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
