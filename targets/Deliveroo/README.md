@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Deliveroo}
 COMPANY_NAME ---> U{Users} ---> UN[29]
-COMPANY_NAME ---> R{Repositories} ---> RN[477]
-COMPANY_NAME ---> G{Gists} ---> GN[553]
+COMPANY_NAME ---> R{Repositories} ---> RN[418]
+COMPANY_NAME ---> G{Gists} ---> GN[362]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Python[Python]
 ML --> Go[Go]
+ML --> Python[Python]
 ```

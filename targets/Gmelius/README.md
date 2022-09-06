@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Gmelius}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Kotlin[Kotlin]
 ML --> TypeScript[TypeScript]
-ML --> Vue[Vue]
+ML --> Kotlin[Kotlin]
+ML --> C#[C#]
 ```

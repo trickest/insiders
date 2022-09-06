@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Canva}
-COMPANY_NAME ---> U{Users} ---> UN[43]
-COMPANY_NAME ---> R{Repositories} ---> RN[960]
-COMPANY_NAME ---> G{Gists} ---> GN[747]
+COMPANY_NAME ---> U{Users} ---> UN[51]
+COMPANY_NAME ---> R{Repositories} ---> RN[1127]
+COMPANY_NAME ---> G{Gists} ---> GN[835]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> TypeScript[TypeScript]
 ML --> Rust[Rust]
-ML --> CSS[CSS]
+ML --> Batchfile[Batchfile]
 ```
