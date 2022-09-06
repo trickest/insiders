@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{TheStandard}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> C[C]
-ML --> Python[Python]
-ML --> Clojure[Clojure]
-ML --> C++[C++]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
+ML --> TypeScript[TypeScript]
 ```

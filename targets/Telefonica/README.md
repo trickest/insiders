@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Telefonica}
-COMPANY_NAME ---> U{Users} ---> UN[168]
-COMPANY_NAME ---> R{Repositories} ---> RN[1270]
-COMPANY_NAME ---> G{Gists} ---> GN[652]
+COMPANY_NAME ---> U{Users} ---> UN[176]
+COMPANY_NAME ---> R{Repositories} ---> RN[1335]
+COMPANY_NAME ---> G{Gists} ---> GN[656]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

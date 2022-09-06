@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Zenly}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[36]
-COMPANY_NAME ---> G{Gists} ---> GN[45]
+COMPANY_NAME ---> R{Repositories} ---> RN[32]
+COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> Objective-C[Objective-C]
-ML --> C[C]
+ML --> Kotlin[Kotlin]
+ML --> Go[Go]
+ML --> Java[Java]
 ML --> Swift[Swift]
-ML --> Python[Python]
 ```

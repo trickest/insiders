@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tripadvisor}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[167]
+COMPANY_NAME ---> G{Gists} ---> GN[213]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Swift[Swift]
 ML --> Java[Java]
-ML --> Python[Python]
-ML --> HTML[HTML]
-ML --> Go[Go]
-ML --> Shell[Shell]
+ML --> Objective-C[Objective-C]
+ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ```
