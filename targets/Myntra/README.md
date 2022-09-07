@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Myntra}
 COMPANY_NAME ---> U{Users} ---> UN[40]
-COMPANY_NAME ---> R{Repositories} ---> RN[237]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[222]
+COMPANY_NAME ---> G{Gists} ---> GN[36]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> CSS[CSS]
 ```

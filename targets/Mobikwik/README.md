@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Mobikwik}
-COMPANY_NAME ---> U{Users} ---> UN[31]
-COMPANY_NAME ---> R{Repositories} ---> RN[240]
-COMPANY_NAME ---> G{Gists} ---> GN[35]
+COMPANY_NAME ---> U{Users} ---> UN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[156]
+COMPANY_NAME ---> G{Gists} ---> GN[318]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> C++[C++]
-ML --> Python[Python]
+ML --> TypeScript[TypeScript]
+ML --> Kotlin[Kotlin]
 ```

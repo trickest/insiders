@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Monolith}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[80]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[65]
+COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> MATLAB[MATLAB]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
+ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> Java[Java]
 ML --> C#[C#]
 ```
