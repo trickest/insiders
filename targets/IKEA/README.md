@@ -9,7 +9,7 @@ COMPANY_NAME ---> G{Gists} ---> GN[141]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> Game_Maker_Language[Game Maker Language]
 ML --> CoffeeScript[CoffeeScript]
 ```

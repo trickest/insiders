@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Intercom}
-COMPANY_NAME ---> U{Users} ---> UN[50]
-COMPANY_NAME ---> R{Repositories} ---> RN[628]
-COMPANY_NAME ---> G{Gists} ---> GN[1037]
+COMPANY_NAME ---> U{Users} ---> UN[38]
+COMPANY_NAME ---> R{Repositories} ---> RN[562]
+COMPANY_NAME ---> G{Gists} ---> GN[1017]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
