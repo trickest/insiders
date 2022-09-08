@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Ecobee}
-COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[215]
-COMPANY_NAME ---> G{Gists} ---> GN[632]
+COMPANY_NAME ---> U{Users} ---> UN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[194]
+COMPANY_NAME ---> G{Gists} ---> GN[28]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> Ruby[Ruby]
 ML --> Python[Python]
-ML --> Lean[Lean]
+ML --> CSS[CSS]
 ```

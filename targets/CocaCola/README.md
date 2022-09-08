@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CocaCola}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[69]
+COMPANY_NAME ---> R{Repositories} ---> RN[63]
 COMPANY_NAME ---> G{Gists} ---> GN[38]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> SCSS[SCSS]
 ML --> Java[Java]
-ML --> PHP[PHP]
-ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Acronis}
 COMPANY_NAME ---> U{Users} ---> UN[27]
-COMPANY_NAME ---> R{Repositories} ---> RN[254]
-COMPANY_NAME ---> G{Gists} ---> GN[62]
+COMPANY_NAME ---> R{Repositories} ---> RN[211]
+COMPANY_NAME ---> G{Gists} ---> GN[39]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
-ML --> Java[Java]
+ML --> Go[Go]
 ```
