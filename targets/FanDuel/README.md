@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{FanDuel}
-COMPANY_NAME ---> U{Users} ---> UN[41]
-COMPANY_NAME ---> R{Repositories} ---> RN[557]
-COMPANY_NAME ---> G{Gists} ---> GN[406]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[71]
+COMPANY_NAME ---> G{Gists} ---> GN[21]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Elixir[Elixir]
+ML --> Python[Python]
+ML --> Go[Go]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> TypeScript[TypeScript]
-ML --> Java[Java]
 ```
