@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{DJI}
 COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[114]
-COMPANY_NAME ---> G{Gists} ---> GN[43]
+COMPANY_NAME ---> R{Repositories} ---> RN[123]
+COMPANY_NAME ---> G{Gists} ---> GN[38]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
-ML --> CSS[CSS]
-ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> Go[Go]
+ML --> C#[C#]
 ```
