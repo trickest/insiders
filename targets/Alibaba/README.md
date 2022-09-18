@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Alibaba}
 COMPANY_NAME ---> U{Users} ---> UN[137]
-COMPANY_NAME ---> R{Repositories} ---> RN[2191]
+COMPANY_NAME ---> R{Repositories} ---> RN[2194]
 COMPANY_NAME ---> G{Gists} ---> GN[941]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

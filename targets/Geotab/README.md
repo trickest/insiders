@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Geotab}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
-COMPANY_NAME ---> G{Gists} ---> GN[116]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[108]
+COMPANY_NAME ---> G{Gists} ---> GN[92]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Processing[Processing]
-ML --> Java[Java]
-ML --> Python[Python]
+ML --> Ruby[Ruby]
+ML --> C#[C#]
 ML --> JavaScript[JavaScript]
-ML --> Arduino[Arduino]
+ML --> Python[Python]
+ML --> Java[Java]
 ```
