@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Caffeine}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[51]
-COMPANY_NAME ---> G{Gists} ---> GN[38]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[27]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> CoffeeScript[CoffeeScript]
-ML --> C++[C++]
-ML --> C#[C#]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> Swift[Swift]
+ML --> PHP[PHP]
+ML --> Vim_Script[Vim Script]
 ```
