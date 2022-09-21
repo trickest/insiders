@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Jimdo}
-COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[605]
+COMPANY_NAME ---> U{Users} ---> UN[26]
+COMPANY_NAME ---> R{Repositories} ---> RN[636]
 COMPANY_NAME ---> G{Gists} ---> GN[260]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]

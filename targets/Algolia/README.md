@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Algolia}
 COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[477]
+COMPANY_NAME ---> R{Repositories} ---> RN[478]
 COMPANY_NAME ---> G{Gists} ---> GN[295]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
