@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cornershop}
-COMPANY_NAME ---> U{Users} ---> UN[56]
-COMPANY_NAME ---> R{Repositories} ---> RN[569]
-COMPANY_NAME ---> G{Gists} ---> GN[84]
+COMPANY_NAME ---> U{Users} ---> UN[58]
+COMPANY_NAME ---> R{Repositories} ---> RN[562]
+COMPANY_NAME ---> G{Gists} ---> GN[53]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
