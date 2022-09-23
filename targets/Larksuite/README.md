@@ -8,8 +8,8 @@ COMPANY_NAME ---> R{Repositories} ---> RN[168]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
-ML --> Python[Python]
 ML --> Rust[Rust]
-ML --> C[C]
+ML --> Python[Python]
 ML --> Shell[Shell]
+ML --> C[C]
 ```

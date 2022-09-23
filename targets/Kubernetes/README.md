@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Kubernetes}
-COMPANY_NAME ---> U{Users} ---> UN[687]
-COMPANY_NAME ---> R{Repositories} ---> RN[15754]
+COMPANY_NAME ---> U{Users} ---> UN[698]
+COMPANY_NAME ---> R{Repositories} ---> RN[15949]
 COMPANY_NAME ---> G{Gists} ---> GN[6674]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
