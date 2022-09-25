@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{eToro}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[48]
-COMPANY_NAME ---> G{Gists} ---> GN[10]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[89]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Java[Java]
+ML --> CSS[CSS]
 ML --> TypeScript[TypeScript]
-ML --> Ruby[Ruby]
+ML --> Python[Python]
 ```

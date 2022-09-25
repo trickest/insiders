@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{EpicGames}
-COMPANY_NAME ---> U{Users} ---> UN[1873]
-COMPANY_NAME ---> R{Repositories} ---> RN[46616]
-COMPANY_NAME ---> G{Gists} ---> GN[16456]
+COMPANY_NAME ---> U{Users} ---> UN[103]
+COMPANY_NAME ---> R{Repositories} ---> RN[2059]
+COMPANY_NAME ---> G{Gists} ---> GN[864]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> C++[C++]
+ML --> Python[Python]
 ML --> Java[Java]
 ML --> C#[C#]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{ATT}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[54]
-COMPANY_NAME ---> G{Gists} ---> GN[341]
+COMPANY_NAME ---> R{Repositories} ---> RN[73]
+COMPANY_NAME ---> G{Gists} ---> GN[380]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
+ML --> Shell[Shell]
+ML --> Scala[Scala]
 ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> C[C]
 ```
