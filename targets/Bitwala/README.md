@@ -11,5 +11,5 @@ ML --> JavaScript[JavaScript]
 ML --> CoffeeScript[CoffeeScript]
 ML --> CSS[CSS]
 ML --> Dart[Dart]
-ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
 ```

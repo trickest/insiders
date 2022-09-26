@@ -4,12 +4,10 @@
 graph LR
 COMPANY_NAME{Itslearning}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> F#[F#]
-ML --> Emacs_Lisp[Emacs Lisp]
-ML --> Shell[Shell]
-ML --> Python[Python]
-ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
+ML --> C#[C#]
 ```
