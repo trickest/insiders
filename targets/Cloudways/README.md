@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Cloudways}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
-COMPANY_NAME ---> G{Gists} ---> GN[18]
+COMPANY_NAME ---> R{Repositories} ---> RN[52]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Shell[Shell]
-ML --> PHP[PHP]
-ML --> VCL[VCL]
-ML --> TypeScript[TypeScript]
+ML --> Go[Go]
+ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Python[Python]
 ```

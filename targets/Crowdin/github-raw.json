@@ -1,11 +1,26 @@
 [
    {
-      "user": "https://github.com/christiangadea",
+      "user": "https://github.com/dies",
       "repos": [
          {
-            "url": "https://github.com/christiangadea/myrepoMIT",
-            "ssh_url": "git@github.com:christiangadea/myrepoMIT.git",
+            "url": "https://github.com/dies/crowdin-contributors",
+            "ssh_url": "git@github.com:dies/crowdin-contributors.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/dies/Crowdin",
+            "ssh_url": "git@github.com:dies/Crowdin.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/dies/eleventy-base-blog",
+            "ssh_url": "git@github.com:dies/eleventy-base-blog.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/dies/crowdin-nextjs-localization",
+            "ssh_url": "git@github.com:dies/crowdin-nextjs-localization.git",
+            "language": "JavaScript"
          }
       ]
    },
@@ -66,6 +81,16 @@
             "url": "https://github.com/innomaxx/rollup-plugin-cson",
             "ssh_url": "git@github.com:innomaxx/rollup-plugin-cson.git",
             "language": "JavaScript"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/timliwanag",
+      "repos": [
+         {
+            "url": "https://github.com/timliwanag/word-driven",
+            "ssh_url": "git@github.com:timliwanag/word-driven.git",
+            "language": ""
          }
       ]
    }
