@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{ParrotSec}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[67]
+COMPANY_NAME ---> R{Repositories} ---> RN[68]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C[C]

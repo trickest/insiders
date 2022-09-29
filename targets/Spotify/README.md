@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Spotify}
 COMPANY_NAME ---> U{Users} ---> UN[44]
-COMPANY_NAME ---> R{Repositories} ---> RN[737]
-COMPANY_NAME ---> G{Gists} ---> GN[370]
+COMPANY_NAME ---> R{Repositories} ---> RN[783]
+COMPANY_NAME ---> G{Gists} ---> GN[404]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> Swift[Swift]
 ML --> Python[Python]
 ML --> Objective-C[Objective-C]

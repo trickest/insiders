@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vivy}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[13]
-COMPANY_NAME ---> G{Gists} ---> GN[301]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[25]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> C++[C++]
 ML --> Python[Python]
-ML --> Objective-C[Objective-C]
+ML --> PHP[PHP]
+ML --> CMake[CMake]
 ```
