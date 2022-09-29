@@ -9,6 +9,5 @@ COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
-ML --> SCSS[SCSS]
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

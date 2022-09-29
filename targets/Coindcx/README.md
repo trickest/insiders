@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Coindcx}
 COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[100]
-COMPANY_NAME ---> G{Gists} ---> GN[20]
+COMPANY_NAME ---> R{Repositories} ---> RN[128]
+COMPANY_NAME ---> G{Gists} ---> GN[63]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
 ```
