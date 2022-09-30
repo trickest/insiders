@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Localize}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
-COMPANY_NAME ---> G{Gists} ---> GN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[74]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> C++[C++]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Shell[Shell]
 ```

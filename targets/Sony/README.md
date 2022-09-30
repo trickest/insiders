@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Sony}
-COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[217]
-COMPANY_NAME ---> G{Gists} ---> GN[150]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[67]
+COMPANY_NAME ---> G{Gists} ---> GN[126]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Objective-C[Objective-C]
-ML --> Python[Python]
-ML --> Java[Java]
 ML --> C[C]
+ML --> C++[C++]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> Kotlin[Kotlin]
 ```

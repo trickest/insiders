@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{PureVPN}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
+ML --> Kotlin[Kotlin]
 ML --> Ruby[Ruby]
-ML --> CSS[CSS]
+ML --> Swift[Swift]
+ML --> Objective-C[Objective-C]
 ```
