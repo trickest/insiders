@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Courier}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[60]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[85]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
-ML --> Java[Java]
+ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> TypeScript[TypeScript]
 ```

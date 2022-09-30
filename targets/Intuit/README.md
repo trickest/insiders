@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Intuit}
 COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[339]
+COMPANY_NAME ---> R{Repositories} ---> RN[340]
 COMPANY_NAME ---> G{Gists} ---> GN[153]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> HTML[HTML]

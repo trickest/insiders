@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Crowdstrike}
 COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[354]
+COMPANY_NAME ---> R{Repositories} ---> RN[353]
 COMPANY_NAME ---> G{Gists} ---> GN[849]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
