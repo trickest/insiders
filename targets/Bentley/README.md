@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bentley}
-COMPANY_NAME ---> U{Users} ---> UN[27]
-COMPANY_NAME ---> R{Repositories} ---> RN[569]
-COMPANY_NAME ---> G{Gists} ---> GN[189]
+COMPANY_NAME ---> U{Users} ---> UN[32]
+COMPANY_NAME ---> R{Repositories} ---> RN[438]
+COMPANY_NAME ---> G{Gists} ---> GN[147]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Python[Python]
 ML --> Lua[Lua]
-ML --> Java[Java]
+ML --> Python[Python]
+ML --> OpenSCAD[OpenSCAD]
 ```
