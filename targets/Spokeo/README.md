@@ -3,13 +3,10 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Spokeo}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[3]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> Erlang[Erlang]
-ML --> Python[Python]
-ML --> CSS[CSS]
-ML --> Ruby[Ruby]
+ML --> TypeScript[TypeScript]
+ML --> ApacheConf[ApacheConf]
 ```

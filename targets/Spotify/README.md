@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Spotify}
-COMPANY_NAME ---> U{Users} ---> UN[45]
-COMPANY_NAME ---> R{Repositories} ---> RN[738]
-COMPANY_NAME ---> G{Gists} ---> GN[394]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[113]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Lean[Lean]
+ML --> Python[Python]
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> Swift[Swift]
-ML --> Objective-C[Objective-C]
+ML --> Dockerfile[Dockerfile]
 ```
