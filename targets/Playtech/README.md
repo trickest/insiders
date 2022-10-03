@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Playtech}
-COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[151]
-COMPANY_NAME ---> G{Gists} ---> GN[53]
+COMPANY_NAME ---> U{Users} ---> UN[32]
+COMPANY_NAME ---> R{Repositories} ---> RN[158]
+COMPANY_NAME ---> G{Gists} ---> GN[59]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
+ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> Objective-C[Objective-C]
-ML --> Swift[Swift]
+ML --> Java[Java]
+ML --> PHP[PHP]
+ML --> CSS[CSS]
 ```

@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{LiquidWeb}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[161]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[150]
 COMPANY_NAME ---> G{Gists} ---> GN[174]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]

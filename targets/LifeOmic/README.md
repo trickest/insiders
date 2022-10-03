@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{LifeOmic}
-COMPANY_NAME ---> U{Users} ---> UN[35]
-COMPANY_NAME ---> R{Repositories} ---> RN[309]
-COMPANY_NAME ---> G{Gists} ---> GN[96]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[300]
+COMPANY_NAME ---> G{Gists} ---> GN[110]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Go[Go]
 ML --> HTML[HTML]
-ML --> Java[Java]
+ML --> Swift[Swift]
 ML --> Ruby[Ruby]
-ML --> CSS[CSS]
 ```
