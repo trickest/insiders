@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{LetsBuild}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
-ML --> Java[Java]
-ML --> Kotlin[Kotlin]
+ML --> Python[Python]
+ML --> Ruby[Ruby]
+ML --> C++[C++]
+ML --> TypeScript[TypeScript]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```
