@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Helium}
-COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[315]
-COMPANY_NAME ---> G{Gists} ---> GN[352]
+COMPANY_NAME ---> U{Users} ---> UN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[332]
+COMPANY_NAME ---> G{Gists} ---> GN[379]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Erlang[Erlang]
 ML --> JavaScript[JavaScript]
