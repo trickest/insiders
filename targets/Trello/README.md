@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Trello}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[80]
+COMPANY_NAME ---> G{Gists} ---> GN[184]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
-ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
 ML --> Shell[Shell]
-ML --> Scala[Scala]
-ML --> Ruby[Ruby]
+ML --> C#[C#]
+ML --> PHP[PHP]
 ```

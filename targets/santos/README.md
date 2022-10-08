@@ -3,13 +3,10 @@
 ```mermaid
 graph LR
 COMPANY_NAME{santos}
-COMPANY_NAME ---> U{Users} ---> UN[100]
-COMPANY_NAME ---> R{Repositories} ---> RN[675]
-COMPANY_NAME ---> G{Gists} ---> GN[108]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[2]
+COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> TypeScript[TypeScript]
-ML --> Python[Python]
-ML --> HTML[HTML]
+ML --> PowerShell[PowerShell]
+ML --> Emacs_Lisp[Emacs Lisp]
 ```

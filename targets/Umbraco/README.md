@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Umbraco}
 COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[85]
-COMPANY_NAME ---> G{Gists} ---> GN[264]
+COMPANY_NAME ---> R{Repositories} ---> RN[251]
+COMPANY_NAME ---> G{Gists} ---> GN[262]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> C#[C#]
-ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> TypeScript[TypeScript]
+ML --> Java[Java]
 ```

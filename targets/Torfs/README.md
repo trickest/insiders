@@ -11,5 +11,5 @@ ML --> Java[Java]
 ML --> C#[C#]
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> SCSS[SCSS]
 ```
