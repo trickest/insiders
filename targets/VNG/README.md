@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{VNG}
 COMPANY_NAME ---> U{Users} ---> UN[44]
-COMPANY_NAME ---> R{Repositories} ---> RN[414]
-COMPANY_NAME ---> G{Gists} ---> GN[149]
+COMPANY_NAME ---> R{Repositories} ---> RN[272]
+COMPANY_NAME ---> G{Gists} ---> GN[102]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

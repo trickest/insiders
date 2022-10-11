@@ -3,11 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Viator}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[15]
 COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> C++[C++]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Processing[Processing]
-ML --> HTML[HTML]
+ML --> Max[Max]
+ML --> C#[C#]
 ```

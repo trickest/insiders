@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Vercel}
 COMPANY_NAME ---> U{Users} ---> UN[71]
-COMPANY_NAME ---> R{Repositories} ---> RN[2886]
+COMPANY_NAME ---> R{Repositories} ---> RN[2887]
 COMPANY_NAME ---> G{Gists} ---> GN[1624]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

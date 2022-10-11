@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tencent}
-COMPANY_NAME ---> U{Users} ---> UN[74]
-COMPANY_NAME ---> R{Repositories} ---> RN[544]
-COMPANY_NAME ---> G{Gists} ---> GN[270]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[158]
+COMPANY_NAME ---> G{Gists} ---> GN[82]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> C++[C++]
-ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> C[C]
+ML --> PHP[PHP]
+ML --> CSS[CSS]
 ```

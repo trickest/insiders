@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{WarrenBrasil}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[86]
+COMPANY_NAME ---> R{Repositories} ---> RN[85]
 COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
