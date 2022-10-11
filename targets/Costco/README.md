@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Costco}
-COMPANY_NAME ---> U{Users} ---> UN[26]
-COMPANY_NAME ---> R{Repositories} ---> RN[166]
-COMPANY_NAME ---> G{Gists} ---> GN[60]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[116]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> Swift[Swift]
+ML --> CSS[CSS]
+ML --> Python[Python]
+ML --> C#[C#]
 ```
