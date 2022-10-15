@@ -5,7 +5,7 @@ graph LR
 COMPANY_NAME{Jimdo}
 COMPANY_NAME ---> U{Users} ---> UN[11]
 COMPANY_NAME ---> R{Repositories} ---> RN[223]
-COMPANY_NAME ---> G{Gists} ---> GN[354]
+COMPANY_NAME ---> G{Gists} ---> GN[96]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]

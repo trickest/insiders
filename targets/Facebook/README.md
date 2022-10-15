@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Facebook}
 COMPANY_NAME ---> U{Users} ---> UN[106]
-COMPANY_NAME ---> R{Repositories} ---> RN[2555]
+COMPANY_NAME ---> R{Repositories} ---> RN[2545]
 COMPANY_NAME ---> G{Gists} ---> GN[2230]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

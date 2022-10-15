@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bugcrowd}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[163]
-COMPANY_NAME ---> G{Gists} ---> GN[56]
+COMPANY_NAME ---> U{Users} ---> UN[48]
+COMPANY_NAME ---> R{Repositories} ---> RN[371]
+COMPANY_NAME ---> G{Gists} ---> GN[39]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Ruby[Ruby]
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
+ML --> Python[Python]
+ML --> C#[C#]
+ML --> HTML[HTML]
+ML --> Java[Java]
 ```

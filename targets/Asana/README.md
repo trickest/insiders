@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Asana}
-COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[219]
-COMPANY_NAME ---> G{Gists} ---> GN[92]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[247]
+COMPANY_NAME ---> G{Gists} ---> GN[120]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

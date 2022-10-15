@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Airbnb}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[610]
-COMPANY_NAME ---> G{Gists} ---> GN[347]
+COMPANY_NAME ---> U{Users} ---> UN[30]
+COMPANY_NAME ---> R{Repositories} ---> RN[587]
+COMPANY_NAME ---> G{Gists} ---> GN[315]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
