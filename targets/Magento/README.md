@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Magento}
-COMPANY_NAME ---> U{Users} ---> UN[242]
-COMPANY_NAME ---> R{Repositories} ---> RN[3213]
-COMPANY_NAME ---> G{Gists} ---> GN[2222]
+COMPANY_NAME ---> U{Users} ---> UN[190]
+COMPANY_NAME ---> R{Repositories} ---> RN[2917]
+COMPANY_NAME ---> G{Gists} ---> GN[2053]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]

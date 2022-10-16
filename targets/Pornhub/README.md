@@ -4,9 +4,12 @@
 graph LR
 COMPANY_NAME{Pornhub}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
-COMPANY_NAME ---> G{Gists} ---> GN[52]
+COMPANY_NAME ---> R{Repositories} ---> RN[13]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> C++[C++]
+ML --> Perl[Perl]
 ML --> Java[Java]
-ML --> ColdFusion[ColdFusion]
+ML --> PHP[PHP]
+ML --> Haskell[Haskell]
 ```

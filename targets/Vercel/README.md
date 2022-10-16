@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vercel}
-COMPANY_NAME ---> U{Users} ---> UN[71]
-COMPANY_NAME ---> R{Repositories} ---> RN[2891]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[4]
 COMPANY_NAME ---> G{Gists} ---> GN[1625]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Python[Python]
+ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
-ML --> Rust[Rust]
 ```

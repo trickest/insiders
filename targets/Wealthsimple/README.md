@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Wealthsimple}
-COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[351]
-COMPANY_NAME ---> G{Gists} ---> GN[135]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[94]
+COMPANY_NAME ---> G{Gists} ---> GN[16]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
-ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> C[C]
+ML --> CSS[CSS]
 ```

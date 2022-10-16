@@ -3,12 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{WesternUnion}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
-COMPANY_NAME ---> G{Gists} ---> GN[48]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
-ML --> CSS[CSS]
-ML --> Vue[Vue]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Python[Python]
+ML --> Solidity[Solidity]
 ML --> JavaScript[JavaScript]
 ```
