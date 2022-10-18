@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Odoo}
-COMPANY_NAME ---> U{Users} ---> UN[62]
-COMPANY_NAME ---> R{Repositories} ---> RN[369]
-COMPANY_NAME ---> G{Gists} ---> GN[158]
+COMPANY_NAME ---> U{Users} ---> UN[57]
+COMPANY_NAME ---> R{Repositories} ---> RN[373]
+COMPANY_NAME ---> G{Gists} ---> GN[149]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
 ML --> Ruby[Ruby]
 ML --> C[C]
+ML --> HTML[HTML]
 ```

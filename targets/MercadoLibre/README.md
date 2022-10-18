@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MercadoLibre}
-COMPANY_NAME ---> U{Users} ---> UN[70]
-COMPANY_NAME ---> R{Repositories} ---> RN[1273]
-COMPANY_NAME ---> G{Gists} ---> GN[400]
+COMPANY_NAME ---> U{Users} ---> UN[67]
+COMPANY_NAME ---> R{Repositories} ---> RN[1282]
+COMPANY_NAME ---> G{Gists} ---> GN[407]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Traveloka}
-COMPANY_NAME ---> U{Users} ---> UN[36]
-COMPANY_NAME ---> R{Repositories} ---> RN[523]
-COMPANY_NAME ---> G{Gists} ---> GN[25]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[560]
+COMPANY_NAME ---> G{Gists} ---> GN[158]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> HCL[HCL]
-ML --> Python[Python]
 ML --> Java[Java]
-ML --> Ruby[Ruby]
+ML --> PHP[PHP]
+ML --> Python[Python]
+ML --> Kotlin[Kotlin]
 ```

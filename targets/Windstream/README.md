@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Windstream}
 COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[326]
-COMPANY_NAME ---> G{Gists} ---> GN[291]
+COMPANY_NAME ---> R{Repositories} ---> RN[102]
+COMPANY_NAME ---> G{Gists} ---> GN[197]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
-ML --> C#[C#]
 ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> R[R]
+ML --> Objective-C[Objective-C]
 ```

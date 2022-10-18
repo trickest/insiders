@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Socrata}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[56]
 COMPANY_NAME ---> G{Gists} ---> GN[48]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C++[C++]
+ML --> Elixir[Elixir]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
+ML --> Scala[Scala]
+ML --> Haskell[Haskell]
 ML --> Python[Python]
-ML --> PHP[PHP]
 ```

@@ -278,14 +278,14 @@
             "language": ""
          },
          {
-            "url": "https://github.com/combro2k/piwigo",
-            "ssh_url": "git@github.com:combro2k/piwigo.git",
-            "language": "PHP"
-         },
-         {
             "url": "https://github.com/combro2k/docker-nodejs-webogram",
             "ssh_url": "git@github.com:combro2k/docker-nodejs-webogram.git",
             "language": "Shell"
+         },
+         {
+            "url": "https://github.com/combro2k/piwigo",
+            "ssh_url": "git@github.com:combro2k/piwigo.git",
+            "language": "PHP"
          },
          {
             "url": "https://github.com/combro2k/messagebird-php-application",
@@ -308,14 +308,9 @@
             "language": "PHP"
          },
          {
-            "url": "https://github.com/combro2k/dotfiles",
-            "ssh_url": "git@github.com:combro2k/dotfiles.git",
-            "language": "Vim Script"
-         },
-         {
-            "url": "https://github.com/combro2k/imdb-fetch",
-            "ssh_url": "git@github.com:combro2k/imdb-fetch.git",
-            "language": "PHP"
+            "url": "https://github.com/combro2k/docker-perlbrew",
+            "ssh_url": "git@github.com:combro2k/docker-perlbrew.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/combro2k/wordpress-nginx",
@@ -328,9 +323,14 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/combro2k/docker-perlbrew",
-            "ssh_url": "git@github.com:combro2k/docker-perlbrew.git",
-            "language": "Shell"
+            "url": "https://github.com/combro2k/imdb-fetch",
+            "ssh_url": "git@github.com:combro2k/imdb-fetch.git",
+            "language": "PHP"
+         },
+         {
+            "url": "https://github.com/combro2k/dotfiles",
+            "ssh_url": "git@github.com:combro2k/dotfiles.git",
+            "language": "Vim Script"
          },
          {
             "url": "https://github.com/combro2k/lastpass-gtk",
@@ -385,42 +385,207 @@
       ]
    },
    {
-      "user": "https://github.com/lucapiro",
+      "user": "https://github.com/luukjanssens",
       "repos": [
          {
-            "url": "https://github.com/lucapiro/cyberbullismo_app_maturit-",
-            "ssh_url": "git@github.com:lucapiro/cyberbullismo_app_maturit-.git",
-            "language": ""
+            "url": "https://github.com/luukjanssens/The-Multiplator",
+            "ssh_url": "git@github.com:luukjanssens/The-Multiplator.git",
+            "language": "JavaScript"
          },
          {
-            "url": "https://github.com/lucapiro/gestione_orari_scolastici",
-            "ssh_url": "git@github.com:lucapiro/gestione_orari_scolastici.git",
-            "language": "Java"
+            "url": "https://github.com/luukjanssens/ddd-decay",
+            "ssh_url": "git@github.com:luukjanssens/ddd-decay.git",
+            "language": "HTML"
          }
       ]
    },
    {
-      "user": "https://github.com/robmaas",
+      "user": "https://github.com/nicolas",
       "repos": [
          {
-            "url": "https://github.com/robmaas/Sitecore.SharedSource.Mvc",
-            "ssh_url": "git@github.com:robmaas/Sitecore.SharedSource.Mvc.git",
-            "language": "C#"
+            "url": "https://github.com/nicolas/bime-api",
+            "ssh_url": "git@github.com:nicolas/bime-api.git",
+            "language": ""
          },
          {
-            "url": "https://github.com/robmaas/Sitecore.SharedSource.DatasourceIndexer",
-            "ssh_url": "git@github.com:robmaas/Sitecore.SharedSource.DatasourceIndexer.git",
-            "language": "C#"
+            "url": "https://github.com/nicolas/bime-api-demo-java",
+            "ssh_url": "git@github.com:nicolas/bime-api-demo-java.git",
+            "language": "Java"
          },
          {
-            "url": "https://github.com/robmaas/Sitecore.WFFM.CustomMailTemplates",
-            "ssh_url": "git@github.com:robmaas/Sitecore.WFFM.CustomMailTemplates.git",
-            "language": "C#"
+            "url": "https://github.com/nicolas/mangafacedetector",
+            "ssh_url": "git@github.com:nicolas/mangafacedetector.git",
+            "language": "Python"
          },
          {
-            "url": "https://github.com/robmaas/Estate.Umbraco.Core",
-            "ssh_url": "git@github.com:robmaas/Estate.Umbraco.Core.git",
-            "language": "C#"
+            "url": "https://github.com/nicolas/bime-api-demo",
+            "ssh_url": "git@github.com:nicolas/bime-api-demo.git",
+            "language": "Ruby"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/seth",
+      "repos": [
+         {
+            "url": "https://github.com/seth/pooler",
+            "ssh_url": "git@github.com:seth/pooler.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/ej",
+            "ssh_url": "git@github.com:seth/ej.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/rebar_lock_deps_plugin",
+            "ssh_url": "git@github.com:seth/rebar_lock_deps_plugin.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/sherl",
+            "ssh_url": "git@github.com:seth/sherl.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/my-emacs-dot-d",
+            "ssh_url": "git@github.com:seth/my-emacs-dot-d.git",
+            "language": "Emacs Lisp"
+         },
+         {
+            "url": "https://github.com/seth/radar",
+            "ssh_url": "git@github.com:seth/radar.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/pidq",
+            "ssh_url": "git@github.com:seth/pidq.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/chef_authn_old",
+            "ssh_url": "git@github.com:seth/chef_authn_old.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/rdict",
+            "ssh_url": "git@github.com:seth/rdict.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/seth/RSQLite.extfuns",
+            "ssh_url": "git@github.com:seth/RSQLite.extfuns.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/seth/userprimary.net",
+            "ssh_url": "git@github.com:seth/userprimary.net.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/seth/emacs-kit",
+            "ssh_url": "git@github.com:seth/emacs-kit.git",
+            "language": "Emacs Lisp"
+         },
+         {
+            "url": "https://github.com/seth/chef_otto",
+            "ssh_url": "git@github.com:seth/chef_otto.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/macbook-chef",
+            "ssh_url": "git@github.com:seth/macbook-chef.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/seth/amqp_client",
+            "ssh_url": "git@github.com:seth/amqp_client.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/testriak",
+            "ssh_url": "git@github.com:seth/testriak.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/crio",
+            "ssh_url": "git@github.com:seth/crio.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/seth/seth-dotfiles",
+            "ssh_url": "git@github.com:seth/seth-dotfiles.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/seth/rs_spike",
+            "ssh_url": "git@github.com:seth/rs_spike.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/qp",
+            "ssh_url": "git@github.com:seth/qp.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/seth/critbitr",
+            "ssh_url": "git@github.com:seth/critbitr.git",
+            "language": "C"
+         },
+         {
+            "url": "https://github.com/seth/mixer-microbench",
+            "ssh_url": "git@github.com:seth/mixer-microbench.git",
+            "language": "Erlang"
+         },
+         {
+            "url": "https://github.com/seth/nested-rust-ex1",
+            "ssh_url": "git@github.com:seth/nested-rust-ex1.git",
+            "language": "Shell"
+         },
+         {
+            "url": "https://github.com/seth/bug-free-octo-funicular",
+            "ssh_url": "git@github.com:seth/bug-free-octo-funicular.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/seth/finna-be-tribble",
+            "ssh_url": "git@github.com:seth/finna-be-tribble.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/seth/deplacement-rapid",
+            "ssh_url": "git@github.com:seth/deplacement-rapid.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/seth/motd",
+            "ssh_url": "git@github.com:seth/motd.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/seth/chef-tools-talk",
+            "ssh_url": "git@github.com:seth/chef-tools-talk.git",
+            "language": "Erlang"
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/YuriWit",
+      "repos": [
+         {
+            "url": "https://github.com/YuriWit/ProjPDS",
+            "ssh_url": "git@github.com:YuriWit/ProjPDS.git",
+            "language": "MATLAB"
+         },
+         {
+            "url": "https://github.com/YuriWit/Joy2Key",
+            "ssh_url": "git@github.com:YuriWit/Joy2Key.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/YuriWit/microcon",
+            "ssh_url": "git@github.com:YuriWit/microcon.git",
+            "language": "C"
          }
       ]
    }

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{WordPress}
-COMPANY_NAME ---> U{Users} ---> UN[166]
-COMPANY_NAME ---> R{Repositories} ---> RN[3828]
-COMPANY_NAME ---> G{Gists} ---> GN[4595]
+COMPANY_NAME ---> U{Users} ---> UN[176]
+COMPANY_NAME ---> R{Repositories} ---> RN[3903]
+COMPANY_NAME ---> G{Gists} ---> GN[4514]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
 ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> Shell[Shell]
 ```

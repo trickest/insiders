@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Vista}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
-COMPANY_NAME ---> G{Gists} ---> GN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[41]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Objective-C[Objective-C]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> Ruby[Ruby]
-ML --> SCSS[SCSS]
+ML --> C++[C++]
 ```

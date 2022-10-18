@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SoundCloud}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[74]
-COMPANY_NAME ---> G{Gists} ---> GN[18]
+COMPANY_NAME ---> U{Users} ---> UN[24]
+COMPANY_NAME ---> R{Repositories} ---> RN[245]
+COMPANY_NAME ---> G{Gists} ---> GN[102]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Swift[Swift]
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ML --> Python[Python]
 ```

@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{LINE}
-COMPANY_NAME ---> U{Users} ---> UN[65]
-COMPANY_NAME ---> R{Repositories} ---> RN[2903]
+COMPANY_NAME ---> U{Users} ---> UN[64]
+COMPANY_NAME ---> R{Repositories} ---> RN[2902]
 COMPANY_NAME ---> G{Gists} ---> GN[1950]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Perl[Perl]

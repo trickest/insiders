@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Remitano}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[37]
-COMPANY_NAME ---> G{Gists} ---> GN[4]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[34]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> Python[Python]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> PHP[PHP]
-ML --> Vim_Script[Vim Script]
+ML --> Swift[Swift]
 ```
