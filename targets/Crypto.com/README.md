@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Crypto.com}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
+COMPANY_NAME ---> R{Repositories} ---> RN[48]
 COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> C++[C++]
 ML --> Java[Java]
-ML --> Elixir[Elixir]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Smarty[Smarty]
+ML --> EJS[EJS]
 ```

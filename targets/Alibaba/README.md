@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Alibaba}
-COMPANY_NAME ---> U{Users} ---> UN[136]
-COMPANY_NAME ---> R{Repositories} ---> RN[2187]
+COMPANY_NAME ---> U{Users} ---> UN[138]
+COMPANY_NAME ---> R{Repositories} ---> RN[2192]
 COMPANY_NAME ---> G{Gists} ---> GN[941]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

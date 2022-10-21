@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{84codes}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[187]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[176]
 COMPANY_NAME ---> G{Gists} ---> GN[308]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Bitwarden}
 COMPANY_NAME ---> U{Users} ---> UN[26]
-COMPANY_NAME ---> R{Repositories} ---> RN[262]
-COMPANY_NAME ---> G{Gists} ---> GN[48]
+COMPANY_NAME ---> R{Repositories} ---> RN[245]
+COMPANY_NAME ---> G{Gists} ---> GN[51]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
 ML --> Go[Go]
 ```

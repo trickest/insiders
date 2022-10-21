@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Aiven}
 COMPANY_NAME ---> U{Users} ---> UN[19]
-COMPANY_NAME ---> R{Repositories} ---> RN[335]
-COMPANY_NAME ---> G{Gists} ---> GN[174]
+COMPANY_NAME ---> R{Repositories} ---> RN[336]
+COMPANY_NAME ---> G{Gists} ---> GN[175]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
