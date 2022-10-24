@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> C[C]
 ML --> Shell[Shell]
-ML --> JavaScript[JavaScript]
 ML --> C++[C++]
+ML --> JavaScript[JavaScript]
 ```

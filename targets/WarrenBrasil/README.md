@@ -11,5 +11,5 @@ ML --> C#[C#]
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
 ```

@@ -3,14 +3,14 @@
       "user": "https://github.com/arjenlentz",
       "repos": [
          {
-            "url": "https://github.com/arjenlentz/routerfoo",
-            "ssh_url": "git@github.com:arjenlentz/routerfoo.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/arjenlentz/HomeResourceMonitor",
             "ssh_url": "git@github.com:arjenlentz/HomeResourceMonitor.git",
             "language": "C++"
+         },
+         {
+            "url": "https://github.com/arjenlentz/seymour",
+            "ssh_url": "git@github.com:arjenlentz/seymour.git",
+            "language": "PHP"
          },
          {
             "url": "https://github.com/arjenlentz/scribbles",
@@ -543,14 +543,14 @@
             "language": "OpenSCAD"
          },
          {
-            "url": "https://github.com/knielsen/pov_sender",
-            "ssh_url": "git@github.com:knielsen/pov_sender.git",
-            "language": "C"
-         },
-         {
             "url": "https://github.com/knielsen/pcb_pov",
             "ssh_url": "git@github.com:knielsen/pcb_pov.git",
             "language": "Prolog"
+         },
+         {
+            "url": "https://github.com/knielsen/pov_sender",
+            "ssh_url": "git@github.com:knielsen/pov_sender.git",
+            "language": "C"
          },
          {
             "url": "https://github.com/knielsen/arduino_expression_compiler",
@@ -668,11 +668,6 @@
             "language": "Java"
          },
          {
-            "url": "https://github.com/rusher/mxs-3588",
-            "ssh_url": "git@github.com:rusher/mxs-3588.git",
-            "language": "JavaScript"
-         },
-         {
             "url": "https://github.com/rusher/dynCol",
             "ssh_url": "git@github.com:rusher/dynCol.git",
             "language": "Java"
@@ -766,6 +761,11 @@
             "url": "https://github.com/rusher/pipeline_test",
             "ssh_url": "git@github.com:rusher/pipeline_test.git",
             "language": ""
+         },
+         {
+            "url": "https://github.com/rusher/connector-benchmark",
+            "ssh_url": "git@github.com:rusher/connector-benchmark.git",
+            "language": "C++"
          }
       ]
    },
@@ -1243,24 +1243,19 @@
             "language": "Dockerfile"
          },
          {
+            "url": "https://github.com/vorburger/LearningRaspberryPi",
+            "ssh_url": "git@github.com:vorburger/LearningRaspberryPi.git",
+            "language": "Python"
+         },
+         {
             "url": "https://github.com/vorburger/dotfiles-reproduce-problem",
             "ssh_url": "git@github.com:vorburger/dotfiles-reproduce-problem.git",
             "language": "Shell"
          },
          {
-            "url": "https://github.com/vorburger/LearningRaspberryPi",
-            "ssh_url": "git@github.com:vorburger/LearningRaspberryPi.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/vorburger/LeviatorWorld",
             "ssh_url": "git@github.com:vorburger/LeviatorWorld.git",
             "language": "Java"
-         },
-         {
-            "url": "https://github.com/vorburger/LearningSecurity",
-            "ssh_url": "git@github.com:vorburger/LearningSecurity.git",
-            "language": ""
          },
          {
             "url": "https://github.com/vorburger/Learning-Log4j2",
@@ -1270,6 +1265,11 @@
          {
             "url": "https://github.com/vorburger/vorburger",
             "ssh_url": "git@github.com:vorburger/vorburger.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/vorburger/LearningSecurity",
+            "ssh_url": "git@github.com:vorburger/LearningSecurity.git",
             "language": ""
          },
          {

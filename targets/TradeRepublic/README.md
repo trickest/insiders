@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{TradeRepublic}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[112]
+COMPANY_NAME ---> R{Repositories} ---> RN[113]
 COMPANY_NAME ---> G{Gists} ---> GN[110]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
 ML --> Go[Go]
-ML --> Java[Java]
 ML --> Python[Python]
+ML --> Java[Java]
 ```
