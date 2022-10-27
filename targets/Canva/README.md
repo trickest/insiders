@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Canva}
-COMPANY_NAME ---> U{Users} ---> UN[47]
-COMPANY_NAME ---> R{Repositories} ---> RN[974]
-COMPANY_NAME ---> G{Gists} ---> GN[748]
+COMPANY_NAME ---> U{Users} ---> UN[43]
+COMPANY_NAME ---> R{Repositories} ---> RN[964]
+COMPANY_NAME ---> G{Gists} ---> GN[747]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]

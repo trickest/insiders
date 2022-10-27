@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Discord}
-COMPANY_NAME ---> U{Users} ---> UN[32]
-COMPANY_NAME ---> R{Repositories} ---> RN[674]
-COMPANY_NAME ---> G{Gists} ---> GN[425]
+COMPANY_NAME ---> U{Users} ---> UN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[290]
+COMPANY_NAME ---> G{Gists} ---> GN[179]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> Go[Go]
+ML --> Shell[Shell]
 ML --> Java[Java]
-ML --> Rust[Rust]
+ML --> C#[C#]
 ```
