@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{IBM}
-COMPANY_NAME ---> U{Users} ---> UN[1906]
-COMPANY_NAME ---> R{Repositories} ---> RN[20879]
-COMPANY_NAME ---> G{Gists} ---> GN[4174]
+COMPANY_NAME ---> U{Users} ---> UN[1896]
+COMPANY_NAME ---> R{Repositories} ---> RN[20804]
+COMPANY_NAME ---> G{Gists} ---> GN[262]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
