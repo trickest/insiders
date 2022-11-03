@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Coursera}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[34]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[52]
+COMPANY_NAME ---> G{Gists} ---> GN[34]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> R[R]
-ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
 ```

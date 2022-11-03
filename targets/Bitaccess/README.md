@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Bitaccess}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[74]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
-ML --> C#[C#]
 ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> Ruby[Ruby]
+ML --> CSS[CSS]
 ```

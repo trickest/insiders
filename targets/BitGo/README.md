@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{BitGo}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[89]
-COMPANY_NAME ---> G{Gists} ---> GN[69]
+COMPANY_NAME ---> R{Repositories} ---> RN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> Python[Python]
-ML --> HTML[HTML]
-ML --> Clojure[Clojure]
+ML --> JavaScript[JavaScript]
+ML --> Ruby[Ruby]
+ML --> TypeScript[TypeScript]
 ```

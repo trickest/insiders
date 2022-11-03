@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{GoodRx}
-COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[294]
-COMPANY_NAME ---> G{Gists} ---> GN[137]
+COMPANY_NAME ---> U{Users} ---> UN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[364]
+COMPANY_NAME ---> G{Gists} ---> GN[190]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]

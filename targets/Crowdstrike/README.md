@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Crowdstrike}
-COMPANY_NAME ---> U{Users} ---> UN[26]
-COMPANY_NAME ---> R{Repositories} ---> RN[441]
-COMPANY_NAME ---> G{Gists} ---> GN[867]
+COMPANY_NAME ---> U{Users} ---> UN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[536]
+COMPANY_NAME ---> G{Gists} ---> GN[976]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
