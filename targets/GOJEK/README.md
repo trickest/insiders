@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{GOJEK}
 COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[218]
+COMPANY_NAME ---> R{Repositories} ---> RN[217]
 COMPANY_NAME ---> G{Gists} ---> GN[82]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]

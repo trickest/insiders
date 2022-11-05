@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Evernote}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
-COMPANY_NAME ---> G{Gists} ---> GN[4]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> G{Gists} ---> GN[25]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Rust[Rust]
+ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
-ML --> Objective-C[Objective-C]
-ML --> Java[Java]
-ML --> CSS[CSS]
+ML --> Rust[Rust]
+ML --> Python[Python]
+ML --> Ruby[Ruby]
 ```
