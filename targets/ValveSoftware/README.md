@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{ValveSoftware}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[102]
+COMPANY_NAME ---> R{Repositories} ---> RN[101]
 COMPANY_NAME ---> G{Gists} ---> GN[172]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C[C]

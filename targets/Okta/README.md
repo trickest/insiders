@@ -3,13 +3,10 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Okta}
-COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[424]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[13]
 COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> Makefile[Makefile]
-ML --> CSS[CSS]
-ML --> Python[Python]
+ML --> TypeScript[TypeScript]
 ```

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{N26}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[321]
+COMPANY_NAME ---> R{Repositories} ---> RN[323]
 COMPANY_NAME ---> G{Gists} ---> GN[132]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

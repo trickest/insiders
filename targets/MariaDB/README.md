@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MariaDB}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[277]
-COMPANY_NAME ---> G{Gists} ---> GN[357]
+COMPANY_NAME ---> U{Users} ---> UN[20]
+COMPANY_NAME ---> R{Repositories} ---> RN[307]
+COMPANY_NAME ---> G{Gists} ---> GN[393]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> C[C]
+ML --> JavaScript[JavaScript]
 ML --> Shell[Shell]
 ML --> C++[C++]
-ML --> JavaScript[JavaScript]
 ```

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Tokopedia}
 COMPANY_NAME ---> U{Users} ---> UN[33]
-COMPANY_NAME ---> R{Repositories} ---> RN[836]
+COMPANY_NAME ---> R{Repositories} ---> RN[835]
 COMPANY_NAME ---> G{Gists} ---> GN[234]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

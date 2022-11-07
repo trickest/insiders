@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Trustpilot}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[121]
+COMPANY_NAME ---> R{Repositories} ---> RN[122]
 COMPANY_NAME ---> G{Gists} ---> GN[116]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
