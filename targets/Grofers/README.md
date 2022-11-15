@@ -3,12 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Grofers}
-COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[570]
-COMPANY_NAME ---> G{Gists} ---> GN[82]
+COMPANY_NAME ---> U{Users} ---> UN[34]
+COMPANY_NAME ---> R{Repositories} ---> RN[676]
+COMPANY_NAME ---> G{Gists} ---> GN[122]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> Python[Python]
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> HTML[HTML]

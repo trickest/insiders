@@ -1,351 +1,70 @@
 [
    {
-      "user": "https://github.com/ianduke",
+      "user": "https://github.com/DanielEberhard",
+      "repos": []
+   },
+   {
+      "user": "https://github.com/DanielKrikava",
       "repos": [
          {
-            "url": "https://github.com/ianduke/Exercise",
-            "ssh_url": "git@github.com:ianduke/Exercise.git",
-            "language": "Kotlin"
+            "url": "https://github.com/DanielKrikava/nuxt-project",
+            "ssh_url": "git@github.com:DanielKrikava/nuxt-project.git",
+            "language": "Vue"
          }
       ]
    },
    {
-      "user": "https://github.com/koho",
+      "user": "https://github.com/LukasMartinak",
       "repos": [
          {
-            "url": "https://github.com/koho/frpmgr",
-            "ssh_url": "git@github.com:koho/frpmgr.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/idrcom",
-            "ssh_url": "git@github.com:koho/idrcom.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/koho/mpl-font",
-            "ssh_url": "git@github.com:koho/mpl-font.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/srvwrapper",
-            "ssh_url": "git@github.com:koho/srvwrapper.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/fgfw",
-            "ssh_url": "git@github.com:koho/fgfw.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/koho/winsvc",
-            "ssh_url": "git@github.com:koho/winsvc.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/svcctl",
-            "ssh_url": "git@github.com:koho/svcctl.git",
-            "language": "C++"
-         },
-         {
-            "url": "https://github.com/koho/mqrr",
-            "ssh_url": "git@github.com:koho/mqrr.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/ez_deploy",
-            "ssh_url": "git@github.com:koho/ez_deploy.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/blog",
-            "ssh_url": "git@github.com:koho/blog.git",
-            "language": "CSS"
-         },
-         {
-            "url": "https://github.com/koho/geonet",
-            "ssh_url": "git@github.com:koho/geonet.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/sonic_pi",
-            "ssh_url": "git@github.com:koho/sonic_pi.git",
-            "language": "Ruby"
-         },
-         {
-            "url": "https://github.com/koho/pppoe-sim",
-            "ssh_url": "git@github.com:koho/pppoe-sim.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/tun2",
-            "ssh_url": "git@github.com:koho/tun2.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/koho/aliddns-serverless",
-            "ssh_url": "git@github.com:koho/aliddns-serverless.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/vpark-door",
-            "ssh_url": "git@github.com:koho/vpark-door.git",
-            "language": "CSS"
-         },
-         {
-            "url": "https://github.com/koho/playlist",
-            "ssh_url": "git@github.com:koho/playlist.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/R",
-            "ssh_url": "git@github.com:koho/R.git",
-            "language": "R"
-         },
-         {
-            "url": "https://github.com/koho/matlab",
-            "ssh_url": "git@github.com:koho/matlab.git",
-            "language": "MATLAB"
-         },
-         {
-            "url": "https://github.com/koho/ss-tun",
-            "ssh_url": "git@github.com:koho/ss-tun.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/koho/koho",
-            "ssh_url": "git@github.com:koho/koho.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/koho/WebIR",
-            "ssh_url": "git@github.com:koho/WebIR.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/koho/aliddns",
-            "ssh_url": "git@github.com:koho/aliddns.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/CentralLimit",
-            "ssh_url": "git@github.com:koho/CentralLimit.git",
-            "language": "R"
-         },
-         {
-            "url": "https://github.com/koho/CaptchaSolver",
-            "ssh_url": "git@github.com:koho/CaptchaSolver.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/aliyunddns",
-            "ssh_url": "git@github.com:koho/aliyunddns.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/koho/ServiceWrapper",
-            "ssh_url": "git@github.com:koho/ServiceWrapper.git",
-            "language": "C#"
-         },
-         {
-            "url": "https://github.com/koho/dnsproxy",
-            "ssh_url": "git@github.com:koho/dnsproxy.git",
-            "language": "Go"
-         },
-         {
-            "url": "https://github.com/koho/R_data",
-            "ssh_url": "git@github.com:koho/R_data.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/koho/ezd",
-            "ssh_url": "git@github.com:koho/ezd.git",
-            "language": "Python"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/MarcusCouto",
-      "repos": [
-         {
-            "url": "https://github.com/MarcusCouto/Twintera",
-            "ssh_url": "git@github.com:MarcusCouto/Twintera.git",
-            "language": "Python"
-         },
-         {
-            "url": "https://github.com/MarcusCouto/projetoSite",
-            "ssh_url": "git@github.com:MarcusCouto/projetoSite.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/MarcusCouto/Curso-PHP",
-            "ssh_url": "git@github.com:MarcusCouto/Curso-PHP.git",
-            "language": "PHP"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/MarwanMarwan",
-      "repos": [
-         {
-            "url": "https://github.com/MarwanMarwan/MvcMovie",
-            "ssh_url": "git@github.com:MarwanMarwan/MvcMovie.git",
-            "language": "C#"
-         },
-         {
-            "url": "https://github.com/MarwanMarwan/try_git",
-            "ssh_url": "git@github.com:MarwanMarwan/try_git.git",
-            "language": ""
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/moarora",
-      "repos": [
-         {
-            "url": "https://github.com/moarora/SystemFingerprint",
-            "ssh_url": "git@github.com:moarora/SystemFingerprint.git",
-            "language": "C#"
-         },
-         {
-            "url": "https://github.com/moarora/Tpm.Net",
-            "ssh_url": "git@github.com:moarora/Tpm.Net.git",
-            "language": "C#"
-         },
-         {
-            "url": "https://github.com/moarora/FizzBuzz",
-            "ssh_url": "git@github.com:moarora/FizzBuzz.git",
-            "language": "C#"
-         }
-      ]
-   },
-   {
-      "user": "https://github.com/mohitarora",
-      "repos": [
-         {
-            "url": "https://github.com/mohitarora/consul-docker",
-            "ssh_url": "git@github.com:mohitarora/consul-docker.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/mohitarora/play-rest-api",
-            "ssh_url": "git@github.com:mohitarora/play-rest-api.git",
-            "language": "Scala"
-         },
-         {
-            "url": "https://github.com/mohitarora/akka-guice-di",
-            "ssh_url": "git@github.com:mohitarora/akka-guice-di.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/logstash",
-            "ssh_url": "git@github.com:mohitarora/logstash.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/docker-sample-app-httpd",
-            "ssh_url": "git@github.com:mohitarora/docker-sample-app-httpd.git",
-            "language": "Shell"
-         },
-         {
-            "url": "https://github.com/mohitarora/s3client",
-            "ssh_url": "git@github.com:mohitarora/s3client.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/jekyll-docs-sample",
-            "ssh_url": "git@github.com:mohitarora/jekyll-docs-sample.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/google-map-demo",
-            "ssh_url": "git@github.com:mohitarora/google-map-demo.git",
+            "url": "https://github.com/LukasMartinak/lukasmartinak.com",
+            "ssh_url": "git@github.com:LukasMartinak/lukasmartinak.com.git",
             "language": "JavaScript"
-         },
+         }
+      ]
+   },
+   {
+      "user": "https://github.com/terenceshin",
+      "repos": [
          {
-            "url": "https://github.com/mohitarora/docker-centos-base",
-            "ssh_url": "git@github.com:mohitarora/docker-centos-base.git",
+            "url": "https://github.com/terenceshin/data-science-resources",
+            "ssh_url": "git@github.com:terenceshin/data-science-resources.git",
             "language": ""
          },
          {
-            "url": "https://github.com/mohitarora/docker-sample-app",
-            "ssh_url": "git@github.com:mohitarora/docker-sample-app.git",
+            "url": "https://github.com/terenceshin/statistical-methods",
+            "ssh_url": "git@github.com:terenceshin/statistical-methods.git",
+            "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/terenceshin/projects",
+            "ssh_url": "git@github.com:terenceshin/projects.git",
+            "language": "Jupyter Notebook"
+         },
+         {
+            "url": "https://github.com/terenceshin/helper_functions",
+            "ssh_url": "git@github.com:terenceshin/helper_functions.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/terenceshin/notes",
+            "ssh_url": "git@github.com:terenceshin/notes.git",
+            "language": "Python"
+         },
+         {
+            "url": "https://github.com/terenceshin/bq-scripting-leetcode-questions",
+            "ssh_url": "git@github.com:terenceshin/bq-scripting-leetcode-questions.git",
             "language": ""
          },
          {
-            "url": "https://github.com/mohitarora/packer-azure-puppet",
-            "ssh_url": "git@github.com:mohitarora/packer-azure-puppet.git",
-            "language": "Ruby"
+            "url": "https://github.com/terenceshin/modularized-ml-code",
+            "ssh_url": "git@github.com:terenceshin/modularized-ml-code.git",
+            "language": "Python"
          },
          {
-            "url": "https://github.com/mohitarora/number-guess-game",
-            "ssh_url": "git@github.com:mohitarora/number-guess-game.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/puppet",
-            "ssh_url": "git@github.com:mohitarora/puppet.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/docker-jdk7-base",
-            "ssh_url": "git@github.com:mohitarora/docker-jdk7-base.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/asgroup-instance-terminator",
-            "ssh_url": "git@github.com:mohitarora/asgroup-instance-terminator.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/jekyll-template",
-            "ssh_url": "git@github.com:mohitarora/jekyll-template.git",
-            "language": "Ruby"
-         },
-         {
-            "url": "https://github.com/mohitarora/docker-httpd-base",
-            "ssh_url": "git@github.com:mohitarora/docker-httpd-base.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/plumbr-puzzle",
-            "ssh_url": "git@github.com:mohitarora/plumbr-puzzle.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/es-cqrs-example",
-            "ssh_url": "git@github.com:mohitarora/es-cqrs-example.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/vagrant",
-            "ssh_url": "git@github.com:mohitarora/vagrant.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/ansible",
-            "ssh_url": "git@github.com:mohitarora/ansible.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/mohitarora/trading-sample",
-            "ssh_url": "git@github.com:mohitarora/trading-sample.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/dropwizard-sample",
-            "ssh_url": "git@github.com:mohitarora/dropwizard-sample.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/akka-spring-di",
-            "ssh_url": "git@github.com:mohitarora/akka-spring-di.git",
-            "language": "Java"
-         },
-         {
-            "url": "https://github.com/mohitarora/mesos-kafka",
-            "ssh_url": "git@github.com:mohitarora/mesos-kafka.git",
-            "language": ""
+            "url": "https://github.com/terenceshin/airflow-bq-templates",
+            "ssh_url": "git@github.com:terenceshin/airflow-bq-templates.git",
+            "language": "Python"
          }
       ]
    }

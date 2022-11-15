@@ -4,12 +4,8 @@
 graph LR
 COMPANY_NAME{BooztFashion}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[26]
+COMPANY_NAME ---> R{Repositories} ---> RN[2]
 COMPANY_NAME ---> G{Gists} ---> GN[21]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Puppet[Puppet]
-ML --> Shell[Shell]
-ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> Pascal[Pascal]
+ML --> JavaScript[JavaScript]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Infogram}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
 ML --> Shell[Shell]
-ML --> Vim_Script[Vim Script]
-ML --> Objective-C[Objective-C]
+ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ```

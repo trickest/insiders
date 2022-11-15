@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{InvestNext}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[93]
 COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> Vim_Script[Vim Script]
+ML --> JavaScript[JavaScript]
 ML --> Shell[Shell]
+ML --> Ruby[Ruby]
+ML --> Java[Java]
 ```

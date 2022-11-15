@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AirMap}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
-ML --> C++[C++]
-ML --> Vim_Script[Vim Script]
-ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> Objective-C[Objective-C]
+ML --> Shell[Shell]
+ML --> Makefile[Makefile]
 ```
