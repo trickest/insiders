@@ -3,13 +3,11 @@
 ```mermaid
 graph LR
 COMPANY_NAME{CheckPoint}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[34]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Kotlin[Kotlin]
 ML --> Java[Java]
-ML --> Swift[Swift]
-ML --> C++[C++]
 ML --> Python[Python]
-ML --> C#[C#]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Gener8}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[63]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> PHP[PHP]
-ML --> Vim_Script[Vim Script]
-ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> TypeScript[TypeScript]
+ML --> Vue[Vue]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Adafruit}
-COMPANY_NAME ---> U{Users} ---> UN[48]
-COMPANY_NAME ---> R{Repositories} ---> RN[649]
-COMPANY_NAME ---> G{Gists} ---> GN[390]
+COMPANY_NAME ---> U{Users} ---> UN[27]
+COMPANY_NAME ---> R{Repositories} ---> RN[392]
+COMPANY_NAME ---> G{Gists} ---> GN[428]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
-ML --> C++[C++]
 ML --> C[C]
+ML --> C++[C++]
+ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
 ```

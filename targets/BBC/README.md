@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{BBC}
 COMPANY_NAME ---> U{Users} ---> UN[59]
-COMPANY_NAME ---> R{Repositories} ---> RN[1237]
-COMPANY_NAME ---> G{Gists} ---> GN[718]
+COMPANY_NAME ---> R{Repositories} ---> RN[1272]
+COMPANY_NAME ---> G{Gists} ---> GN[726]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
 ML --> C[C]
 ML --> Java[Java]

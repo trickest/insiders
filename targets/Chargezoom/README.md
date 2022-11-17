@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Chargezoom}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[22]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> R{Repositories} ---> RN[47]
+COMPANY_NAME ---> G{Gists} ---> GN[92]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Python[Python]
 ML --> Java[Java]
+ML --> Shell[Shell]
 ML --> Ruby[Ruby]
 ML --> C++[C++]
-ML --> HTML[HTML]
-ML --> Roff[Roff]
 ```
