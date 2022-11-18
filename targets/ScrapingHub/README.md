@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{ScrapingHub}
 COMPANY_NAME ---> U{Users} ---> UN[41]
-COMPANY_NAME ---> R{Repositories} ---> RN[496]
-COMPANY_NAME ---> G{Gists} ---> GN[393]
+COMPANY_NAME ---> R{Repositories} ---> RN[464]
+COMPANY_NAME ---> G{Gists} ---> GN[371]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]

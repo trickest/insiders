@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vercel}
-COMPANY_NAME ---> U{Users} ---> UN[73]
-COMPANY_NAME ---> R{Repositories} ---> RN[2951]
-COMPANY_NAME ---> G{Gists} ---> GN[1649]
+COMPANY_NAME ---> U{Users} ---> UN[86]
+COMPANY_NAME ---> R{Repositories} ---> RN[3106]
+COMPANY_NAME ---> G{Gists} ---> GN[1697]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]

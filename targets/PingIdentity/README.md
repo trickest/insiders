@@ -3,9 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{PingIdentity}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[32]
+COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
+ML --> OCaml[OCaml]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Go[Go]
+ML --> CSS[CSS]
 ```

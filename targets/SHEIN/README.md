@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{SHEIN}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[40]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[61]
+COMPANY_NAME ---> G{Gists} ---> GN[713]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> Python[Python]
+ML --> C#[C#]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> Vim_Script[Vim Script]
+ML --> Bicep[Bicep]
+ML --> Shell[Shell]
+ML --> CSS[CSS]
 ```

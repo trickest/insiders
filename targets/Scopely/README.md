@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Scopely}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[19]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[75]
+COMPANY_NAME ---> G{Gists} ---> GN[11]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
+ML --> CSS[CSS]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
-ML --> Python[Python]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> Clojure[Clojure]
+ML --> C#[C#]
 ```

@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Spokeo}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[55]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Erlang[Erlang]
 ML --> Python[Python]
-ML --> Ruby[Ruby]
-ML --> Java[Java]
+ML --> R[R]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```
