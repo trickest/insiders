@@ -9,7 +9,6 @@ COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> Shell[Shell]
-ML --> R[R]
 ML --> Python[Python]
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Fidentity}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[129]
-COMPANY_NAME ---> G{Gists} ---> GN[56]
+COMPANY_NAME ---> R{Repositories} ---> RN[22]
+COMPANY_NAME ---> G{Gists} ---> GN[29]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> TypeScript[TypeScript]
-ML --> HTML[HTML]
-ML --> PHP[PHP]
-ML --> CSS[CSS]
+ML --> JavaScript[JavaScript]
+ML --> C#[C#]
+ML --> Haskell[Haskell]
 ```

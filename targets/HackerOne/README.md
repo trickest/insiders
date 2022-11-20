@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{HackerOne}
 COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[108]
-COMPANY_NAME ---> G{Gists} ---> GN[207]
+COMPANY_NAME ---> R{Repositories} ---> RN[95]
+COMPANY_NAME ---> G{Gists} ---> GN[208]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> C[C]
-ML --> Shell[Shell]
+ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> Ruby[Ruby]
-ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```

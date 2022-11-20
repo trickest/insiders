@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{BitGo}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[133]
-COMPANY_NAME ---> G{Gists} ---> GN[376]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[129]
+COMPANY_NAME ---> G{Gists} ---> GN[375]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Clojure[Clojure]
 ML --> JavaScript[JavaScript]

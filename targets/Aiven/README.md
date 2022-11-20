@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Aiven}
-COMPANY_NAME ---> U{Users} ---> UN[26]
-COMPANY_NAME ---> R{Repositories} ---> RN[429]
-COMPANY_NAME ---> G{Gists} ---> GN[181]
+COMPANY_NAME ---> U{Users} ---> UN[27]
+COMPANY_NAME ---> R{Repositories} ---> RN[434]
+COMPANY_NAME ---> G{Gists} ---> GN[180]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> Java[Java]

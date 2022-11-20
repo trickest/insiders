@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bitwarden}
-COMPANY_NAME ---> U{Users} ---> UN[30]
-COMPANY_NAME ---> R{Repositories} ---> RN[247]
-COMPANY_NAME ---> G{Gists} ---> GN[51]
+COMPANY_NAME ---> U{Users} ---> UN[35]
+COMPANY_NAME ---> R{Repositories} ---> RN[390]
+COMPANY_NAME ---> G{Gists} ---> GN[218]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
-ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> TypeScript[TypeScript]
-ML --> Go[Go]
 ```
