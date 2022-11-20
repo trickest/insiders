@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Quantopian}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[77]
-COMPANY_NAME ---> G{Gists} ---> GN[38]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> G{Gists} ---> GN[27]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ```

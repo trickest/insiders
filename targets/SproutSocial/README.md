@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SproutSocial}
-COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[107]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[76]
 COMPANY_NAME ---> G{Gists} ---> GN[61]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
-ML --> HTML[HTML]
 ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> Clojure[Clojure]
+ML --> Go[Go]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Swiggy}
 COMPANY_NAME ---> U{Users} ---> UN[18]
-COMPANY_NAME ---> R{Repositories} ---> RN[118]
-COMPANY_NAME ---> G{Gists} ---> GN[38]
+COMPANY_NAME ---> R{Repositories} ---> RN[120]
+COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> Shell[Shell]
+ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> CSS[CSS]
 ```

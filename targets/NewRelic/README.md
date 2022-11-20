@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{NewRelic}
-COMPANY_NAME ---> U{Users} ---> UN[55]
-COMPANY_NAME ---> R{Repositories} ---> RN[577]
-COMPANY_NAME ---> G{Gists} ---> GN[410]
+COMPANY_NAME ---> U{Users} ---> UN[51]
+COMPANY_NAME ---> R{Repositories} ---> RN[566]
+COMPANY_NAME ---> G{Gists} ---> GN[449]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> Shell[Shell]
 ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> Go[Go]
 ```

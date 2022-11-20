@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Worklytics}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[80]
-COMPANY_NAME ---> G{Gists} ---> GN[75]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[64]
+COMPANY_NAME ---> G{Gists} ---> GN[16]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
-ML --> CSS[CSS]
 ML --> PHP[PHP]
+ML --> HTML[HTML]
 ML --> Go[Go]
+ML --> CSS[CSS]
 ```

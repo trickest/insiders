@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{TryHackMe}
-COMPANY_NAME ---> U{Users} ---> UN[14]
-COMPANY_NAME ---> R{Repositories} ---> RN[73]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[95]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Dockerfile[Dockerfile]
-ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> CMake[CMake]
+ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> Dockerfile[Dockerfile]
+ML --> HTML[HTML]
 ```
