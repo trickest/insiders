@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{VRT}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[45]
-COMPANY_NAME ---> G{Gists} ---> GN[34]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
 ML --> Java[Java]
-ML --> Puppet[Puppet]
-ML --> C[C]
-ML --> Ruby[Ruby]
+ML --> C#[C#]
+ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> Kotlin[Kotlin]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Sidefx}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[57]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> C#[C#]
-ML --> HTML[HTML]
 ML --> C++[C++]
-ML --> Shell[Shell]
+ML --> Ruby[Ruby]
+ML --> C#[C#]
 ```

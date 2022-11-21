@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{UnitedAirlines}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[262]
-COMPANY_NAME ---> G{Gists} ---> GN[251]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[240]
+COMPANY_NAME ---> G{Gists} ---> GN[240]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]

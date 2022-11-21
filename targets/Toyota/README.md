@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Toyota}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[73]
 COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
+ML --> C[C]
 ML --> Clojure[Clojure]
-ML --> Python[Python]
-ML --> Rust[Rust]
-ML --> PHP[PHP]
-ML --> JavaScript[JavaScript]
+ML --> C++[C++]
+ML --> Swift[Swift]
 ```

@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Zerodha}
-COMPANY_NAME ---> U{Users} ---> UN[25]
-COMPANY_NAME ---> R{Repositories} ---> RN[425]
+COMPANY_NAME ---> U{Users} ---> UN[32]
+COMPANY_NAME ---> R{Repositories} ---> RN[439]
 COMPANY_NAME ---> G{Gists} ---> GN[263]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]

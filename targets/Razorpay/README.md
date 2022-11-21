@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Razorpay}
-COMPANY_NAME ---> U{Users} ---> UN[56]
-COMPANY_NAME ---> R{Repositories} ---> RN[1335]
-COMPANY_NAME ---> G{Gists} ---> GN[482]
+COMPANY_NAME ---> U{Users} ---> UN[50]
+COMPANY_NAME ---> R{Repositories} ---> RN[1433]
+COMPANY_NAME ---> G{Gists} ---> GN[474]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
-ML --> Python[Python]
 ML --> CSS[CSS]
+ML --> Python[Python]
 ```

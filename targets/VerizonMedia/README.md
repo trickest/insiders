@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{VerizonMedia}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[91]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[81]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> Python[Python]
 ML --> Kotlin[Kotlin]
+ML --> Python[Python]
 ML --> HTML[HTML]
 ML --> PHP[PHP]
 ```
