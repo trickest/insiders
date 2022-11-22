@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Mollie}
 COMPANY_NAME ---> U{Users} ---> UN[15]
-COMPANY_NAME ---> R{Repositories} ---> RN[108]
-COMPANY_NAME ---> G{Gists} ---> GN[93]
+COMPANY_NAME ---> R{Repositories} ---> RN[186]
+COMPANY_NAME ---> G{Gists} ---> GN[94]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> PHP[PHP]
 ML --> Java[Java]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ```

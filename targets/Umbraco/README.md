@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Umbraco}
-COMPANY_NAME ---> U{Users} ---> UN[28]
-COMPANY_NAME ---> R{Repositories} ---> RN[317]
-COMPANY_NAME ---> G{Gists} ---> GN[262]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[306]
+COMPANY_NAME ---> G{Gists} ---> GN[269]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]
 ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
 ```

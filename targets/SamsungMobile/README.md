@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SamsungMobile}
-COMPANY_NAME ---> U{Users} ---> UN[8]
+COMPANY_NAME ---> U{Users} ---> UN[7]
 COMPANY_NAME ---> R{Repositories} ---> RN[55]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Python[Python]

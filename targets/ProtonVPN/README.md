@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{ProtonVPN}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[75]
-COMPANY_NAME ---> G{Gists} ---> GN[71]
+COMPANY_NAME ---> R{Repositories} ---> RN[83]
+COMPANY_NAME ---> G{Gists} ---> GN[75]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
+ML --> Python[Python]
 ML --> Shell[Shell]
+ML --> TypeScript[TypeScript]
 ```

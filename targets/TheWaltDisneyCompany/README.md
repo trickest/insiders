@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{TheWaltDisneyCompany}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[29]
+COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Lean[Lean]
-ML --> Dockerfile[Dockerfile]
 ML --> Ruby[Ruby]
-ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> TypeScript[TypeScript]
+ML --> F#[F#]
+ML --> CSS[CSS]
+ML --> C#[C#]
 ```

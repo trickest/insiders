@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{SMTP2GO}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
+COMPANY_NAME ---> G{Gists} ---> GN[18]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
+ML --> Kotlin[Kotlin]
 ML --> Java[Java]
+ML --> C#[C#]
 ML --> HTML[HTML]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> C++[C++]
 ```
