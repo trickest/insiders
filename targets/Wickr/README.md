@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Wickr}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[52]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C[C]
+ML --> JavaScript[JavaScript]
+ML --> Go[Go]
 ML --> Shell[Shell]
-ML --> SCSS[SCSS]
+ML --> Starlark[Starlark]
+ML --> Ruby[Ruby]
 ```

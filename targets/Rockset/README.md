@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Rockset}
-COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[178]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[73]
 COMPANY_NAME ---> G{Gists} ---> GN[104]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Haskell[Haskell]
 ML --> Ruby[Ruby]
+ML --> Go[Go]
 ML --> C++[C++]
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> C[C]
 ```

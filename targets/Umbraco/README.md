@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Umbraco}
-COMPANY_NAME ---> U{Users} ---> UN[23]
-COMPANY_NAME ---> R{Repositories} ---> RN[306]
+COMPANY_NAME ---> U{Users} ---> UN[21]
+COMPANY_NAME ---> R{Repositories} ---> RN[305]
 COMPANY_NAME ---> G{Gists} ---> GN[269]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]

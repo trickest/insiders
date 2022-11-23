@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{KhanAcademy}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[64]
-COMPANY_NAME ---> G{Gists} ---> GN[0]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[95]
+COMPANY_NAME ---> G{Gists} ---> GN[40]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Clojure[Clojure]
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
+ML --> Clojure[Clojure]
 ML --> Java[Java]
-ML --> R[R]
+ML --> C++[C++]
+ML --> JavaScript[JavaScript]
 ```
