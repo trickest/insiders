@@ -3,7 +3,7 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Allegro}
-COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> U{Users} ---> UN[11]
 COMPANY_NAME ---> R{Repositories} ---> RN[141]
 COMPANY_NAME ---> G{Gists} ---> GN[33]
 COMPANY_NAME ---> ML{Most Used<br>Languages}

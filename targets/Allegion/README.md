@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Allegion}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[20]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[9]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
+ML --> RAML[RAML]
 ML --> Java[Java]
-ML --> Python[Python]
-ML --> C[C]
-ML --> Assembly[Assembly]
+ML --> CSS[CSS]
 ```

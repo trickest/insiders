@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Didi}
 COMPANY_NAME ---> U{Users} ---> UN[17]
-COMPANY_NAME ---> R{Repositories} ---> RN[168]
-COMPANY_NAME ---> G{Gists} ---> GN[40]
+COMPANY_NAME ---> R{Repositories} ---> RN[268]
+COMPANY_NAME ---> G{Gists} ---> GN[47]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
+ML --> JavaScript[JavaScript]
 ML --> Go[Go]
-ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> C[C]
+ML --> HTML[HTML]
 ```

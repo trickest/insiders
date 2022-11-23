@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Etsy}
 COMPANY_NAME ---> U{Users} ---> UN[33]
-COMPANY_NAME ---> R{Repositories} ---> RN[498]
-COMPANY_NAME ---> G{Gists} ---> GN[253]
+COMPANY_NAME ---> R{Repositories} ---> RN[492]
+COMPANY_NAME ---> G{Gists} ---> GN[237]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]
