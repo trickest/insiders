@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{CreditKarma}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[46]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> CSS[CSS]
-ML --> Objective-C[Objective-C]
-ML --> Shell[Shell]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> C[C]
 ```

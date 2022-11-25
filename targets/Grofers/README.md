@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Grofers}
-COMPANY_NAME ---> U{Users} ---> UN[35]
-COMPANY_NAME ---> R{Repositories} ---> RN[612]
+COMPANY_NAME ---> U{Users} ---> UN[28]
+COMPANY_NAME ---> R{Repositories} ---> RN[600]
 COMPANY_NAME ---> G{Gists} ---> GN[85]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]

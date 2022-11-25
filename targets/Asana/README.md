@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Asana}
-COMPANY_NAME ---> U{Users} ---> UN[16]
-COMPANY_NAME ---> R{Repositories} ---> RN[177]
-COMPANY_NAME ---> G{Gists} ---> GN[58]
+COMPANY_NAME ---> U{Users} ---> UN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[217]
+COMPANY_NAME ---> G{Gists} ---> GN[77]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
+ML --> Swift[Swift]
 ML --> HTML[HTML]
-ML --> TypeScript[TypeScript]
-ML --> Scala[Scala]
+ML --> Objective-C[Objective-C]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Eventbrite}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[112]
+COMPANY_NAME ---> R{Repositories} ---> RN[48]
 COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> C[C]
-ML --> Java[Java]
+ML --> Python[Python]
+ML --> Vim_Script[Vim Script]
+ML --> CSS[CSS]
 ```

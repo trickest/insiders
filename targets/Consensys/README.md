@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Consensys}
-COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[472]
-COMPANY_NAME ---> G{Gists} ---> GN[209]
+COMPANY_NAME ---> U{Users} ---> UN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[452]
+COMPANY_NAME ---> G{Gists} ---> GN[188]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
