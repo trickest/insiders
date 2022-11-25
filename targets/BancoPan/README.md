@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{BancoPan}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[13]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[46]
+COMPANY_NAME ---> G{Gists} ---> GN[59]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> R[R]
-ML --> PHP[PHP]
-ML --> C#[C#]
+ML --> Swift[Swift]
+ML --> Objective-C[Objective-C]
+ML --> Makefile[Makefile]
+ML --> Starlark[Starlark]
+ML --> Ruby[Ruby]
 ```

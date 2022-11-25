@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{EPAM}
 COMPANY_NAME ---> U{Users} ---> UN[29]
-COMPANY_NAME ---> R{Repositories} ---> RN[335]
-COMPANY_NAME ---> G{Gists} ---> GN[268]
+COMPANY_NAME ---> R{Repositories} ---> RN[315]
+COMPANY_NAME ---> G{Gists} ---> GN[212]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> JavaScript[JavaScript]
