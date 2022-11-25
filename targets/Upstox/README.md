@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Upstox}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[85]
+COMPANY_NAME ---> R{Repositories} ---> RN[76]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> Java[Java]
-ML --> Vue[Vue]
+ML --> TypeScript[TypeScript]
 ```

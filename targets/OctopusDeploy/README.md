@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{OctopusDeploy}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[20]
-COMPANY_NAME ---> G{Gists} ---> GN[157]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[69]
+COMPANY_NAME ---> G{Gists} ---> GN[156]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
 ML --> C#[C#]
-ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
 ```

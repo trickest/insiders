@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Redbull}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[42]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[11]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Kotlin[Kotlin]
-ML --> JavaScript[JavaScript]
-ML --> SystemVerilog[SystemVerilog]
+ML --> C++[C++]
+ML --> Swift[Swift]
+ML --> Shell[Shell]
 ```

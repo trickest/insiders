@@ -3,10 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Payoneer}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[3]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> Shell[Shell]
+ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
 ML --> Go[Go]
 ```

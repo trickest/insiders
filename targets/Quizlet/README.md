@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Quizlet}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[103]
-COMPANY_NAME ---> G{Gists} ---> GN[63]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[153]
+COMPANY_NAME ---> G{Gists} ---> GN[59]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> C++[C++]
+ML --> Python[Python]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ML --> CSS[CSS]
 ```

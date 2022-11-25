@@ -3,13 +3,10 @@
 ```mermaid
 graph LR
 COMPANY_NAME{JohnDeere}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[5]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
-ML --> C++[C++]
-ML --> Arduino[Arduino]
-ML --> JavaScript[JavaScript]
-ML --> C[C]
+ML --> Groovy[Groovy]
+ML --> CSS[CSS]
 ```

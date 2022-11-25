@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{MongoDB}
-COMPANY_NAME ---> U{Users} ---> UN[56]
-COMPANY_NAME ---> R{Repositories} ---> RN[1108]
-COMPANY_NAME ---> G{Gists} ---> GN[1267]
+COMPANY_NAME ---> U{Users} ---> UN[59]
+COMPANY_NAME ---> R{Repositories} ---> RN[1208]
+COMPANY_NAME ---> G{Gists} ---> GN[1236]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> TypeScript[TypeScript]
-ML --> Go[Go]
 ML --> Java[Java]
+ML --> Go[Go]
 ```

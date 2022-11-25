@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{SpaceX}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[55]
+COMPANY_NAME ---> R{Repositories} ---> RN[100]
 COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Kotlin[Kotlin]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> Python[Python]
-ML --> Ruby[Ruby]
-ML --> C#[C#]
-ML --> Vim_Script[Vim Script]
+ML --> PHP[PHP]
 ```
