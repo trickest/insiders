@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ATT}
-COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PowerShell[PowerShell]
+ML --> Rust[Rust]
+ML --> C#[C#]
 ML --> Shell[Shell]
-ML --> Python[Python]
+ML --> Elm[Elm]
+ML --> Java[Java]
 ```

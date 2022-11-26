@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{4chan}
-COMPANY_NAME ---> U{Users} ---> UN[55]
-COMPANY_NAME ---> R{Repositories} ---> RN[240]
-COMPANY_NAME ---> G{Gists} ---> GN[27]
+COMPANY_NAME ---> U{Users} ---> UN[54]
+COMPANY_NAME ---> R{Repositories} ---> RN[244]
+COMPANY_NAME ---> G{Gists} ---> GN[30]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
+ML --> HTML[HTML]
 ML --> Ruby[Ruby]
+ML --> Python[Python]
 ML --> R[R]
 ```

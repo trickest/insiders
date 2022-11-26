@@ -8,8 +8,6 @@ COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[40]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> PHP[PHP]
-ML --> Java[Java]
+ML --> Rust[Rust]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
 ```
