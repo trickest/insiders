@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{RockstarGames}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[48]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[72]
+COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Ruby[Ruby]
 ML --> Java[Java]
 ML --> CSS[CSS]
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
 ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
 ```

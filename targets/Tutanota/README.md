@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tutanota}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
-COMPANY_NAME ---> G{Gists} ---> GN[131]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[74]
+COMPANY_NAME ---> G{Gists} ---> GN[133]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Python[Python]
+ML --> C[C]
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
-ML --> Java[Java]
-ML --> HTML[HTML]
-ML --> C#[C#]
+ML --> Shell[Shell]
+ML --> Go[Go]
 ```

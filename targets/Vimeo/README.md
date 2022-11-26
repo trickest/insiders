@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Vimeo}
-COMPANY_NAME ---> U{Users} ---> UN[21]
-COMPANY_NAME ---> R{Repositories} ---> RN[497]
-COMPANY_NAME ---> G{Gists} ---> GN[535]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> G{Gists} ---> GN[57]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Rust[Rust]
-ML --> Python[Python]
+ML --> Processing[Processing]
 ```

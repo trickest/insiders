@@ -83,14 +83,14 @@
             "language": "Lua"
          },
          {
-            "url": "https://github.com/EdwardIII/docker-duplicate-network-bug",
-            "ssh_url": "git@github.com:EdwardIII/docker-duplicate-network-bug.git",
-            "language": "Shell"
-         },
-         {
             "url": "https://github.com/EdwardIII/imjur",
             "ssh_url": "git@github.com:EdwardIII/imjur.git",
             "language": "Clojure"
+         },
+         {
+            "url": "https://github.com/EdwardIII/docker-duplicate-network-bug",
+            "ssh_url": "git@github.com:EdwardIII/docker-duplicate-network-bug.git",
+            "language": "Shell"
          },
          {
             "url": "https://github.com/EdwardIII/phpdocumentor-example",
@@ -125,12 +125,22 @@
       ]
    },
    {
-      "user": "https://github.com/kelseylarson",
+      "user": "https://github.com/GregSmith",
       "repos": [
          {
-            "url": "https://github.com/kelseylarson/ICM-Codecheck",
-            "ssh_url": "git@github.com:kelseylarson/ICM-Codecheck.git",
-            "language": "Stata"
+            "url": "https://github.com/GregSmith/exams",
+            "ssh_url": "git@github.com:GregSmith/exams.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/GregSmith/exam_store",
+            "ssh_url": "git@github.com:GregSmith/exam_store.git",
+            "language": "Ruby"
+         },
+         {
+            "url": "https://github.com/GregSmith/sample_app",
+            "ssh_url": "git@github.com:GregSmith/sample_app.git",
+            "language": "Ruby"
          }
       ]
    },
@@ -158,5 +168,9 @@
             "language": ""
          }
       ]
+   },
+   {
+      "user": "https://github.com/tylerhess",
+      "repos": []
    }
 ]

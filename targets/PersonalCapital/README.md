@@ -9,6 +9,6 @@ COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> C++[C++]
-ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{YCombinator}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[264]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[36]
+COMPANY_NAME ---> G{Gists} ---> GN[21]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C++[C++]
-ML --> Python[Python]
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
 ML --> Java[Java]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
+ML --> HTML[HTML]
 ```
