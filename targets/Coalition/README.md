@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{Coalition}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Vue[Vue]
-ML --> JavaScript[JavaScript]
-ML --> Go[Go]
-ML --> CSS[CSS]
+ML --> Python[Python]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> TeX[TeX]
+ML --> Rich_Text_Format[Rich Text Format]
+ML --> MATLAB[MATLAB]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Ford}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[40]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> TypeScript[TypeScript]
-ML --> Shell[Shell]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> Python[Python]
 ML --> CSS[CSS]
+ML --> TSQL[TSQL]
+ML --> Swift[Swift]
 ```

@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Huawei}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[34]
+COMPANY_NAME ---> R{Repositories} ---> RN[36]
 COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C#[C#]

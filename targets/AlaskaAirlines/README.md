@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AlaskaAirlines}
-COMPANY_NAME ---> U{Users} ---> UN[13]
-COMPANY_NAME ---> R{Repositories} ---> RN[264]
-COMPANY_NAME ---> G{Gists} ---> GN[372]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[111]
+COMPANY_NAME ---> G{Gists} ---> GN[138]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
 ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> C#[C#]
+ML --> Shell[Shell]
+ML --> Erlang[Erlang]
+ML --> Python[Python]
 ```
