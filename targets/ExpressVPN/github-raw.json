@@ -263,16 +263,6 @@
             "language": "PHP"
          },
          {
-            "url": "https://github.com/davidthorn/vim",
-            "ssh_url": "git@github.com:davidthorn/vim.git",
-            "language": ""
-         },
-         {
-            "url": "https://github.com/davidthorn/DataRequest",
-            "ssh_url": "git@github.com:davidthorn/DataRequest.git",
-            "language": "Swift"
-         },
-         {
             "url": "https://github.com/davidthorn/GitHubUserRequest",
             "ssh_url": "git@github.com:davidthorn/GitHubUserRequest.git",
             "language": "Swift"
@@ -288,9 +278,19 @@
             "language": ""
          },
          {
-            "url": "https://github.com/davidthorn/swift-BasicTableView",
-            "ssh_url": "git@github.com:davidthorn/swift-BasicTableView.git",
+            "url": "https://github.com/davidthorn/DataRequest",
+            "ssh_url": "git@github.com:davidthorn/DataRequest.git",
             "language": "Swift"
+         },
+         {
+            "url": "https://github.com/davidthorn/vim",
+            "ssh_url": "git@github.com:davidthorn/vim.git",
+            "language": ""
+         },
+         {
+            "url": "https://github.com/davidthorn/atando-api",
+            "ssh_url": "git@github.com:davidthorn/atando-api.git",
+            "language": "HTML"
          },
          {
             "url": "https://github.com/davidthorn/snake",
@@ -303,13 +303,13 @@
             "language": "TypeScript"
          },
          {
-            "url": "https://github.com/davidthorn/atando-api",
-            "ssh_url": "git@github.com:davidthorn/atando-api.git",
-            "language": "HTML"
-         },
-         {
             "url": "https://github.com/davidthorn/dt-kit",
             "ssh_url": "git@github.com:davidthorn/dt-kit.git",
+            "language": "Swift"
+         },
+         {
+            "url": "https://github.com/davidthorn/swift-BasicTableView",
+            "ssh_url": "git@github.com:davidthorn/swift-BasicTableView.git",
             "language": "Swift"
          },
          {
@@ -418,13 +418,13 @@
             "language": "Java"
          },
          {
-            "url": "https://github.com/davidthorn/FileManagerExtensions",
-            "ssh_url": "git@github.com:davidthorn/FileManagerExtensions.git",
+            "url": "https://github.com/davidthorn/SwiftCodableExtensions",
+            "ssh_url": "git@github.com:davidthorn/SwiftCodableExtensions.git",
             "language": "Swift"
          },
          {
-            "url": "https://github.com/davidthorn/SwiftCodableExtensions",
-            "ssh_url": "git@github.com:davidthorn/SwiftCodableExtensions.git",
+            "url": "https://github.com/davidthorn/FileManagerExtensions",
+            "ssh_url": "git@github.com:davidthorn/FileManagerExtensions.git",
             "language": "Swift"
          },
          {
@@ -433,13 +433,13 @@
             "language": "Swift"
          },
          {
-            "url": "https://github.com/davidthorn/html5-clock",
-            "ssh_url": "git@github.com:davidthorn/html5-clock.git",
+            "url": "https://github.com/davidthorn/html5-pendulum",
+            "ssh_url": "git@github.com:davidthorn/html5-pendulum.git",
             "language": "TypeScript"
          },
          {
-            "url": "https://github.com/davidthorn/html5-pendulum",
-            "ssh_url": "git@github.com:davidthorn/html5-pendulum.git",
+            "url": "https://github.com/davidthorn/html5-clock",
+            "ssh_url": "git@github.com:davidthorn/html5-clock.git",
             "language": "TypeScript"
          },
          {
@@ -722,14 +722,14 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/ranadubauskas/jeapordy-game",
-            "ssh_url": "git@github.com:ranadubauskas/jeapordy-game.git",
-            "language": "JavaScript"
-         },
-         {
             "url": "https://github.com/ranadubauskas/travelrecommender",
             "ssh_url": "git@github.com:ranadubauskas/travelrecommender.git",
             "language": "HTML"
+         },
+         {
+            "url": "https://github.com/ranadubauskas/jeapordy-game",
+            "ssh_url": "git@github.com:ranadubauskas/jeapordy-game.git",
+            "language": "JavaScript"
          },
          {
             "url": "https://github.com/ranadubauskas/personality-quiz",
@@ -737,8 +737,8 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/ranadubauskas/playlist",
-            "ssh_url": "git@github.com:ranadubauskas/playlist.git",
+            "url": "https://github.com/ranadubauskas/gif-finder",
+            "ssh_url": "git@github.com:ranadubauskas/gif-finder.git",
             "language": "HTML"
          },
          {
@@ -747,23 +747,13 @@
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/ranadubauskas/gif-finder",
-            "ssh_url": "git@github.com:ranadubauskas/gif-finder.git",
+            "url": "https://github.com/ranadubauskas/playlist",
+            "ssh_url": "git@github.com:ranadubauskas/playlist.git",
             "language": "HTML"
          },
          {
             "url": "https://github.com/ranadubauskas/phertility-backend",
             "ssh_url": "git@github.com:ranadubauskas/phertility-backend.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/ranadubauskas/weather-app",
-            "ssh_url": "git@github.com:ranadubauskas/weather-app.git",
-            "language": "JavaScript"
-         },
-         {
-            "url": "https://github.com/ranadubauskas/COVID-19Tracker",
-            "ssh_url": "git@github.com:ranadubauskas/COVID-19Tracker.git",
             "language": "JavaScript"
          },
          {
@@ -777,18 +767,28 @@
             "language": "HTML"
          },
          {
+            "url": "https://github.com/ranadubauskas/COVID-19Tracker",
+            "ssh_url": "git@github.com:ranadubauskas/COVID-19Tracker.git",
+            "language": "JavaScript"
+         },
+         {
+            "url": "https://github.com/ranadubauskas/weather-app",
+            "ssh_url": "git@github.com:ranadubauskas/weather-app.git",
+            "language": "JavaScript"
+         },
+         {
             "url": "https://github.com/ranadubauskas/languagequiz",
             "ssh_url": "git@github.com:ranadubauskas/languagequiz.git",
             "language": "HTML"
          },
          {
-            "url": "https://github.com/ranadubauskas/exercise-tracker-backend",
-            "ssh_url": "git@github.com:ranadubauskas/exercise-tracker-backend.git",
+            "url": "https://github.com/ranadubauskas/exercise-tracker",
+            "ssh_url": "git@github.com:ranadubauskas/exercise-tracker.git",
             "language": "JavaScript"
          },
          {
-            "url": "https://github.com/ranadubauskas/exercise-tracker",
-            "ssh_url": "git@github.com:ranadubauskas/exercise-tracker.git",
+            "url": "https://github.com/ranadubauskas/exercise-tracker-backend",
+            "ssh_url": "git@github.com:ranadubauskas/exercise-tracker-backend.git",
             "language": "JavaScript"
          },
          {
@@ -802,13 +802,13 @@
             "language": "HTML"
          },
          {
-            "url": "https://github.com/ranadubauskas/escape-room",
-            "ssh_url": "git@github.com:ranadubauskas/escape-room.git",
+            "url": "https://github.com/ranadubauskas/restaurant-order-builder",
+            "ssh_url": "git@github.com:ranadubauskas/restaurant-order-builder.git",
             "language": "HTML"
          },
          {
-            "url": "https://github.com/ranadubauskas/restaurant-order-builder",
-            "ssh_url": "git@github.com:ranadubauskas/restaurant-order-builder.git",
+            "url": "https://github.com/ranadubauskas/escape-room",
+            "ssh_url": "git@github.com:ranadubauskas/escape-room.git",
             "language": "HTML"
          }
       ]

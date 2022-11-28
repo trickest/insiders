@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{DuckDuckGo}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[67]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[31]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> R[R]
-ML --> HTML[HTML]
-ML --> TeX[TeX]
-ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> Go[Go]
+ML --> Python[Python]
 ```

@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bit.com}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
 COMPANY_NAME ---> G{Gists} ---> GN[0]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Vim_Script[Vim Script]
-ML --> Scheme[Scheme]
+ML --> TypeScript[TypeScript]
+ML --> CSS[CSS]
 ML --> Python[Python]
-ML --> C++[C++]
+ML --> PHP[PHP]
+ML --> Vim_Script[Vim Script]
 ```
