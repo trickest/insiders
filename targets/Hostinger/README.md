@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Hostinger}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
+ML --> PHP[PHP]
 ML --> VHDL[VHDL]
-ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> CSS[CSS]
 ```

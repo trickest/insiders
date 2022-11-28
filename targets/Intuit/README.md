@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Intuit}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[23]
-COMPANY_NAME ---> G{Gists} ---> GN[153]
+COMPANY_NAME ---> R{Repositories} ---> RN[15]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
-ML --> C++[C++]
+ML --> HTML[HTML]
 ML --> C[C]
+ML --> Vue[Vue]
 ML --> Vim_Script[Vim Script]
 ```
