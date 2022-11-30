@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{HostGator}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[123]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[27]
+COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Python[Python]
+ML --> R[R]
 ML --> PHP[PHP]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> CSS[CSS]
+ML --> Smarty[Smarty]
 ```
