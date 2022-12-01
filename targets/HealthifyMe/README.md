@@ -3,13 +3,11 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HealthifyMe}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[28]
-COMPANY_NAME ---> G{Gists} ---> GN[10]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> Shell[Shell]
-ML --> Swift[Swift]
-ML --> Go[Go]
-ML --> C#[C#]
+ML --> C++[C++]
+ML --> MATLAB[MATLAB]
 ```

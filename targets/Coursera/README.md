@@ -10,5 +10,4 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> C[C]
 ML --> Python[Python]
 ML --> PHP[PHP]
-ML --> EJS[EJS]
 ```

@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{BancoPan}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[107]
-COMPANY_NAME ---> G{Gists} ---> GN[59]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[159]
+COMPANY_NAME ---> G{Gists} ---> GN[87]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> C#[C#]
-ML --> Python[Python]
+ML --> Swift[Swift]
+ML --> HTML[HTML]
 ML --> PHP[PHP]
 ```

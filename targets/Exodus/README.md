@@ -3,9 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Exodus}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[3]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
 COMPANY_NAME ---> G{Gists} ---> GN[98]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Mathematica[Mathematica]
 ML --> C++[C++]
+ML --> HCL[HCL]
+ML --> Java[Java]
+ML --> HTML[HTML]
 ```

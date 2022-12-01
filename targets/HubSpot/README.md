@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HubSpot}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[70]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> CSS[CSS]
 ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
+ML --> HTML[HTML]
+ML --> Java[Java]
 ML --> SCSS[SCSS]
-ML --> Python[Python]
 ```
