@@ -4,10 +4,9 @@
 graph LR
 COMPANY_NAME{Courier}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[4]
 COMPANY_NAME ---> G{Gists} ---> GN[31]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
 ```

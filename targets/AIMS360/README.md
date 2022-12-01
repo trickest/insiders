@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AIMS360}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[50]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> Python[Python]
-ML --> TypeScript[TypeScript]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```

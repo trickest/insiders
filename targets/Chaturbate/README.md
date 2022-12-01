@@ -4,11 +4,9 @@
 graph LR
 COMPANY_NAME{Chaturbate}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> C[C]
-ML --> Swift[Swift]
-ML --> C++[C++]
+ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
 ```
