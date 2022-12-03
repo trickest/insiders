@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Flipkart}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[31]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[90]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
-ML --> C++[C++]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> JavaScript[JavaScript]
-ML --> Makefile[Makefile]
-ML --> CMake[CMake]
+ML --> HTML[HTML]
+ML --> Java[Java]
 ```

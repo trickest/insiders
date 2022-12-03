@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Caffeine}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[65]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[76]
+COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
-ML --> Dockerfile[Dockerfile]
-ML --> Shell[Shell]
-ML --> C#[C#]
+ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
+ML --> Elixir[Elixir]
+ML --> Kotlin[Kotlin]
+ML --> C++[C++]
 ```

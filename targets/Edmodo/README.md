@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Edmodo}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[56]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[80]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
-ML --> CSS[CSS]
+ML --> HTML[HTML]
 ML --> Swift[Swift]
+ML --> Vue[Vue]
+ML --> Shell[Shell]
 ```

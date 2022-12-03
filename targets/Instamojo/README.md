@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Instamojo}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[46]
-COMPANY_NAME ---> G{Gists} ---> GN[44]
+COMPANY_NAME ---> R{Repositories} ---> RN[60]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> CSS[CSS]
 ML --> Ruby[Ruby]
-ML --> C++[C++]
+ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```

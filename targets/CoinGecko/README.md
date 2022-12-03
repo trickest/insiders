@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{CoinGecko}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[52]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[44]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> C[C]
-ML --> TypeScript[TypeScript]
+ML --> Python[Python]
+ML --> Vue[Vue]
 ML --> Ruby[Ruby]
+ML --> PHP[PHP]
 ```

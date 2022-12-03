@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ImpactGuru}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[27]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ML --> CSS[CSS]
-ML --> Blade[Blade]
 ```

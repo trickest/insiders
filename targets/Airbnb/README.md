@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Airbnb}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
 COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Perl[Perl]
-ML --> PHP[PHP]
-ML --> JavaScript[JavaScript]
+ML --> Swift[Swift]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> CSS[CSS]
+ML --> PHP[PHP]
 ```
