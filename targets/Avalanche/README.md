@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Avalanche}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[62]
-COMPANY_NAME ---> G{Gists} ---> GN[37]
+COMPANY_NAME ---> R{Repositories} ---> RN[14]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Java[Java]
-ML --> Shell[Shell]
+ML --> TypeScript[TypeScript]
+ML --> TeX[TeX]
+ML --> SCSS[SCSS]
+ML --> Objective-C[Objective-C]
 ML --> JavaScript[JavaScript]
-ML --> C[C]
 ```

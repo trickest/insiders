@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{Caffeine}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[76]
+COMPANY_NAME ---> R{Repositories} ---> RN[11]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> JavaScript[JavaScript]
-ML --> Elixir[Elixir]
-ML --> Kotlin[Kotlin]
 ML --> C++[C++]
+ML --> VHDL[VHDL]
+ML --> Python[Python]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

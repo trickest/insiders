@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> CSS[CSS]
-ML --> Ruby[Ruby]
 ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
 ```

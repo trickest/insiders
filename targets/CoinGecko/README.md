@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CoinGecko}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[44]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[69]
+COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> Vue[Vue]
+ML --> Java[Java]
+ML --> TypeScript[TypeScript]
 ML --> Ruby[Ruby]
-ML --> PHP[PHP]
 ```

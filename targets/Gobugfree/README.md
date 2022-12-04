@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Gobugfree}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[126]
+COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Vue[Vue]
+ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
-ML --> Vim_Script[Vim Script]
-ML --> Sass[Sass]
+ML --> HTML[HTML]
+ML --> PHP[PHP]
+ML --> Python[Python]
 ```
