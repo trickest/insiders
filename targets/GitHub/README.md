@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{GitHub}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[20]
 COMPANY_NAME ---> G{Gists} ---> GN[41]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
-ML --> Java[Java]
-ML --> HTML[HTML]
-ML --> C[C]
+ML --> CSS[CSS]
+ML --> C#[C#]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> C++[C++]
 ```

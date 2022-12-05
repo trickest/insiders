@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Coursera}
 COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[32]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> C[C]
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> C[C]
 ML --> C++[C++]
 ```

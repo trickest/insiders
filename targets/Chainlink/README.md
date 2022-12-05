@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Chainlink}
 COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[77]
-COMPANY_NAME ---> G{Gists} ---> GN[61]
+COMPANY_NAME ---> R{Repositories} ---> RN[145]
+COMPANY_NAME ---> G{Gists} ---> GN[63]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> TypeScript[TypeScript]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> HTML[HTML]
+ML --> TypeScript[TypeScript]
+ML --> Elixir[Elixir]
+ML --> Python[Python]
+ML --> Ruby[Ruby]
 ```
