@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Doist}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[19]
-COMPANY_NAME ---> G{Gists} ---> GN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[69]
+COMPANY_NAME ---> G{Gists} ---> GN[32]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> CSS[CSS]
-ML --> Nunjucks[Nunjucks]
+ML --> C#[C#]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> TypeScript[TypeScript]
+ML --> F#[F#]
+ML --> CSS[CSS]
 ```

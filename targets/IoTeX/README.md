@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{IoTeX}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[62]
-COMPANY_NAME ---> G{Gists} ---> GN[49]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[80]
+COMPANY_NAME ---> G{Gists} ---> GN[51]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Perl[Perl]
 ML --> Python[Python]
+ML --> Perl[Perl]
 ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
+ML --> HTML[HTML]
 ```

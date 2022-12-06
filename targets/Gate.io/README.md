@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Gate.io}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
+COMPANY_NAME ---> R{Repositories} ---> RN[20]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
-ML --> C#[C#]
 ML --> Java[Java]
 ML --> Python[Python]
 ML --> Perl_6[Perl 6]
+ML --> Perl[Perl]
 ```

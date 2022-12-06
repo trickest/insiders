@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Freshworks}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[47]
 COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> Vim_Script[Vim Script]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
+ML --> Python[Python]
+ML --> Vue[Vue]
+ML --> Java[Java]
+ML --> Ruby[Ruby]
 ```

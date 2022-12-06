@@ -3,9 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Avalanche}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
+COMPANY_NAME ---> G{Gists} ---> GN[23]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> Objective-C[Objective-C]
+ML --> Swift[Swift]
+ML --> Haskell[Haskell]
+ML --> C++[C++]
 ```
