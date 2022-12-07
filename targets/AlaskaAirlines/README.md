@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AlaskaAirlines}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[101]
-COMPANY_NAME ---> G{Gists} ---> GN[136]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[93]
+COMPANY_NAME ---> G{Gists} ---> GN[134]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Ruby[Ruby]

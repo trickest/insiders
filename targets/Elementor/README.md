@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Go[Go]
 ML --> C[C]
 ML --> PHP[PHP]
-ML --> CSS[CSS]
 ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
 ```

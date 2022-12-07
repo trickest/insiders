@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Deribit}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[157]
-COMPANY_NAME ---> G{Gists} ---> GN[26]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[131]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> TypeScript[TypeScript]
 ML --> Ruby[Ruby]

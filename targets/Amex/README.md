@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Amex}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[115]
-COMPANY_NAME ---> G{Gists} ---> GN[26]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[121]
+COMPANY_NAME ---> G{Gists} ---> GN[129]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Python[Python]
 ML --> PHP[PHP]
-ML --> Go[Go]
+ML --> Python[Python]
 ML --> HTML[HTML]
+ML --> Go[Go]
 ```

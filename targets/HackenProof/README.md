@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{HackenProof}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> Shell[Shell]
-ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
 ML --> Java[Java]
+ML --> CSS[CSS]
+ML --> C#[C#]
 ```

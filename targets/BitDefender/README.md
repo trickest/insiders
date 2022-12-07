@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{BitDefender}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[20]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> JavaScript[JavaScript]
 ML --> CSS[CSS]
+ML --> JavaScript[JavaScript]
 ML --> Swift[Swift]
 ML --> PHP[PHP]
 ```

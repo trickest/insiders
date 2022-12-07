@@ -9,7 +9,7 @@ COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]
-ML --> Ruby[Ruby]
 ML --> HTML[HTML]
 ML --> SCSS[SCSS]
+ML --> Ruby[Ruby]
 ```
