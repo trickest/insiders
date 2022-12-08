@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Canva}
 COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[30]
+COMPANY_NAME ---> R{Repositories} ---> RN[26]
 COMPANY_NAME ---> G{Gists} ---> GN[25]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> CSS[CSS]
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
+ML --> C++[C++]
 ```

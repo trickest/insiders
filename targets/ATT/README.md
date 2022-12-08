@@ -4,10 +4,12 @@
 graph LR
 COMPANY_NAME{ATT}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[41]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
-ML --> C++[C++]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> PHP[PHP]
 ML --> C[C]
+ML --> Python[Python]
 ```

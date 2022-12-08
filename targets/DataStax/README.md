@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{DataStax}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[50]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[57]
+COMPANY_NAME ---> G{Gists} ---> GN[47]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Shell[Shell]
-ML --> Java[Java]
-ML --> Kotlin[Kotlin]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Kotlin[Kotlin]
+ML --> Java[Java]
 ```

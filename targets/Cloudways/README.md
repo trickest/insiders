@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cloudways}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
-COMPANY_NAME ---> G{Gists} ---> GN[8]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
+ML --> C[C]
+ML --> OCaml[OCaml]
 ML --> Python[Python]
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> JavaScript[JavaScript]
 ML --> Shell[Shell]
-ML --> HTML[HTML]
 ```
