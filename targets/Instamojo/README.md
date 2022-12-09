@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Instamojo}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[19]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
+ML --> Vim_Script[Vim Script]
 ML --> Python[Python]
+ML --> Perl[Perl]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```

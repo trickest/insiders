@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{GOJEK}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[85]
-COMPANY_NAME ---> G{Gists} ---> GN[52]
+COMPANY_NAME ---> R{Repositories} ---> RN[129]
+COMPANY_NAME ---> G{Gists} ---> GN[54]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> TypeScript[TypeScript]
 ML --> Kotlin[Kotlin]
 ML --> Java[Java]
-ML --> HTML[HTML]
-ML --> Python[Python]
 ```
