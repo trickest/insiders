@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{CodeIgniter}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
-COMPANY_NAME ---> G{Gists} ---> GN[63]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[29]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> PHP[PHP]
-ML --> CoffeeScript[CoffeeScript]
-ML --> Vim_Script[Vim Script]
+ML --> JavaScript[JavaScript]
+ML --> Vue[Vue]
 ML --> TypeScript[TypeScript]
+ML --> PHP[PHP]
+ML --> Vim_Script[Vim Script]
 ```

@@ -5,11 +5,11 @@ graph LR
 COMPANY_NAME{Blockchain}
 COMPANY_NAME ---> U{Users} ---> UN[11]
 COMPANY_NAME ---> R{Repositories} ---> RN[110]
-COMPANY_NAME ---> G{Gists} ---> GN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[48]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> TypeScript[TypeScript]
-ML --> Ruby[Ruby]
+ML --> Rust[Rust]
 ML --> Solidity[Solidity]
 ```

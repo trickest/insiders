@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{AustraliaPost}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[85]
-COMPANY_NAME ---> G{Gists} ---> GN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[96]
+COMPANY_NAME ---> G{Gists} ---> GN[65]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Objective-C[Objective-C]
 ML --> Swift[Swift]
-ML --> PHP[PHP]
+ML --> Python[Python]
 ML --> HTML[HTML]
-ML --> Shell[Shell]
+ML --> PHP[PHP]
 ```

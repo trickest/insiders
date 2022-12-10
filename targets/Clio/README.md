@@ -4,10 +4,8 @@
 graph LR
 COMPANY_NAME{Clio}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[1]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> CSS[CSS]
-ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
 ```
