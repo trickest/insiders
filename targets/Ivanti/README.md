@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Ivanti}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[30]
 COMPANY_NAME ---> G{Gists} ---> GN[37]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> C#[C#]
+ML --> JavaScript[JavaScript]
 ML --> Scala[Scala]
 ML --> Java[Java]
-ML --> Processing[Processing]
+ML --> HTML[HTML]
 ```

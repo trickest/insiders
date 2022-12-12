@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Allegro}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[80]
-COMPANY_NAME ---> G{Gists} ---> GN[46]
+COMPANY_NAME ---> R{Repositories} ---> RN[14]
+COMPANY_NAME ---> G{Gists} ---> GN[6]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> C++[C++]
-ML --> Shell[Shell]
-ML --> Go[Go]
-ML --> JavaScript[JavaScript]
+ML --> TypeScript[TypeScript]
+ML --> Java[Java]
+ML --> C#[C#]
+ML --> PLSQL[PLSQL]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```
