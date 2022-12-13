@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Gate.io}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> Groovy[Groovy]
-ML --> C#[C#]
+ML --> Clojure[Clojure]
+ML --> Ruby[Ruby]
+ML --> Python[Python]
+ML --> Vim_Script[Vim Script]
 ```

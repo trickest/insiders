@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Google}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
-COMPANY_NAME ---> G{Gists} ---> GN[48]
+COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> G{Gists} ---> GN[49]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Racket[Racket]
 ML --> JavaScript[JavaScript]
-ML --> Haskell[Haskell]
-ML --> Kotlin[Kotlin]
-ML --> Common_Lisp[Common Lisp]
+ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
+ML --> Python[Python]
 ```

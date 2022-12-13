@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Intuit}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[13]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> TypeScript[TypeScript]
+ML --> Shell[Shell]
+ML --> Go[Go]
+ML --> Java[Java]
+ML --> Dockerfile[Dockerfile]
 ML --> C[C]
-ML --> Vim_Script[Vim Script]
-ML --> Rust[Rust]
-ML --> PHP[PHP]
 ```
