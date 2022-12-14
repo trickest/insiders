@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{IKEA}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[32]
-COMPANY_NAME ---> G{Gists} ---> GN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
-ML --> JavaScript[JavaScript]
-ML --> Vim_Script[Vim Script]
-ML --> Clojure[Clojure]
-ML --> XSLT[XSLT]
+ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> TypeScript[TypeScript]
+ML --> HTML[HTML]
+ML --> C++[C++]
 ```
