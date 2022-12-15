@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{BitGo}
-COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[138]
-COMPANY_NAME ---> G{Gists} ---> GN[375]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[114]
+COMPANY_NAME ---> G{Gists} ---> GN[19]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Clojure[Clojure]
-ML --> JavaScript[JavaScript]
 ML --> Max[Max]
+ML --> JavaScript[JavaScript]
 ML --> Python[Python]
 ML --> Java[Java]
 ```

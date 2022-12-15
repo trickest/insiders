@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hostinger}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[9]
 COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> VHDL[VHDL]
-ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ML --> CSS[CSS]
 ```

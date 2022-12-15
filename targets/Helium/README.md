@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Helium}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[39]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[45]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> Python[Python]
+ML --> R[R]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> PHP[PHP]
-ML --> Rust[Rust]
+ML --> Dockerfile[Dockerfile]
 ```

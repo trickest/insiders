@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Intercom}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[101]
-COMPANY_NAME ---> G{Gists} ---> GN[36]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Rust[Rust]
-ML --> Scala[Scala]
+ML --> Python[Python]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> JavaScript[JavaScript]
-ML --> Dart[Dart]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
 ```

@@ -8,6 +8,6 @@ COMPANY_NAME ---> R{Repositories} ---> RN[7]
 COMPANY_NAME ---> G{Gists} ---> GN[302]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> TypeScript[TypeScript]
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ```

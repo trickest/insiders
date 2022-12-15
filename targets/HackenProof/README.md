@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HackenProof}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[22]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[15]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> C[C]
+ML --> Python[Python]
+ML --> C++[C++]
 ML --> PHP[PHP]
-ML --> Java[Java]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```
