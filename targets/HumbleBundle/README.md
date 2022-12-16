@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HumbleBundle}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[71]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[56]
+COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> CSS[CSS]
 ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> PHP[PHP]
 ```

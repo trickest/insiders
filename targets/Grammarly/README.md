@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Grammarly}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[3]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> HTML[HTML]
+ML --> Java[Java]
 ML --> Swift[Swift]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
+ML --> Python[Python]
 ```

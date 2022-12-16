@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{ArkoseLabs}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[15]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
 COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> HTML[HTML]
-ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Dockerfile[Dockerfile]
+ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> Shell[Shell]
 ```

@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Clio}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
-COMPANY_NAME ---> G{Gists} ---> GN[14]
+COMPANY_NAME ---> U{Users} ---> UN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> F#[F#]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
-ML --> Java[Java]
-ML --> Makefile[Makefile]
 ML --> HTML[HTML]
+ML --> C#[C#]
 ```
