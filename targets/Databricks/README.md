@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Databricks}
 COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[74]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[88]
+COMPANY_NAME ---> G{Gists} ---> GN[34]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> Python[Python]

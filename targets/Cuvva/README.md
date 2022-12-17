@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Cuvva}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[18]
 COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> Python[Python]
 ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> HTML[HTML]
 ML --> PHP[PHP]
 ```

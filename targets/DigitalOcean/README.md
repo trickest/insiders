@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{DigitalOcean}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[15]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[39]
+COMPANY_NAME ---> G{Gists} ---> GN[18]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Ruby[Ruby]
 ML --> Python[Python]
+ML --> Go[Go]
 ML --> Shell[Shell]
-ML --> PHP[PHP]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
 ```
