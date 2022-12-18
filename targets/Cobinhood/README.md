@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Cobinhood}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[30]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[36]
+COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
 ML --> Ruby[Ruby]
+ML --> Clojure[Clojure]
 ML --> Java[Java]
-ML --> Solidity[Solidity]
 ```

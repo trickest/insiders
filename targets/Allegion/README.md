@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Allegion}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[6]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Vue[Vue]
+ML --> RAML[RAML]
 ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Python[Python]
-ML --> MATLAB[MATLAB]
-ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
 ```
