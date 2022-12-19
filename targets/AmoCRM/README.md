@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{AmoCRM}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[31]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[16]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
 ML --> JavaScript[JavaScript]
-ML --> Swift[Swift]
+ML --> PHP[PHP]
 ML --> Java[Java]
-ML --> TypeScript[TypeScript]
+ML --> Kotlin[Kotlin]
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

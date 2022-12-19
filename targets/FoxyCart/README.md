@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{FoxyCart}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> U{Users} ---> UN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[38]
 COMPANY_NAME ---> G{Gists} ---> GN[34]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> PHP[PHP]
-ML --> Java[Java]
 ML --> HTML[HTML]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Nunjucks[Nunjucks]
+ML --> CSS[CSS]
 ```

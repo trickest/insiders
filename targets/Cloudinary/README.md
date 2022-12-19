@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cloudinary}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[373]
-COMPANY_NAME ---> G{Gists} ---> GN[89]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[404]
+COMPANY_NAME ---> G{Gists} ---> GN[96]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
 ML --> Python[Python]
-ML --> C#[C#]
+ML --> Ruby[Ruby]
 ML --> CSS[CSS]
 ```
