@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Airship}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[38]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[37]
 COMPANY_NAME ---> G{Gists} ---> GN[94]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Shell[Shell]

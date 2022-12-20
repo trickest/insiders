@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CreditKarma}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[66]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
 COMPANY_NAME ---> G{Gists} ---> GN[24]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Ruby[Ruby]
 ML --> HTML[HTML]
 ML --> Python[Python]
 ML --> Shell[Shell]
+ML --> C[C]
 ```
