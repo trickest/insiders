@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{EuropeanCentralBank}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
-COMPANY_NAME ---> G{Gists} ---> GN[14]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[22]
+COMPANY_NAME ---> G{Gists} ---> GN[35]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Ruby[Ruby]
 ML --> Common_Lisp[Common Lisp]
-ML --> Clojure[Clojure]
 ML --> C[C]
+ML --> JavaScript[JavaScript]
+ML --> Clojure[Clojure]
 ```

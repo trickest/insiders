@@ -4,11 +4,9 @@
 graph LR
 COMPANY_NAME{Conclusion}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[5]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Dockerfile[Dockerfile]
-ML --> CSS[CSS]
-ML --> C[C]
+ML --> TypeScript[TypeScript]
+ML --> JavaScript[JavaScript]
 ```

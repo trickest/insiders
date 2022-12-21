@@ -4,8 +4,12 @@
 graph LR
 COMPANY_NAME{Hyatt}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[19]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> MATLAB[MATLAB]
+ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> HCL[HCL]
+ML --> Shell[Shell]
 ```
