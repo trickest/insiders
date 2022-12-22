@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AustraliaPost}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[16]
-COMPANY_NAME ---> G{Gists} ---> GN[32]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> G{Gists} ---> GN[50]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> HTML[HTML]
-ML --> Ruby[Ruby]
+ML --> Python[Python]
 ML --> Java[Java]
-ML --> C#[C#]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
 ```

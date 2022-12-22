@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Helium}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> R{Repositories} ---> RN[43]
 COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
-ML --> HTML[HTML]
-ML --> xBase[xBase]
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> Vue[Vue]
+ML --> Python[Python]
+ML --> Processing[Processing]
+ML --> Go[Go]
 ```

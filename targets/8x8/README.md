@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{8x8}
 COMPANY_NAME ---> U{Users} ---> UN[72]
-COMPANY_NAME ---> R{Repositories} ---> RN[391]
-COMPANY_NAME ---> G{Gists} ---> GN[199]
+COMPANY_NAME ---> R{Repositories} ---> RN[394]
+COMPANY_NAME ---> G{Gists} ---> GN[203]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> PHP[PHP]

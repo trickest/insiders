@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{FileZilla}
-COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[82]
-COMPANY_NAME ---> G{Gists} ---> GN[24]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[36]
+COMPANY_NAME ---> G{Gists} ---> GN[19]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
-ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> PHP[PHP]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> C++[C++]
+ML --> Go[Go]
+ML --> Ruby[Ruby]
 ```

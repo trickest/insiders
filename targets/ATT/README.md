@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{ATT}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[376]
-COMPANY_NAME ---> G{Gists} ---> GN[133]
+COMPANY_NAME ---> R{Repositories} ---> RN[375]
+COMPANY_NAME ---> G{Gists} ---> GN[162]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> JavaScript[JavaScript]
