@@ -8,5 +8,4 @@ COMPANY_NAME ---> R{Repositories} ---> RN[3]
 COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> TypeScript[TypeScript]
-ML --> CSS[CSS]
 ```

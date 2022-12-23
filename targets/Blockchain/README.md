@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> Solidity[Solidity]
-ML --> HTML[HTML]
 ML --> API_Blueprint[API Blueprint]
+ML --> Ruby[Ruby]
 ```
