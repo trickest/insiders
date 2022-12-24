@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Groww}
 COMPANY_NAME ---> U{Users} ---> UN[12]
-COMPANY_NAME ---> R{Repositories} ---> RN[61]
-COMPANY_NAME ---> G{Gists} ---> GN[20]
+COMPANY_NAME ---> R{Repositories} ---> RN[85]
+COMPANY_NAME ---> G{Gists} ---> GN[31]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> Java[Java]
 ML --> C[C]
-ML --> CSS[CSS]
-ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
 ```

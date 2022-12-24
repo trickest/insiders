@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{GoldmanSachs}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[19]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[18]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> Java[Java]
 ML --> C#[C#]
-ML --> Ruby[Ruby]
-ML --> PowerShell[PowerShell]
+ML --> Tcl[Tcl]
+ML --> SystemVerilog[SystemVerilog]
+ML --> Python[Python]
 ```

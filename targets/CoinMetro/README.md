@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CoinMetro}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[70]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
 ML --> TypeScript[TypeScript]
 ML --> JavaScript[JavaScript]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> CSS[CSS]
+ML --> C++[C++]
 ```
