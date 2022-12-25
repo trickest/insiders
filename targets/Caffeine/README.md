@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Caffeine}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[31]
+COMPANY_NAME ---> R{Repositories} ---> RN[32]
 COMPANY_NAME ---> G{Gists} ---> GN[50]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Ruby[Ruby]

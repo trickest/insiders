@@ -3,11 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Doctolib}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[6]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> U{Users} ---> UN[39]
+COMPANY_NAME ---> R{Repositories} ---> RN[177]
+COMPANY_NAME ---> G{Gists} ---> GN[49]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Jupyter_Notebook[Jupyter Notebook]
-ML --> Ruby[Ruby]
-ML --> AutoHotkey[AutoHotkey]
+ML --> JavaScript[JavaScript]
+ML --> Kotlin[Kotlin]
+ML --> Java[Java]
+ML --> Python[Python]
+ML --> HTML[HTML]
 ```

@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{BBC}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[13]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[66]
+COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
-ML --> PHP[PHP]
-ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
+ML --> Clojure[Clojure]
+ML --> Python[Python]
+ML --> C++[C++]
+ML --> Go[Go]
 ```
