@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Consensys}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[32]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[4]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
 ML --> C[C]
-ML --> Python[Python]
-ML --> OCaml[OCaml]
 ML --> JavaScript[JavaScript]
+ML --> OCaml[OCaml]
+ML --> HTML[HTML]
 ```

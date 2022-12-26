@@ -3,13 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Atlassian}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[24]
-COMPANY_NAME ---> G{Gists} ---> GN[117]
+COMPANY_NAME ---> U{Users} ---> UN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Objective-C[Objective-C]
-ML --> C++[C++]
-ML --> Java[Java]
-ML --> CMake[CMake]
-ML --> Makefile[Makefile]
+ML --> JavaScript[JavaScript]
+ML --> Shell[Shell]
+ML --> PHP[PHP]
+ML --> HCL[HCL]
 ```
