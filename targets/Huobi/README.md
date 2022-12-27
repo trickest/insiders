@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Huobi}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[32]
-COMPANY_NAME ---> G{Gists} ---> GN[13]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[97]
+COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Haskell[Haskell]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> Vim_Script[Vim Script]
-ML --> TypeScript[TypeScript]
-ML --> TeX[TeX]
+ML --> Haskell[Haskell]
+ML --> C++[C++]
+ML --> C[C]
 ```

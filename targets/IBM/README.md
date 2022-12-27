@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{IBM}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[88]
+COMPANY_NAME ---> R{Repositories} ---> RN[33]
 COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> JavaScript[JavaScript]
 ML --> HTML[HTML]
-ML --> Kotlin[Kotlin]
+ML --> Python[Python]
 ML --> CSS[CSS]
+ML --> JavaScript[JavaScript]
+ML --> C++[C++]
 ```

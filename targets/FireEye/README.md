@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{FireEye}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[52]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> C++[C++]
+ML --> C#[C#]
 ML --> JavaScript[JavaScript]
-ML --> Java[Java]
+ML --> CSS[CSS]
 ML --> Shell[Shell]
-ML --> Python[Python]
-ML --> PHP[PHP]
 ```
