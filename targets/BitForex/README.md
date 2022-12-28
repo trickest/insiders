@@ -10,6 +10,6 @@ COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
 ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Java[Java]
-ML --> HTML[HTML]
+ML --> Mathematica[Mathematica]
 ML --> Vim_Script[Vim Script]
 ```

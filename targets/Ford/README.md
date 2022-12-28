@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{Ford}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[14]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[9]
+COMPANY_NAME ---> G{Gists} ---> GN[14]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
 ML --> Python[Python]
-ML --> HTML[HTML]
-ML --> C#[C#]
+ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

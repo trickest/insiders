@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Bullish}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[37]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
+COMPANY_NAME ---> G{Gists} ---> GN[11]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ML --> HTML[HTML]
 ML --> CSS[CSS]
-ML --> PHP[PHP]
-ML --> Java[Java]
+ML --> C++[C++]
 ```

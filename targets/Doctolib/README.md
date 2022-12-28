@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Doctolib}
 COMPANY_NAME ---> U{Users} ---> UN[37]
-COMPANY_NAME ---> R{Repositories} ---> RN[161]
-COMPANY_NAME ---> G{Gists} ---> GN[49]
+COMPANY_NAME ---> R{Repositories} ---> RN[180]
+COMPANY_NAME ---> G{Gists} ---> GN[56]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Kotlin[Kotlin]
 ML --> Python[Python]
+ML --> Kotlin[Kotlin]
 ML --> Java[Java]
 ML --> HTML[HTML]
 ```
