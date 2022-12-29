@@ -3,10 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hootsuite}
-COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[6]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> Kotlin[Kotlin]
+ML --> Ruby[Ruby]
+ML --> JavaScript[JavaScript]
+ML --> Makefile[Makefile]
+ML --> Puppet[Puppet]
 ```

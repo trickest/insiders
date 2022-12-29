@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Fitbit}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[77]
-COMPANY_NAME ---> G{Gists} ---> GN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[33]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> CSS[CSS]
 ML --> TypeScript[TypeScript]
-ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> Perl[Perl]
 ```
