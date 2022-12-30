@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{CoinMetro}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[11]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
 COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> TypeScript[TypeScript]
+ML --> JavaScript[JavaScript]
 ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> C++[C++]
-ML --> C[C]
-ML --> Python[Python]
-ML --> Pep8[Pep8]
 ```

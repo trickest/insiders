@@ -7,9 +7,9 @@ COMPANY_NAME ---> U{Users} ---> UN[2]
 COMPANY_NAME ---> R{Repositories} ---> RN[11]
 COMPANY_NAME ---> G{Gists} ---> GN[10]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> C++[C++]
+ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
 ML --> CSS[CSS]
-ML --> C[C]
 ```

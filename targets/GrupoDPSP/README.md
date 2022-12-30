@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{GrupoDPSP}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[6]
-COMPANY_NAME ---> G{Gists} ---> GN[12]
+COMPANY_NAME ---> R{Repositories} ---> RN[38]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
+ML --> C++[C++]
 ML --> C[C]
 ML --> Python[Python]
-ML --> Go[Go]
+ML --> VHDL[VHDL]
+ML --> SystemVerilog[SystemVerilog]
 ```

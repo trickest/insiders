@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{BMWGroup}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[30]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[42]
+COMPANY_NAME ---> G{Gists} ---> GN[46]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
 ML --> Python[Python]
-ML --> PHP[PHP]
-ML --> Java[Java]
+ML --> CSS[CSS]
 ```
