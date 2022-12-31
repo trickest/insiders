@@ -4,9 +4,11 @@
 graph LR
 COMPANY_NAME{Harvest}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
 COMPANY_NAME ---> G{Gists} ---> GN[16]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Jupyter_Notebook[Jupyter Notebook]
 ML --> Java[Java]
-ML --> R[R]
+ML --> Python[Python]
+ML --> Dockerfile[Dockerfile]
 ```

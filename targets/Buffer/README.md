@@ -4,11 +4,8 @@
 graph LR
 COMPANY_NAME{Buffer}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[2]
 COMPANY_NAME ---> G{Gists} ---> GN[15]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Kotlin[Kotlin]
-ML --> JavaScript[JavaScript]
-ML --> Handlebars[Handlebars]
-ML --> HTML[HTML]
 ```

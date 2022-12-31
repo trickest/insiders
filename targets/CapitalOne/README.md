@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{CapitalOne}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[37]
-COMPANY_NAME ---> G{Gists} ---> GN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[35]
+COMPANY_NAME ---> G{Gists} ---> GN[29]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
+ML --> Haskell[Haskell]
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]
-ML --> CSS[CSS]
-ML --> Shell[Shell]
+ML --> Python[Python]
+ML --> HTML[HTML]
 ```

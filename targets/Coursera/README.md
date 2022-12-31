@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Coursera}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[20]
-COMPANY_NAME ---> G{Gists} ---> GN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[71]
+COMPANY_NAME ---> G{Gists} ---> GN[93]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Go[Go]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> TypeScript[TypeScript]
-ML --> HTML[HTML]
-ML --> SCSS[SCSS]
+ML --> PHP[PHP]
 ML --> Java[Java]
 ```
