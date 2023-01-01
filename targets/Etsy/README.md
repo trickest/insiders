@@ -3,11 +3,12 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Etsy}
-COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
-COMPANY_NAME ---> G{Gists} ---> GN[11]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[8]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Vue[Vue]
-ML --> TypeScript[TypeScript]
-ML --> HTML[HTML]
+ML --> Ruby[Ruby]
+ML --> CSS[CSS]
+ML --> C#[C#]
+ML --> Vim_Script[Vim Script]
 ```
