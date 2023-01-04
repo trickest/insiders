@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{Bitrue}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[19]
+COMPANY_NAME ---> R{Repositories} ---> RN[17]
 COMPANY_NAME ---> G{Gists} ---> GN[40]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C#[C#]
 ML --> Java[Java]
+ML --> C#[C#]
 ML --> PHP[PHP]
-ML --> C++[C++]
 ML --> CSS[CSS]
 ```

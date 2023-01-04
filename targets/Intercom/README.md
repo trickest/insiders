@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Intercom}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[38]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> U{Users} ---> UN[14]
+COMPANY_NAME ---> R{Repositories} ---> RN[53]
+COMPANY_NAME ---> G{Gists} ---> GN[22]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]
+ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
+ML --> Swift[Swift]
 ML --> Python[Python]
-ML --> Jupyter_Notebook[Jupyter Notebook]
 ```

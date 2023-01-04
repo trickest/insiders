@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hyperledger}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[171]
-COMPANY_NAME ---> G{Gists} ---> GN[25]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[176]
+COMPANY_NAME ---> G{Gists} ---> GN[26]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
+ML --> C#[C#]
 ML --> Python[Python]
 ML --> CSS[CSS]
-ML --> Java[Java]
 ML --> HTML[HTML]
 ```

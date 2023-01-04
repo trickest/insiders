@@ -4,12 +4,7 @@
 graph LR
 COMPANY_NAME{BitDefender}
 COMPANY_NAME ---> U{Users} ---> UN[1]
-COMPANY_NAME ---> R{Repositories} ---> RN[47]
+COMPANY_NAME ---> R{Repositories} ---> RN[1]
 COMPANY_NAME ---> G{Gists} ---> GN[25]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> HTML[HTML]
-ML --> Vim_Script[Vim Script]
-ML --> Ruby[Ruby]
 ```

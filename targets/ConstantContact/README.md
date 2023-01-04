@@ -4,12 +4,11 @@
 graph LR
 COMPANY_NAME{ConstantContact}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[55]
-COMPANY_NAME ---> G{Gists} ---> GN[36]
+COMPANY_NAME ---> R{Repositories} ---> RN[24]
+COMPANY_NAME ---> G{Gists} ---> GN[7]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> C++[C++]
-ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
+ML --> CSS[CSS]
+ML --> Shell[Shell]
 ML --> Python[Python]
+ML --> Ruby[Ruby]
 ```
