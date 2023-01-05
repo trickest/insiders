@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Consensys}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[41]
+COMPANY_NAME ---> U{Users} ---> UN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[13]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
-ML --> HTML[HTML]
 ML --> Java[Java]
-ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
+ML --> TypeScript[TypeScript]
+ML --> SCSS[SCSS]
 ```

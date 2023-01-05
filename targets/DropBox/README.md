@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{DropBox}
-COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[18]
-COMPANY_NAME ---> G{Gists} ---> GN[17]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[43]
+COMPANY_NAME ---> G{Gists} ---> GN[25]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
 ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> Lua[Lua]
+ML --> C#[C#]
 ML --> Rust[Rust]
-ML --> TypeScript[TypeScript]
-ML --> PHP[PHP]
 ```

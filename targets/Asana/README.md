@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Asana}
-COMPANY_NAME ---> U{Users} ---> UN[10]
-COMPANY_NAME ---> R{Repositories} ---> RN[56]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[12]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
+ML --> Jupyter_Notebook[Jupyter Notebook]
+ML --> R[R]
 ML --> Python[Python]
-ML --> Perl[Perl]
-ML --> Vue[Vue]
+ML --> MATLAB[MATLAB]
 ```

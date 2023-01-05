@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Backblaze}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
-COMPANY_NAME ---> G{Gists} ---> GN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Python[Python]
+ML --> PHP[PHP]
+ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> Go[Go]
-ML --> CSS[CSS]
-ML --> Vim_Script[Vim Script]
+ML --> Shell[Shell]
 ```

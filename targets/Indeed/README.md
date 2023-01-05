@@ -3,12 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Indeed}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[10]
-COMPANY_NAME ---> G{Gists} ---> GN[28]
+COMPANY_NAME ---> U{Users} ---> UN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[76]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> C++[C++]
-ML --> C#[C#]
-ML --> C[C]
-ML --> Kotlin[Kotlin]
+ML --> Scheme[Scheme]
+ML --> Common_Lisp[Common Lisp]
+ML --> JavaScript[JavaScript]
+ML --> PLpgSQL[PLpgSQL]
+ML --> Emacs_Lisp[Emacs Lisp]
 ```
