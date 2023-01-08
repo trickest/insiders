@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{FoxyCart}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[106]
-COMPANY_NAME ---> G{Gists} ---> GN[134]
+COMPANY_NAME ---> R{Repositories} ---> RN[36]
+COMPANY_NAME ---> G{Gists} ---> GN[34]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Scala[Scala]
 ML --> PHP[PHP]
+ML --> JavaScript[JavaScript]
 ML --> Java[Java]
 ML --> HTML[HTML]
-ML --> JavaScript[JavaScript]
+ML --> Nunjucks[Nunjucks]
 ```

@@ -4,11 +4,11 @@
 graph LR
 COMPANY_NAME{Codefi}
 COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[89]
-COMPANY_NAME ---> G{Gists} ---> GN[148]
+COMPANY_NAME ---> R{Repositories} ---> RN[88]
+COMPANY_NAME ---> G{Gists} ---> GN[124]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> TypeScript[TypeScript]
+ML --> Java[Java]
 ML --> Ruby[Ruby]
 ML --> HTML[HTML]
 ML --> JavaScript[JavaScript]

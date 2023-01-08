@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Freshworks}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[136]
-COMPANY_NAME ---> G{Gists} ---> GN[107]
+COMPANY_NAME ---> U{Users} ---> UN[4]
+COMPANY_NAME ---> R{Repositories} ---> RN[23]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> CoffeeScript[CoffeeScript]
-ML --> Go[Go]
-ML --> TypeScript[TypeScript]
+ML --> PHP[PHP]
+ML --> Scala[Scala]
+ML --> Objective-C[Objective-C]
+ML --> MATLAB[MATLAB]
 ```

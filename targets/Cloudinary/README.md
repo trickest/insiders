@@ -3,9 +3,9 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Cloudinary}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[372]
-COMPANY_NAME ---> G{Gists} ---> GN[93]
+COMPANY_NAME ---> U{Users} ---> UN[8]
+COMPANY_NAME ---> R{Repositories} ---> RN[339]
+COMPANY_NAME ---> G{Gists} ---> GN[49]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
