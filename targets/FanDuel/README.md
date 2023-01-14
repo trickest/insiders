@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{FanDuel}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[7]
-COMPANY_NAME ---> G{Gists} ---> GN[16]
+COMPANY_NAME ---> R{Repositories} ---> RN[119]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Swift[Swift]
-ML --> Vue[Vue]
-ML --> R[R]
-ML --> PHP[PHP]
-ML --> JavaScript[JavaScript]
+ML --> Python[Python]
+ML --> Shell[Shell]
+ML --> Go[Go]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
 ```

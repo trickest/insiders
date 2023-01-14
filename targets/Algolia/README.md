@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Algolia}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[27]
-COMPANY_NAME ---> G{Gists} ---> GN[3]
+COMPANY_NAME ---> R{Repositories} ---> RN[28]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Python[Python]
-ML --> C++[C++]
+ML --> PHP[PHP]
+ML --> HTML[HTML]
 ML --> Liquid[Liquid]
-ML --> CSS[CSS]
 ```

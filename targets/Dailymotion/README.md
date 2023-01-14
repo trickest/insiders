@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Dailymotion}
 COMPANY_NAME ---> U{Users} ---> UN[7]
-COMPANY_NAME ---> R{Repositories} ---> RN[68]
-COMPANY_NAME ---> G{Gists} ---> GN[15]
+COMPANY_NAME ---> R{Repositories} ---> RN[74]
+COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Ruby[Ruby]
 ML --> JavaScript[JavaScript]
+ML --> Groovy[Groovy]
 ML --> Python[Python]
-ML --> Shell[Shell]
-ML --> Rust[Rust]
+ML --> HTML[HTML]
+ML --> C++[C++]
 ```
