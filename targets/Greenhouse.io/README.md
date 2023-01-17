@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Greenhouse.io}
-COMPANY_NAME ---> U{Users} ---> UN[11]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
+COMPANY_NAME ---> U{Users} ---> UN[7]
+COMPANY_NAME ---> R{Repositories} ---> RN[13]
 COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> HTML[HTML]
-ML --> C#[C#]
 ML --> Swift[Swift]
+ML --> Python[Python]
+ML --> HTML[HTML]
 ML --> Ruby[Ruby]
+ML --> Perl[Perl]
 ```

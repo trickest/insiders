@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Bitfinex}
-COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[42]
-COMPANY_NAME ---> G{Gists} ---> GN[64]
+COMPANY_NAME ---> U{Users} ---> UN[9]
+COMPANY_NAME ---> R{Repositories} ---> RN[69]
+COMPANY_NAME ---> G{Gists} ---> GN[1]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> JavaScript[JavaScript]
 ML --> C[C]
+ML --> TypeScript[TypeScript]
 ML --> HTML[HTML]
 ML --> C++[C++]
-ML --> Python[Python]
-ML --> MATLAB[MATLAB]
 ```

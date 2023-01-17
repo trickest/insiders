@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Amazon}
 COMPANY_NAME ---> U{Users} ---> UN[4]
-COMPANY_NAME ---> R{Repositories} ---> RN[29]
-COMPANY_NAME ---> G{Gists} ---> GN[314]
+COMPANY_NAME ---> R{Repositories} ---> RN[45]
+COMPANY_NAME ---> G{Gists} ---> GN[8]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Go[Go]
-ML --> Nim[Nim]
-ML --> Shell[Shell]
-ML --> Ruby[Ruby]
-ML --> Python[Python]
+ML --> Java[Java]
+ML --> JavaScript[JavaScript]
+ML --> C#[C#]
+ML --> HTML[HTML]
+ML --> C++[C++]
 ```

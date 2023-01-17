@@ -4,10 +4,12 @@
 graph LR
 COMPANY_NAME{Facebook}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[4]
-COMPANY_NAME ---> G{Gists} ---> GN[2]
+COMPANY_NAME ---> R{Repositories} ---> RN[97]
+COMPANY_NAME ---> G{Gists} ---> GN[5]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
-ML --> Emacs_Lisp[Emacs Lisp]
-ML --> C++[C++]
+ML --> CSS[CSS]
+ML --> JavaScript[JavaScript]
+ML --> Rust[Rust]
+ML --> HTML[HTML]
+ML --> Rich_Text_Format[Rich Text Format]
 ```
