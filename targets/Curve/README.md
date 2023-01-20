@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Curve}
 COMPANY_NAME ---> U{Users} ---> UN[6]
-COMPANY_NAME ---> R{Repositories} ---> RN[27]
-COMPANY_NAME ---> G{Gists} ---> GN[13]
+COMPANY_NAME ---> R{Repositories} ---> RN[65]
+COMPANY_NAME ---> G{Gists} ---> GN[2]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
-ML --> HTML[HTML]
+ML --> Go[Go]
 ML --> PHP[PHP]
-ML --> TypeScript[TypeScript]
+ML --> Ruby[Ruby]
+ML --> HTML[HTML]
+ML --> C#[C#]
 ```

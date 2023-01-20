@@ -3,13 +3,13 @@
 ```mermaid
 graph LR
 COMPANY_NAME{InVision}
-COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[25]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> U{Users} ---> UN[11]
+COMPANY_NAME ---> R{Repositories} ---> RN[87]
+COMPANY_NAME ---> G{Gists} ---> GN[13]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Java[Java]
-ML --> C#[C#]
+ML --> Python[Python]
 ML --> JavaScript[JavaScript]
-ML --> C++[C++]
-ML --> C[C]
+ML --> Ruby[Ruby]
+ML --> PHP[PHP]
 ```

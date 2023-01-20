@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{EFF}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[72]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[21]
+COMPANY_NAME ---> G{Gists} ---> GN[219]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> PHP[PHP]
-ML --> Python[Python]
+ML --> Common_Lisp[Common Lisp]
 ML --> JavaScript[JavaScript]
-ML --> Rust[Rust]
-ML --> Java[Java]
+ML --> Haskell[Haskell]
+ML --> Scala[Scala]
+ML --> Python[Python]
 ```

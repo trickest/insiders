@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{Clario}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[8]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[54]
+COMPANY_NAME ---> G{Gists} ---> GN[16]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Java[Java]
 ML --> JavaScript[JavaScript]
-ML --> PHP[PHP]
-ML --> Blade[Blade]
+ML --> Perl[Perl]
+ML --> Python[Python]
+ML --> HTML[HTML]
+ML --> Ruby[Ruby]
 ```

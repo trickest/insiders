@@ -4,10 +4,12 @@
 graph LR
 COMPANY_NAME{DropBox}
 COMPANY_NAME ---> U{Users} ---> UN[3]
-COMPANY_NAME ---> R{Repositories} ---> RN[5]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> R{Repositories} ---> RN[61]
+COMPANY_NAME ---> G{Gists} ---> GN[12]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> HTML[HTML]
+ML --> Go[Go]
+ML --> Ruby[Ruby]
+ML --> Java[Java]
+ML --> TypeScript[TypeScript]
 ML --> JavaScript[JavaScript]
-ML --> CSS[CSS]
 ```
