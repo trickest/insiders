@@ -3,13 +3,11 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Hotbit}
-COMPANY_NAME ---> U{Users} ---> UN[9]
-COMPANY_NAME ---> R{Repositories} ---> RN[27]
-COMPANY_NAME ---> G{Gists} ---> GN[27]
+COMPANY_NAME ---> U{Users} ---> UN[6]
+COMPANY_NAME ---> R{Repositories} ---> RN[6]
+COMPANY_NAME ---> G{Gists} ---> GN[24]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
+ML --> Assembly[Assembly]
+ML --> R[R]
 ML --> Python[Python]
-ML --> JavaScript[JavaScript]
-ML --> Java[Java]
-ML --> HTML[HTML]
-ML --> C#[C#]
 ```

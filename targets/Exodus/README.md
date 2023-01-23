@@ -4,12 +4,12 @@
 graph LR
 COMPANY_NAME{Exodus}
 COMPANY_NAME ---> U{Users} ---> UN[5]
-COMPANY_NAME ---> R{Repositories} ---> RN[17]
+COMPANY_NAME ---> R{Repositories} ---> RN[24]
 COMPANY_NAME ---> G{Gists} ---> GN[156]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> Mathematica[Mathematica]
-ML --> Python[Python]
+ML --> Java[Java]
+ML --> HTML[HTML]
 ML --> TypeScript[TypeScript]
 ML --> Shell[Shell]
-ML --> Ruby[Ruby]
 ```

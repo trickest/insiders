@@ -4,11 +4,12 @@
 graph LR
 COMPANY_NAME{BugPoC}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[9]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> R{Repositories} ---> RN[67]
+COMPANY_NAME ---> G{Gists} ---> GN[62]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
-ML --> Python[Python]
+ML --> TypeScript[TypeScript]
 ML --> JavaScript[JavaScript]
-ML --> Shell[Shell]
-ML --> C[C]
+ML --> Dart[Dart]
+ML --> HTML[HTML]
+ML --> CSS[CSS]
 ```
