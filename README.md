@@ -13,7 +13,7 @@ Company employees' accounts, especially online git repositories, can leak sensit
 │   │   └── README.md                            # Markdown file containing multiple statistics describing the collected data
 ```
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
 
 ## How it works
 A [Trickest](https://trickest.com) workflow collects a list of targets, enumerates their employees, collects their data, cleans it up, and pushes it to this repository.
@@ -37,4 +37,4 @@ All contributions/ideas/suggestions are welcome! If you want to add/edit a targe
 ## Build your own workflows!
 We believe in the value of tinkering. Sign up for a demo on [trickest.com](https://trickest.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
